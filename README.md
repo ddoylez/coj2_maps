@@ -24,3 +24,7 @@ found [here](https://drive.google.com/file/d/12HkWfwv-7gAKSQzIHQFQ3hJN3iJkNIVp/v
    Blood/
 
 I am not totally sure which maps require what files out of characters and creatures, so make sure they are there regardless of what maps you load from mapsnet.
+
+Maps pancho and panchoville conflict with each other. Whichever map you choose to add should be in a folder named "pancho"
+
+Maps last_bullet_rebirth and last_bullet_rebirth_gc conflict with each other. Whichever map you choose to add should be in a folder named "last_bullet_rebirth"
