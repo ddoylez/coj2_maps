@@ -14,7 +14,7 @@ The Maps for CoJ2 can be put into 3 categories.
  - [ModDB/GamePressure](https://www.gamepressure.com/download.asp?ID=60732)
 
 ## Custom Map Limitations
-For ease of install, custom maps should use _MP_MAP_CUSTOM0 through _MP_MAP_CUSTOM29 for the MapId in the map's .trk file. Reusing a MapId only causes issues when a server/lobby tries to load a MapId that has already been used.
+For ease of install, custom maps should use _MP_MAP_CUSTOM0 through _MP_MAP_CUSTOM29 for the MapId in the map's .trk file. Reusing a MapId only causes issues when a server/lobby tries to load a MapId that has already been used in that session.
 
 ## How to Install Custom Maps
 
@@ -25,7 +25,7 @@ found [here](https://drive.google.com/file/d/12HkWfwv-7gAKSQzIHQFQ3hJN3iJkNIVp/v
 2. Copy characters, creatures, and mapsnet into the above folder
 3. Make sure you have data/characters, data/creatures, and data/mapsnet in .../Documents/Call of Juarez - Bound in
    Blood/
----
+
 data/characters and data/creatures is required for
 - calico_ghost_town
 - calico_ghost_town2
@@ -36,11 +36,11 @@ data/characters and data/creatures is required for
 - new_bouquet
 - pancho
 - somerton
----
+
 data/mapsnet/rampage is required for
 - enclosure
----
+
 ### Duplicate Maps
-Duplicate maps are two maps with the same internal filenames. Instead of completely rewriting that are exactly the same so that they can both be loaded, I will make a note about them. Whichever map you decide to load much be in a folder with the same name as .exp/.trk/.sobj file
+Duplicate maps are maps with the same internal filenames. Instead of completely rewriting/renaming files that are exactly the same so that they can both be loaded, I will make a note about them. Whichever map you decide to load much be in a folder with the same name as the .exp/.trk/.sobj file
 - pancho and pancho2
--  last_bullet_rebirth and last_bullet_rebirth2
+- last_bullet_rebirth and last_bullet_rebirth2
