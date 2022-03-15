@@ -1,0 +1,86 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM27)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Pancho/deathmatch.eds")
+	MapTitle("PanchoVille")
+	SaveName("PanchoVille")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Pancho_map.dds",1248,1248,1248,1248,15000,15000)	
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Pancho/teamdeathmatch.eds")
+	MapTitle("PanchoVille")
+	SaveName("PanchoVille")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Pancho_map.dds",1248,1248,1248,1248,15000,15000)	
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading6.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Pancho/wanted.eds")
+	MapTitle("PanchoVille")
+	SaveName("PanchoVille")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Pancho_map.dds",1248,1248,1248,1248,15000,15000)	
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Pancho/teamwanted.eds")
+	MapTitle("PanchoVille")
+	SaveName("PanchoVille")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Pancho_map.dds",1248,1248,1248,1248,15000,15000)	
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Pancho_map.dds","Pancho_loading6.dds",0,0,1)
+	}
+}
+

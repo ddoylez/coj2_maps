@@ -217,14 +217,15 @@
     "map_set": "heaven"
   },
   {
-    "folder_name": "last_bullet_rebirth",
+    "folder_name": "last_bullet_rebirth2",
     "map_name": "Last bullet rebirth",
-    "map_id_var": "_MP_MAP_CUSTOM19",
+    "map_id_var": "_MP_MAP_CUSTOM20",
     "map_id": "31",
-    "map_set": "custom"
+    "map_set": "custom",
+	"note": "dupe of last_bullet_rebirth"
   },
   {
-    "folder_name": "last_bullet_rebirth_gc",
+    "folder_name": "last_bullet_rebirth",
     "map_name": "Grand Canyon",
     "map_id_var": "_MP_MAP_CUSTOM20",
     "map_id": "32",
@@ -280,11 +281,12 @@
     "map_set": "custom"
   },
   {
-    "folder_name": "panchoville",
+    "folder_name": "pancho2",
     "map_name": "PanchoVille",
-    "map_id_var": "_MP_MAP_CUSTOM28",
+    "map_id_var": "_MP_MAP_CUSTOM27",
     "map_id": "40",
-    "map_set": "heaven"
+    "map_set": "heaven",
+	"note": "dupe of pancho"
   },
   {
     "folder_name": "somerton",
@@ -296,7 +298,7 @@
   {
     "folder_name": "tombstone_1888",
     "map_name": "Redemption",
-    "map_id_var": "_MP_MAP_CUSTOM10",
+    "map_id_var": "_MP_MAP_CUSTOM28",
     "map_id": "22",
     "map_set": "heaven"
   },

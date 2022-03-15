@@ -1,0 +1,22 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM20)
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Last_bullet_rebirth/teamdeathmatch.eds")
+	MapTitle("Last bullet rebirth")
+	SaveName("Last_bullet_rebirth")
+	ModeName("&MP_MODE_Skirmish&")
+    ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_Last_Bullet.ogg")
+	InGameMap("Last_bullet_rebirth_map.dds",1248,1248,1248,1248,15000,15000)	
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Last_bullet_rebirth_map.dds","Last_bullet_rebirth_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Last_bullet_rebirth_map.dds","Last_bullet_rebirth_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Last_bullet_rebirth_map.dds","Last_bullet_rebirth_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Last_bullet_rebirth_map.dds","Last_bullet_rebirth_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Last_bullet_rebirth_map.dds","Last_bullet_rebirth_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Last_bullet_rebirth_map.dds","Last_bullet_rebirth_loading6.dds",0,0,1)
+	}
+}

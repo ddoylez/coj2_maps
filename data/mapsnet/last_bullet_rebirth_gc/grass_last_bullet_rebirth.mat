@@ -1,6 +1,0 @@
-import "grass.mtt"
-
-sub material()
-{
-	use mtt_grass(s_clr = "grass_ghosttown.dds");
-}

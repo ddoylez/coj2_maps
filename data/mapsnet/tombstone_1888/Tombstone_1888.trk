@@ -1,5 +1,5 @@
 !include("Track.def")
-MapId(_MP_MAP_CUSTOM10)
+MapId(_MP_MAP_CUSTOM28)
 Group("deathmatch")
 {
 	Objects("Data/MapsNet/Tombstone_1888/deathmatch.eds")

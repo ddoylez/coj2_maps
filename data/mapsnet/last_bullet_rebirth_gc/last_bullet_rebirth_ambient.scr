@@ -1,6 +1,0 @@
-!include("AmbientSounds.def")
-!AmbientVolume(fMasterVolume, fTrack00Volume, fTrack01Volume, fTrack02Volume)
-!AmbientSound(sId, sFileName, nTrack, nLoops, fVolume, fFadeIn, fFadeOut) // 0-2
-
-AmbientVolume(1, 1, 1, 1)
-

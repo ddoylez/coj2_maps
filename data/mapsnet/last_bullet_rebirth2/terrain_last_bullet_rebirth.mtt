@@ -1,0 +1,42 @@
+import "terrain_0agc.mtt"
+
+extern string s_ter_clr;
+extern string s_ter_nrm;
+extern string s_ter_mask;
+
+export float f_border_min = 0.45;
+export float f_border_max = 0.90;
+export string s_clr_0 = "normal_sable.dds";
+export string s_clr_a = "town_ground_c.dds";
+export string s_clr_g = "soil_ground_b.dds"; //soil_ground_c.dds
+export string s_clr_c = "stone_arizona_b.dds";
+export string s_clr_c_srf = "srf_stone_b.dds";
+export string s_clr_c_srf = s_tex_def;
+export string s_clr_lod = s_ter_clr;
+export string s_msk = s_ter_mask;
+export string s_nrm = s_ter_nrm;
+export string s_nrm_0 = "grass_ground_b_nrm.dds";
+export string s_nrm_a = "town_ground_c_nrm.dds";
+export string s_nrm_g = "soil_ground_b_nrm.dds";
+export string s_nrm_c = "stone_arizona_b_nrm.dds";
+//export string s_nrm_c_srf = "srf_stone_b_nrm.dds"; //rock wall only
+export string s_nrm_c_srf = "srf_stone_b_nrm.dds"; //rock wall only
+export float f_nrm_0_scale = 1.0;
+export float f_nrm_a_scale = 1.0;
+export float f_nrm_g_scale = 1.0;
+export float f_nrm_c_scale = 1.0;
+export float f_nrm_c_srf_scale = 1.0;
+export string s_shn_0 = "grass_ground_b_shn.dds";
+export string s_shn_a = "town_ground_c_shn.dds";
+export string s_shn_g = "soil_ground_b_shn.dds";
+export string s_shn_c = "stone_arizona_b_shn.dds";
+export string s_shn_c_srf = s_tex_def;
+export float f_shn_0_factor = 0.3;
+export float f_shn_a_factor = 0.3;
+export float f_shn_g_factor = 0.15;
+export float f_shn_c_factor = 0.5;
+export float f_shn_c_shn_factor = 1.0;
+export float f_uv_clf_scale = 0.0002;
+export float f_uv_det_scale = 0.00215000030584633350;
+export float f_uv_srf_scale = 0.005; //terrain_0agc scale
+export float f_srf_uv_scale = 20.0; //rock walls
