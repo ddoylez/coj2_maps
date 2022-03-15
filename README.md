@@ -1,3 +1,4 @@
+
 # CoJ2 Custom Maps
 
 This is a compilation of all custom maps that I have been able to find.
@@ -24,9 +25,22 @@ found [here](https://drive.google.com/file/d/12HkWfwv-7gAKSQzIHQFQ3hJN3iJkNIVp/v
 2. Copy characters, creatures, and mapsnet into the above folder
 3. Make sure you have data/characters, data/creatures, and data/mapsnet in .../Documents/Call of Juarez - Bound in
    Blood/
-
-I am not totally sure which maps require what files out of characters and creatures, so make sure they are there regardless of what maps you load from mapsnet.
-
-Maps pancho and pancho2 are duplicates. Whichever map you choose to add should be in a folder named "pancho"
-
-Maps last_bullet_rebirth and last_bullet_rebirth2 are duplicates. Whichever map you choose to add should be in a folder named "last_bullet_rebirth"
+---
+data/characters and data/creatures is required for
+- calico_ghost_town
+- calico_ghost_town2
+- cursed_land
+- enclosure
+- last_bullet_rebirth2
+- little_canyon
+- new_bouquet
+- pancho
+- somerton
+---
+data/mapsnet/rampage is required for
+- enclosure
+---
+### Duplicate Maps
+Duplicate maps are two maps with the same internal filenames. Instead of completely rewriting that are exactly the same so that they can both be loaded, I will make a note about them. Whichever map you decide to load much be in a folder with the same name as .exp/.trk/.sobj file
+- pancho and pancho2
+-  last_bullet_rebirth and last_bullet_rebirth2
