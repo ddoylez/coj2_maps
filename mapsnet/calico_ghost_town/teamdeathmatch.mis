@@ -1,0 +1,113 @@
+SpawnPoint003:19195681@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a042:19195682@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_roof_i001:19195683@[ModelObject]
+	MeshName	=	house_roof_i.msh
+	SkinName	=	Wall_Wood_Old_A
+house_door_a039:19195684@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a040:19195685@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a041:19195686@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a043:19195687@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint001:19195688@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:19195689@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a038:19195690@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint004:19195691@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:19195692@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:19195693@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:19195694@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:19195695@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:19195696@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:19195697@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:19195698@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint012:19195699@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a037:19195700@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+barrier100:19195701@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_b030:19195702@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+barrier102:19195703@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier103:19195704@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_b034:19195705@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+barrier099:19195706@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier101:19195707@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_b031:19195708@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+crate_b032:19195709@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+crate_b035:19195710@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+crate_big_b006:19195711@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crates_stack005:19195712@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+crate_b033:19195713@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+crates_stack006:19195714@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+crates_stack007:19195715@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+house_door_a036:19195716@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default

@@ -1,0 +1,96 @@
+!include("Track.def")
+
+MapId(_MP_MAP_LITTLEBIGHORN)
+
+Group("deathmatch")
+{
+   Objects("DATA/MapsNet/littlebighorn/deathmatch.eds")
+   MapTitle("&MP_MAP_littlebighorn&")
+   SaveName("LittleBighorn")
+   ModeName("&MP_Deathmatch_Name&")
+   ModeInfo("&MP_Deathmatch_DescS&")
+   DescriptionMusic("COJ2_Weapon_Transport_Trap.ogg")
+   InGameMap("littlebighorn_IngameMap_DM.dds",1248,1248,1248,1248,15000,15000) 
+   
+   	LoadingArtworks(1.6, 1, 14) //max_crossfade_previous + max_duration + max_crossfade_next
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn3.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+   Objects("DATA/MapsNet/littlebighorn/teamdeathmatch.eds")
+   MapTitle("&MP_MAP_littlebighorn&")
+   SaveName("LittleBighorn")
+   ModeName("&MP_TeamDeathmatch_Name&")
+   ModeInfo("&MP_TeamDeathmatch_DescS&")
+   DescriptionMusic("COJ2_Weapon_Transport_Trap.ogg")
+   InGameMap("littlebighorn_IngameMap_DM.dds",1248,1248,1248,1248,15000,15000) 
+   
+   	LoadingArtworks(1.6, 1, 14) //max_crossfade_previous + max_duration + max_crossfade_next
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn3.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+   Objects("DATA/MapsNet/littlebighorn/wanted.eds")
+   MapTitle("&MP_MAP_littlebighorn&")
+   SaveName("LittleBighorn")
+   ModeName("&MP_Wanted_Name&")
+   ModeInfo("&MP_Wanted_DescS&")
+   DescriptionMusic("COJ2_Weapon_Transport_Trap.ogg")
+   InGameMap("littlebighorn_IngameMap_DM.dds",1248,1248,1248,1248,15000,15000) 
+   
+   	LoadingArtworks(1.6, 1, 14) //max_crossfade_previous + max_duration + max_crossfade_next
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn3.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+   Objects("DATA/MapsNet/littlebighorn/teamwanted.eds")
+   MapTitle("&MP_MAP_littlebighorn&")
+   SaveName("LittleBighorn")
+   ModeName("&MP_TeamWanted_Name&")
+   ModeInfo("&MP_TeamWanted_DescS&")
+   DescriptionMusic("COJ2_Weapon_Transport_Trap.ogg")
+   InGameMap("littlebighorn_IngameMap_DM.dds",1248,1248,1248,1248,15000,15000) 
+   
+   	LoadingArtworks(1.6, 1, 14) //max_crossfade_previous + max_duration + max_crossfade_next
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","littlebighorn_map.dds","FE_Loading_littlebighorn3.dds",0,0,1)
+	}
+}
+
+Group("historical")
+{
+   Objects("DATA/MapsNet/littlebighorn/FamousEvents.eds")
+   MapTitle("&MP_MAP_littlebighorn&")
+   SaveName("LittleBighorn")
+   ModeName("&MP_MODE_FamousEvents&")
+   ModeInfo("")
+   DescriptionMusic("COJ2_Weapon_Transport_Trap.ogg")
+   InGameMap("littlebighorn_IngameMap.dds",1248,1248,1248,1248,15000,15000) 
+
+   MapFlavour("&MPFE_Load_Desc_littlebighorn_TimePlace&")
+    
+	LoadingArtworks(1.6, 1, 8) //max_crossfade_previous + max_duration + max_crossfade_next
+	{		
+		MPObjectiveDesc(2, 3, "&MPFE_Load_Desc_littlebighorn_Story&","&MPFE_LOC_Outskirts&","littlebighorn_screenshot.dds","FE_Loading_littlebighorn1.dds",110,386,1)
+		MPObjectiveDesc(2, 3, "&MPFE_Load_Desc_littlebighorn_Story&","&MPFE_LOC_Renohill&","littlebighorn_screenshot2.dds","FE_Loading_littlebighorn2.dds",210,446,1)
+		MPObjectiveDesc(2, 3, "&MPFE_Load_Desc_littlebighorn_Story&","&MPFE_LOC_Ford&","littlebighorn_screenshot3.dds","FE_Loading_littlebighorn3.dds",358,251,1)
+		MPObjectiveDesc(2, 3, "&MPFE_Load_Desc_littlebighorn_Story&","&MPFE_LOC_CusterHill&","littlebighorn_screenshot4.dds","FE_Loading_littlebighorn4.dds",382,139,1)
+	}
+}

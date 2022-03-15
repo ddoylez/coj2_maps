@@ -1,0 +1,85 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM14)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Green_Hell/deathmatch.eds")
+	MapTitle("Green_Hell")
+	SaveName("Green_Hell")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("music/CoJ2_Green_Hell_loading_musik_1.ogg")
+	InGameMap("Green_Hell_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading4.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Green_Hell/teamdeathmatch.eds")
+	MapTitle("Green_Hell")
+	SaveName("Green_Hell")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("music/CoJ2_Green_Hell_loading_musik_2.ogg")
+	InGameMap("Green_Hell_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading4.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Green_Hell/wanted.eds")
+	MapTitle("Green_Hell")
+	SaveName("Green_Hell")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("music/CoJ2_Green_Hell_loading_musik_2.ogg")
+	InGameMap("Green_Hell_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Green_Hell/teamwanted.eds")
+	MapTitle("Green_Hell")
+	SaveName("Green_Hell")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("music/CoJ2_Green_Hell_loading_musik_1.ogg")
+	InGameMap("Green_Hell_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Green_Hell_map.dds","Green_Hell_loading4.dds",0,0,1)
+	}
+}

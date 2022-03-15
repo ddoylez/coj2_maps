@@ -1,0 +1,60 @@
+crate_b003:14181536@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+crate_b004:14181537@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+house_corner_roof_b006:14181538@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	house_corner_roof_b.msh
+	SkinName	=	Default
+house_door_a039:14181539@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a040:14181540@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_corner_roof_b005:14181541@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	house_corner_roof_b.msh
+	SkinName	=	Default
+sign_round001:14181542@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	sign_round.msh
+	SkinName	=	General_Store
+SpawnPoint005:14181543@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:14181544@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint012:14181545@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14181546@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:14181547@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:14181548@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:14181549@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint001:14181550@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+sign_round002:14181551@[ModelObject] from group TeamDeathmatch005:14181535
+	MeshName	=	sign_round.msh
+	SkinName	=	General_Store
+SpawnPoint002:14181552@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint003:14181553@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14181554@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14181555@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

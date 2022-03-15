@@ -1,0 +1,589 @@
+LEVEL:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:14094322@[NatureParamsNormal]
+		bButterfliesAllowed	=	0
+		bTreeBirdsAllowed	=	0
+		bTreeBeetlesAllowed	=	0
+		bFallingLeavesFXAllowed	=	0
+		bGrassPollenFXAllowed	=	0
+		bHenFlocksAllowed	=	0
+		bGoatFlocksAllowed	=	0
+		bFishFlocksAllowed	=	0
+	m_VisibilityRanges.dyn_lights	=	500000.000000
+	m_tempTinyObjectsScriptPath	=	Data/MapsNet/Combustion/Combustion_foliage.scr
+se_Ambient01:14095763@[SoundEmitterAmbient]
+	m_SoundId	=	
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+se_Ambient03:14095764@[SoundEmitterAmbient]
+	m_SoundId	=	
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+se_Ambient02:14095765@[SoundEmitterAmbient]
+	m_SoundId	=	
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+FXEmitter001:14100208@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_dark
+	m_bAutoStart	=	1
+	bTest	=	1
+FXEmitter002:14100231@[FXEmitter]
+	sFXNamePrefix	=	big_smoke_dark
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+FXEmitter003:14100235@[FXEmitter]
+	sFXNamePrefix	=	big_smoke_dark
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+FXEmitter004:14100239@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter006:14100248@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter007:14100251@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter008:14100874@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+prison_bars_anim001:14100930@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+FXEmitter009:14100943@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter010:14100945@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter011:14100947@[FXEmitter]
+	sFXNamePrefix	=	big_smoke_dark
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+FXEmitter013:14100986@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_dark
+	m_bAutoStart	=	1
+	bTest	=	1
+lamp_a001:14100994@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+FXEmitter014:14101003@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_dark
+	m_bAutoStart	=	1
+	bTest	=	1
+FXEmitter015:14101005@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_dark
+	m_bAutoStart	=	1
+	bTest	=	1
+FXEmitter016:14101030@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+lamp_a002:14101032@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+FXEmitter017:14101237@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter018:14101239@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+lamp_a003:14101286@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+FXEmitter019:14101294@[FXEmitter]
+	sFXNamePrefix	=	big_smoke_dark
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+FXEmitter020:14101296@[FXEmitter]
+	sFXNamePrefix	=	big_smoke_dark
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+FXEmitter021:14101298@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter022:14101300@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter023:14101302@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+lamp_a004:14104009@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+FXEmitter025:14104017@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+lamp_a005:14104034@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+lamp_a006:14104052@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+lamp_b001:14104087@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Default_light
+crate_box005:14104107@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box004:14104108@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box003:14104110@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box001:14104111@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box002:14104112@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box006:14104113@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+roof_frame001:14104127@[ModelObject]
+	MeshName	=	roof_frame.msh
+	SkinName	=	default
+horizon_georgia001:14104159@[ModelObject]
+	MeshName	=	horizon_georgia.msh
+	SkinName	=	default
+lamp_a007:14104161@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+prison_bars_anim002:14104222@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+lamp_a008:14105234@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+lamp_a009:14105239@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+lamp_a010:14105243@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default_light
+FXEmitter026:14105273@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter027:14105275@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter028:14105277@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+house_door_a001:14105285@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	F_No_Handle
+roof_frame002:14105298@[ModelObject]
+	MeshName	=	roof_frame.msh
+	SkinName	=	default
+ghost_church_tower_anim001:14105302@[ModelObject]
+	MeshName	=	ghost_church_tower_anim.msh
+	SkinName	=	Default
+FXEmitter029:14105304@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter030:14105306@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter031:14105308@[FXEmitter]
+	sFXNamePrefix	=	Firekeg
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+bucket_c001:14105319@[ModelObject]
+	MeshName	=	bucket_c.msh
+	SkinName	=	NoWater
+bucket_c002:14105320@[ModelObject]
+	MeshName	=	bucket_c.msh
+	SkinName	=	NoWater
+backpack001:14111920@[ModelObject]
+	MeshName	=	backpack.msh
+	SkinName	=	Default
+cannon_a001:14111931@[ModelObject]
+	MeshName	=	cannon_a.msh
+	SkinName	=	Default
+FXEmitter032:14112021@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_dark
+	m_bAutoStart	=	1
+	bTest	=	1
+barrier001:14112131@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier003:14112133@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier004:14112134@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:14112135@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier006:14112136@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier007:14112137@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier008:14112138@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier009:14112139@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier011:14112141@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier013:14112143@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier014:14112144@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier015:14112145@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier016:14112146@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier017:14112147@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier018:14112148@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier019:14112149@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier020:14112150@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier021:14112151@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier022:14112152@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier023:14112153@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier024:14112154@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier025:14112155@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier026:14112156@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier027:14112157@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier028:14112158@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier029:14112159@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier030:14112160@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier031:14112161@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier032:14112162@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier033:14112163@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier034:14112165@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+SoundEmitterSimple001:14113467@[SoundEmitterAmbient]
+	m_SoundId	=	Town_Dogs
+	fMinDistance	=	20000.000000
+SoundEmitterSimple002:14113470@[SoundEmitterAmbient]
+	m_SoundId	=	Wind_High
+	fMinDistance	=	20000.000000
+SoundEmitterSimple003:14113472@[SoundEmitterAmbient]
+	m_SoundId	=	Forest_Wind
+	fMinDistance	=	20000.000000
+SoundEmitterSimple004:14113473@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/fire/new_medium_fire.wav
+	m_Test	=	1
+SoundEmitterSimple005:14113475@[SoundEmitterSimple]
+	sSoundName	=	new_medium_fire.wav
+	m_Test	=	1
+SoundEmitterSimple006:14113478@[SoundEmitterSimple]
+	sSoundName	=	new_medium_fire.wav
+	m_Test	=	1
+SoundEmitterSimple007:14113480@[SoundEmitterSimple]
+	sSoundName	=	new_medium_fire.wav
+	m_Test	=	1
+SoundEmitterSimple008:14113482@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/fire/max_additional_fire.wav
+	m_Test	=	1
+SoundEmitterSimple009:14113484@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/fire/additional_fire.wav
+	m_Test	=	1
+SoundEmitterSimple010:14113486@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/fire/new_big_fire.wav
+	m_Test	=	1
+SoundEmitterSimple011:14113488@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/fire/new_medium_fire.wav
+	m_Test	=	1
+SoundEmitterSimple012:14113490@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/fire/max_additional_fire.wav
+	m_Test	=	1
+barrier035:14114821@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier036:14114822@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier037:14114823@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier038:14114824@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier039:14114825@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier040:14114827@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier041:14114828@[Barrier]
+	bBlockAllByDefault	=	1
+	bEnabledOnStart	=	1
+	bBlockTrace	=	0
+	bRamp	=	0
+	bCollideWithAllHorses	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+                                

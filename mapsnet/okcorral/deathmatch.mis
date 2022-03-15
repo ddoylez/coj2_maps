@@ -1,0 +1,56 @@
+GameModeDM002:18974791@[GameModeDM]
+	nFragsLimit	=	400
+ladder_a014:18974792@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a015:18974793@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+SpawnPoint048:18974794@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+ladder_a016:18974795@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a012:18974796@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a017:18974797@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a013:18974798@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+SpawnPoint047:18974799@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint038:18974800@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint044:18974801@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint045:18974802@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint040:18974803@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint046:18974804@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint037:18974805@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint039:18974806@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint042:18974807@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint043:18974808@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint041:18974809@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

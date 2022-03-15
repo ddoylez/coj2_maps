@@ -1,0 +1,38 @@
+SpawnPoint025:9537432@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint026:9537433@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint027:9537434@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint028:9537435@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint029:9537436@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint030:9537437@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint031:9537438@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint032:9537439@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint033:9537440@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint034:9537441@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint035:9537442@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint036:9537443@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+GameModeWanted001:9537445@[GameModeWanted]
+	nFragsLimit	=	400

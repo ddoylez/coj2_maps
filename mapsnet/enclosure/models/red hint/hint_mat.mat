@@ -1,0 +1,20 @@
+import "GhostObject.mtt"
+
+sub material()
+{
+    use mtt(
+        e_blend_mode = e_bm_lerp_add,  //e_bm_lerp,e_bm_none,e_bm_lerp_pm,e_bm_add,e_bm_mul,e_bm_lerp_add
+        s_clr = "hint_pointer.dds",
+        f_clr_uv_x_factor = 0.025,
+        f_clr_uv_y_factor = 0.025,
+		s_clr_mul = "hint_pointer.dds",
+        f_clr_mul_uv_x_factor = -0.025,
+        f_clr_mul_uv_y_factor = -0.025,
+		v_clr = [0.25, 0.0, 0.0, 0.1],
+        b_clr_vrt_on = TRUE,
+        e_cull = NONE,
+        f_sin_bias = 0.15,
+        f_sin_scale = 2.95,
+        f_sin_speed = 1.0
+        );
+}

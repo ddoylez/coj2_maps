@@ -1,0 +1,58 @@
+TravelDistance(100)
+
+Layer() //////// roslinki i patyki //////
+{
+  DensityMap("magnificent3_foliage_plants.dds")
+  DensityMapBits(2) 
+  GenerationRange(3000)
+  BlendRange(500)
+  InstancesPerMeter(2.0 )
+  Type()
+  {
+      Material("bush_arizona_a.mat")
+      Mesh("bush_arizona_foliage_a.MSH") ////kepa trawo/krzaka-maly bush_arizona_a
+      Priority(40)
+      AlignToTerrainNormal(1)
+      Scale(0.4,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("stones_foliage_c.mat")
+      Mesh("stones_foliage_ca.MSH") ////mala roslinka
+      Priority(15)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("stones_foliage_c.mat")
+      Mesh("stones_foliage_cb.MSH") ////mala roslinka
+      Priority(15)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_ba.MSH") ////galazka
+      Priority(2)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_bb.MSH") ////galazka
+      Priority(2)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(0)
+  }
+}
+
+
+

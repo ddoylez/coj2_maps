@@ -1,0 +1,103 @@
+GameModeDM001:19208117@[GameModeDM]
+	nFragsLimit	=	400
+SpawnPoint006:19208118@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+barrier099:19208119@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a042:19208120@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+crate_big_b006:19208121@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b007:19208122@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+house_door_a037:19208123@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+barrier098:19208124@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_roof_i001:19208125@[ModelObject]
+	MeshName	=	house_roof_i.msh
+	SkinName	=	Wall_Wood_Old_A
+SpawnPoint002:19208126@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:19208127@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:19208128@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+crate_big_b008:19208129@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+SpawnPoint005:19208130@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+barrier100:19208131@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a038:19208132@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+crates_stack005:19208133@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+barrier101:19208134@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier097:19208135@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a039:19208136@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a036:19208137@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+barn_door_a005:19208138@[ModelObject]
+	MeshName	=	barn_door_a.msh
+	SkinName	=	Default
+house_door_a040:19208139@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint001:19208140@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a043:19208141@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+crates_stack006:19208142@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+house_door_a041:19208143@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint003:19208144@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:19208145@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:19208146@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:19208147@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:19208148@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint012:19208149@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

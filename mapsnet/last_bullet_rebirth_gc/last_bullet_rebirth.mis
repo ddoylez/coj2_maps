@@ -1,0 +1,86 @@
+LEVEL:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:9526896@[NatureParamsNormal]
+		bFishFlocksAllowed	=	0
+	m_tempTinyObjectsScriptPath	=	Data/MapsNet/Last_bullet_rebirth/Last_bullet_rebirth_foliage.scr
+stone_arizona_b001:9546735@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_arizona_b004:9546788@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	Arizona_B
+stone_arizona_b005:9546806@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	Arizona_B
+barrier001:9546807@[LethalObject]
+	bHide	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+stone_arizona_b006:9547380@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_arizona_b008:9547382@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_arizona_b009:9547383@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_arizona_b010:9547384@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_arizona_b011:9547385@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_arizona_b012:9547386@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+barrier002:9548533@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier003:9548535@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier004:9548640@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:9548641@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+horizon_georgia001:9549335@[ModelObject]
+	MeshName	=	horizon_georgia.msh
+	SkinName	=	default
+SoundEmitterSimple001:9550020@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_open_02.ogg
+	m_Test	=	0
+SoundEmitterSimple002:9550023@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_open_01.ogg
+	m_Test	=	1
+SoundEmitterSimple003:9550025@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_beetween_01.ogg
+	m_Test	=	1
+SoundEmitterSimple004:9550027@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_open_01.ogg
+	m_Test	=	1
+SoundEmitterSimple005:9550029@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_open_01.ogg
+	m_Test	=	1
+SoundEmitterSimple006:9550031@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_open_01.ogg
+	m_Test	=	1
+SoundEmitterSimple007:9550033@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_open_01.ogg
+	m_Test	=	1
+SoundEmitterSimple008:9550035@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_beetween_01.ogg
+	m_Test	=	1
+SoundEmitterSimple009:9550037@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_beetween_01.ogg
+	fMinDistance	=	500.000000
+	m_Test	=	1
+SoundEmitterSimple010:9550039@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/wind_beetween_01.ogg
+	fMinDistance	=	500.000000
+	m_Test	=	1

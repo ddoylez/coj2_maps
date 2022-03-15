@@ -1,0 +1,820 @@
+// ======================== Indian Navaho A ========================
+Skin("Indian_Navaho_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_b_accessories.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+	ColorPreset("Color_1")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 162, 128, 100)
+    }
+	ColorPreset("Color_2")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 199, 191, 173)
+    }
+	ColorPreset("Color_3")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 162, 128, 100)
+    }
+	ColorPreset("Color_4")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 199, 191, 173)
+    }
+}
+Skin("Indian_Navaho_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Indian Navaho B ========================
+Skin("Indian_Navaho_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_b_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+	ColorPreset("Color_1")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 162, 128, 100)
+    }
+	ColorPreset("Color_2")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 199, 191, 173)
+    }
+	ColorPreset("Color_3")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 162, 128, 100)
+    }
+	ColorPreset("Color_4")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 199, 191, 173)
+    }
+}
+Skin("Indian_Navaho_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Indian Navaho C ========================
+Skin("Indian_Navaho_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("navaho_b_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+	ColorPreset("Color_1")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 162, 128, 100)
+    }
+	ColorPreset("Color_2")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 199, 191, 173)
+    }
+	ColorPreset("Color_3")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 162, 128, 100)
+    }
+	ColorPreset("Color_4")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 199, 191, 173)
+    }
+	
+}
+Skin("Indian_Navaho_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_o.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("navaho_b_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Indian Navaho D ========================
+Skin("Indian_Navaho_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_a_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 107, 35, 22)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 125, 0, 0)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 83, 62, 47)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 21, 21, 21)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 83, 62, 47)
+    }
+}
+Skin("Indian_Navaho_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Indian Navaho E ========================
+Skin("Indian_Navaho_E")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_a_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 107, 35, 22)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 125, 0, 0)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 83, 62, 47)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 21, 21, 21)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 83, 62, 47)
+    }
+}
+Skin("Indian_Navaho_E_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_E_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_E_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_E_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_a_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Indian Navaho F ========================
+Skin("Indian_Navaho_F")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")	
+	!include("man_head_g.skt")
+	!include("navaho_c_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 125, 38, 34)
+       ColorI(2, 23, 41, 174)
+       ColorI(3, 255, 255, 255)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 128, 0, 0)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 64, 0, 0)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 128, 64, 0)
+    }
+    ColorPreset("Color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 255, 255, 255)
+    }
+}
+Skin("Indian_Navaho_F_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_c_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_F_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_c_accessories.skt")
+	
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_F_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_c_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_F_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_g.skt")
+	!include("navaho_c_accessories.skt")
+
+	!include("man_null.skt")
+
+	Hide("HolsterL")
+	Hide("HolsterR")	
+}
+
+// ======================== Indian Navaho G ========================
+Skin("Indian_Navaho_G")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")	
+	!include("man_head_j.skt")
+	!include("navaho_c_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 125, 38, 34)
+       ColorI(2, 23, 41, 174)
+       ColorI(3, 255, 255, 255)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 128, 0, 0)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 64, 0, 0)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 128, 64, 0)
+    }
+    ColorPreset("Color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 128, 0, 0)
+       ColorI(3, 255, 255, 255)
+    }
+}
+Skin("Indian_Navaho_G_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_c_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Indian_Navaho_G_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_c_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Navaho_G_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_c_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Navaho_G_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_h.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_j.skt")
+	!include("navaho_c_accessories.skt")
+
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}

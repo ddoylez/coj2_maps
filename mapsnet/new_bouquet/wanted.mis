@@ -1,0 +1,104 @@
+fence_metal_gate006:14256732@[ModelObject]
+	MeshName	=	fence_metal_gate.msh
+	SkinName	=	Default
+log_a006:14256733@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+log_a014:14256734@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+house_window_bars_b027:14256735@[ModelObject]
+	MeshName	=	house_window_bars_b.msh
+	SkinName	=	Default
+log_a010:14256736@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+house_door_a031:14256737@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+log_a015:14256738@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+SpawnPoint001:14256739@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a028:14256740@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a030:14256741@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a029:14256742@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint002:14256743@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+log_a012:14256744@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+SpawnPoint003:14256745@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+fence_metal_gate005:14256746@[ModelObject]
+	MeshName	=	fence_metal_gate.msh
+	SkinName	=	Default
+SpawnPoint004:14256747@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+log_a008:14256748@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+log_a011:14256749@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+log_a007:14256750@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+house_shutter_a302:14256751@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+log_a009:14256752@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+bell_b001:14256753@[ModelObject]
+	MeshName	=	bell_b.msh
+	SkinName	=	Default
+log_a013:14256754@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Default
+safe_door001:14256755@[ModelObject]
+	MeshName	=	safe_door.msh
+	SkinName	=	Default
+safe_door002:14256756@[ModelObject]
+	MeshName	=	safe_door.msh
+	SkinName	=	Default
+house_shutter_a301:14256757@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+SpawnPoint006:14256758@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:14256759@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:14256760@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14256761@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:14256762@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14256763@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14256765@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint012:14256766@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+GameModeWanted001:14256768@[GameModeWanted]
+	nFragsLimit	=	400

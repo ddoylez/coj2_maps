@@ -1,0 +1,65 @@
+!include("surface.def")
+
+Skin("Default")
+{
+	!include("goat_anim_lod.skt")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_b.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_c.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+/*
+Skin("Default_highlight")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_a_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B_highlight")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_b_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C_highlight")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_c_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("Default_marked")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_a_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B_marked")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_b_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C_marked")
+{
+	!include("goat_anim_lod.skt")
+	Replace("goat_a.mat", "goat_c_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+*/

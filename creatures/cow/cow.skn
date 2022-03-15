@@ -1,0 +1,74 @@
+!include("surface.def")
+
+Skin("Default")
+{
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B")
+{
+	Replace("cow_a.mat", "cow_b.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C")
+{
+	Replace("cow_a.mat", "cow_c.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("D")
+{
+	Replace("cow_a.mat", "cow_d.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+/*
+Skin("Default_highlight")
+{
+	Replace("cow_a.mat", "cow_a_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B_highlight")
+{
+	Replace("cow_a.mat", "cow_b_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C_highlight")
+{
+	Replace("cow_a.mat", "cow_c_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("D_highlight")
+{
+	Replace("cow_a.mat", "cow_d_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("Default_marked")
+{
+	Replace("cow_a.mat", "cow_a_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B_marked")
+{
+	Replace("cow_a.mat", "cow_b_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C_marked")
+{
+	Replace("cow_a.mat", "cow_c_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("D_marked")
+{
+	Replace("cow_a.mat", "cow_d_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+*/

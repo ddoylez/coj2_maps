@@ -1,0 +1,455 @@
+// ======================== PinkertonA ========================
+Skin("PinkertonA")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_belt_a.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 218, 191, 165)
+       ColorI(2, 103, 85, 65)
+       ColorI(3, 123, 165, 210)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 250, 188, 133)
+       ColorI(2, 130, 55, 47)
+       ColorI(3, 125, 81, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 168, 163, 140)
+       ColorI(2, 50, 64, 34)
+       ColorI(3, 89, 91, 108)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 126, 94, 75)
+       ColorI(2, 199, 154, 63)
+       ColorI(3, 138, 170, 172)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 196, 179, 170)
+       ColorI(2, 47, 46, 43)
+       ColorI(3, 100, 56, 49)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 132, 111, 102)
+       ColorI(2, 255, 240, 238)
+       ColorI(3, 254, 223, 177)
+    }	
+}
+Skin("PinkertonA_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_belt_a.skt")
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("PinkertonA_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_belt_a.skt")
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("PinkertonA_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_belt_a.skt")
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("PinkertonA_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_belt_a.skt")
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== PinkertonB ========================
+Skin("PinkertonB")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_belt_a.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 218, 191, 165)
+       ColorI(2, 103, 85, 65)
+       ColorI(3, 123, 165, 210)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 250, 188, 133)
+       ColorI(2, 130, 55, 47)
+       ColorI(3, 125, 81, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 168, 163, 140)
+       ColorI(2, 50, 64, 34)
+       ColorI(3, 89, 91, 108)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 126, 94, 75)
+       ColorI(2, 199, 154, 63)
+       ColorI(3, 138, 170, 172)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 196, 179, 170)
+       ColorI(2, 47, 46, 43)
+       ColorI(3, 100, 56, 49)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 132, 111, 102)
+       ColorI(2, 255, 240, 238)
+       ColorI(3, 254, 223, 177)
+    }	
+}
+Skin("PinkertonB_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_belt_a.skt")
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("PinkertonB_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_belt_a.skt")
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("PinkertonB_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_belt_a.skt")
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("PinkertonB_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_belt_a.skt")
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== PinkertonC ========================
+Skin("PinkertonC")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_belt_a.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 218, 191, 165)
+       ColorI(2, 103, 85, 65)
+       ColorI(3, 123, 165, 210)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 250, 188, 133)
+       ColorI(2, 130, 55, 47)
+       ColorI(3, 125, 81, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 168, 163, 140)
+       ColorI(2, 50, 64, 34)
+       ColorI(3, 89, 91, 108)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 126, 94, 75)
+       ColorI(2, 199, 154, 63)
+       ColorI(3, 138, 170, 172)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 196, 179, 170)
+       ColorI(2, 47, 46, 43)
+       ColorI(3, 100, 56, 49)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 132, 111, 102)
+       ColorI(2, 255, 240, 238)
+       ColorI(3, 254, 223, 177)
+    }	
+}
+Skin("PinkertonC_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_belt_a.skt")
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("PinkertonC_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_belt_a.skt")
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("PinkertonC_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_belt_a.skt")
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("PinkertonC_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_lskt")
+	!include("man_belt_a.skt")
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== PinkertonD ========================
+Skin("PinkertonD")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_belt_a.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 218, 191, 165)
+       ColorI(2, 103, 85, 65)
+       ColorI(3, 123, 165, 210)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 250, 188, 133)
+       ColorI(2, 130, 55, 47)
+       ColorI(3, 125, 81, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 168, 163, 140)
+       ColorI(2, 50, 64, 34)
+       ColorI(3, 89, 91, 108)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 126, 94, 75)
+       ColorI(2, 199, 154, 63)
+       ColorI(3, 138, 170, 172)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 196, 179, 170)
+       ColorI(2, 47, 46, 43)
+       ColorI(3, 100, 56, 49)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 132, 111, 102)
+       ColorI(2, 255, 240, 238)
+       ColorI(3, 254, 223, 177)
+    }	
+}
+Skin("PinkertonD_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_belt_a.skt")
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("PinkertonD_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_belt_a.skt")
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("PinkertonD_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_belt_a.skt")
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("PinkertonD_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_b.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_belt_a.skt")
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}

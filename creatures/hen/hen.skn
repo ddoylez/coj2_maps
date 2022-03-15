@@ -1,0 +1,86 @@
+!include("surface.def")
+
+Skin("Default")
+{
+	!include("hen_anim_lod.skt")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_b.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_c.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("D")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_d.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+/*
+Skin("Default_highlight")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_a_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B_highlight")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_b_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C_highlight")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_c_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("D_highlight")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_d_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("Default_marked")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_a_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("B_marked")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_b_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("C_marked")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_c_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("D_marked")
+{
+	!include("hen_anim_lod.skt")
+	Replace("hen_a.mat", "hen_d_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+}
+*/

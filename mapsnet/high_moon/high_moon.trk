@@ -1,0 +1,105 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM16)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/High_Moon/deathmatch.eds")
+	MapTitle("HighMoon")
+	SaveName("High_Moon")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_L10_Stats.ogg")
+	InGameMap("High_Moon_map.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/High_Moon/teamdeathmatch.eds")
+	MapTitle("HighMoon")
+	SaveName("High_Moon")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Go_Slowly.ogg")
+	InGameMap("High_Moon_map.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/High_Moon/wanted.eds")
+	MapTitle("HighMoon")
+	SaveName("High_Moon")
+	ModeName("Skirmish")
+	ModeInfo("Skirmish")
+	DescriptionMusic("COJ2_L10_Stats.ogg")
+	InGameMap("High_Moon_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/High_Moon/teamwanted.eds")
+	MapTitle("HighMoon")
+	SaveName("High_Moon")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_L10_Stats.ogg")
+	InGameMap("High_Moon_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("historical")
+{
+	Objects("Data/MapsNet/High_Moon/famousevents.eds")
+	MapTitle("HighMoon")
+	SaveName("High_Moon")
+	ModeName("&MP_MODE_FamousEvents&")
+	DescriptionMusic("COJ2_L10_Stats.ogg")
+	InGameMap("High_Moon_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}

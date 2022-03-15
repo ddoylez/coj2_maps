@@ -1,0 +1,144 @@
+SpawnPoint009:14299679@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14299680@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:14299681@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint012:14299682@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+ladder_a006:14299683@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+prison_b_front_wall001:14299684@[ModelObject]
+	MeshName	=	prison_b_front_wall.msh
+	SkinName	=	Default
+safe001:14299685@[ModelObject]
+	MeshName	=	safe.msh
+	SkinName	=	Default
+ladder_a007:14299686@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+house_window_bars_a029:14299687@[ModelObject]
+	MeshName	=	house_window_bars_a.msh
+	SkinName	=	Default
+house_window_bars_a031:14299688@[ModelObject]
+	MeshName	=	house_window_bars_a.msh
+	SkinName	=	Default
+house_window_bars_a030:14299689@[ModelObject]
+	MeshName	=	house_window_bars_a.msh
+	SkinName	=	Default
+safe_destroyed001:14299690@[ModelObject]
+	MeshName	=	safe_destroyed.msh
+	SkinName	=	Default
+house_door_a#003:14299691@[ModelObject]
+	MeshName	=	house_door_a#01.msh
+	SkinName	=	default
+house_door_a039:14299692@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a040:14299693@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a041:14299694@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a042:14299695@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_window_bars_a028:14299696@[ModelObject]
+	MeshName	=	house_window_bars_a.msh
+	SkinName	=	Default
+SpawnPoint004:14299698@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14299699@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint001:14299700@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:14299701@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:14299702@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:14299703@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint003:14299704@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14299705@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+safe_door001:14299706@[ModelObject]
+	MeshName	=	safe_door.msh
+	SkinName	=	Default
+crate_big_b015:14299707@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b018:14299708@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b017:14299709@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b020:14299710@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b021:14299711@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b006:14299712@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b007:14299713@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b022:14299714@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b023:14299715@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+horsea003:14299716@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB
+horsea004:14299717@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC
+crate_b006:14299718@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+crate_big_b010:14299719@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b013:14299720@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b008:14299721@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b011:14299722@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b009:14299723@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b014:14299724@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b012:14299725@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b016:14299726@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_big_b019:14299727@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default

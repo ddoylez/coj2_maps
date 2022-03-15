@@ -1,0 +1,161 @@
+GameModeTeamWanted001:19195802@[GameModeTeamWanted]
+	[aOnPlayerKilledBLUE:0] actnet_AddTeamPoints002:19195801@[actnet_AddTeamPoints]
+		eTeam	=	RED
+		sValue	=	1
+	[aOnPlayerKilledRED:0] actnet_AddTeamPoints001:19195800@[actnet_AddTeamPoints]
+		eTeam	=	BLUE
+		sValue	=	1
+	nRoundsResultLimit	=	10
+SpawnPoint002_006:19195803@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint003_001:19195804@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint003_002:19195805@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint002_004:19195806@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint001_006:19195807@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint002_001:19195808@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint002_005:19195809@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint002_002:19195810@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint002_003:19195811@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint001_005:19195812@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint003_004:19195813@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint003_003:19195814@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint003_005:19195815@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint003_006:19195816@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+house_door_a039:19195817@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a040:19195818@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+ladder_a004:19195819@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+house_door_a036:19195820@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnArea001_001:19195821@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint001_005:19195812@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint001_001:19195829@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint001_002:19195831@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint001_003:19195825@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint001_004:19195826@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint001_006:19195807@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea002_001:19195823@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea003_001:19195822@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+SpawnArea003_001:19195822@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint003_005:19195815@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint003_001:19195804@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint003_002:19195805@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint003_003:19195814@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint003_004:19195813@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint003_006:19195816@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea001_001:19195821@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea002_001:19195823@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+SpawnArea002_001:19195823@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint002_006:19195803@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint002_001:19195808@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint002_002:19195810@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint002_003:19195811@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint002_004:19195806@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint002_005:19195809@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea003_001:19195822@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea001_001:19195821@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+house_roof_i001:19195824@[ModelObject]
+	MeshName	=	house_roof_i.msh
+	SkinName	=	Wall_Wood_Old_A
+SpawnPoint001_003:19195825@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+SpawnPoint001_004:19195826@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+house_door_a042:19195827@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a037:19195828@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint001_001:19195829@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+house_door_a038:19195830@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint001_002:19195831@[SpawnPoint]
+	cTeam	=	NONE
+	m_Enabled	=	1
+	MeshName	=	spawner.msh
+	SkinName	=	default
+house_door_a041:19195832@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a043:19195833@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default

@@ -1,0 +1,105 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM25)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/New_Bouquet/deathmatch.eds")
+	MapTitle("New Bouquet")
+	SaveName("New_Bouquet")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Go_Slowly.ogg")
+	InGameMap("New_Bouquet_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/New_Bouquet/teamdeathmatch.eds")
+	MapTitle("New Bouquet")
+	SaveName("New_Bouquet")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Go_Slowly.ogg")
+	InGameMap("New_Bouquet_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading6.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/New_Bouquet/wanted.eds")
+	MapTitle("New Bouquet")
+	SaveName("New_Bouquet")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Go_Slowly.ogg")
+	InGameMap("New_Bouquet_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/New_Bouquet/teamwanted.eds")
+	MapTitle("New Bouquet")
+	SaveName("New_Bouquet")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Go_Slowly.ogg")
+	InGameMap("New_Bouquet_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading6.dds",0,0,1)
+	}
+}
+
+Group("historical")
+{
+	Objects("Data/MapsNet/New_Bouquet/famousevents.eds")
+	MapTitle("New Bouquet")
+	SaveName("New_Bouquet")
+	ModeName("&MP_MODE_FamousEvents&")
+	DescriptionMusic("COJ2_L08_Roof_Attack.ogg")
+	InGameMap("New_Bouquet_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","New_Bouquet_map.dds","New_Bouquet_loading6.dds",0,0,1)
+	}
+}

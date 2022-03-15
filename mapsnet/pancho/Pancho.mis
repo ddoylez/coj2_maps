@@ -1,0 +1,4327 @@
+LEVEL:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:9526896@[NatureParamsNormal]
+		bFishFlocksAllowed	=	0
+	m_vWindDir	=	1.000000 0.000000 0.000000
+	m_fWindPower	=	2.000000
+	m_fWindChangeFactor	=	1.000000
+	m_VisibilityRanges.dyn_lights	=	50000.000000
+	m_tempTinyObjectsScriptPath	=	data/mapsnet/pancho/pancho_foliage.scr
+se_Ambient02:9527857@[SoundEmitterAmbient]
+	m_SoundId	=	Desert_Wind
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+se_Ambient03:9527859@[SoundEmitterAmbient]
+	m_SoundId	=	Desert_Crickets
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+rock_wall_puzzle_a_c002:9530960@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_c.msh
+	SkinName	=	default
+rock_wall_puzzle_a_b001:9530961@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_b.msh
+	SkinName	=	default
+rock_wall_puzzle_a_c003:9530962@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_c.msh
+	SkinName	=	default
+rock_wall_puzzle_a_c004:9530963@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_c.msh
+	SkinName	=	default
+rock_wall_puzzle_a_a001:9530964@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_a.msh
+	SkinName	=	default
+rock_wall_puzzle_a_j002:9530972@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_j.msh
+	SkinName	=	default
+rock_wall_puzzle_a_h001:9530973@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_h.msh
+	SkinName	=	default
+rock_wall_puzzle_a_g004:9530978@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_g.msh
+	SkinName	=	default
+rock_wall_puzzle_a_g007:9530981@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_g.msh
+	SkinName	=	default
+rock_wall_puzzle_a_r001:9532299@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_r.msh
+	SkinName	=	default
+rock_wall_puzzle_a_s001:9532300@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_s.msh
+	SkinName	=	default
+rock_wall_puzzle_a_m001:9532301@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_m.msh
+	SkinName	=	default
+rock_wall_puzzle_a_n001:9532302@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_n.msh
+	SkinName	=	default
+rock_wall_puzzle_a_l001:9532303@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_l.msh
+	SkinName	=	default
+rock_wall_puzzle_a_m002:9532304@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_m.msh
+	SkinName	=	default
+rock_wall_puzzle_a_n002:9532305@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_n.msh
+	SkinName	=	default
+rock_wall_puzzle_a_n003:9532306@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_n.msh
+	SkinName	=	default
+rock_wall_puzzle_a_l002:9532307@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_l.msh
+	SkinName	=	default
+rock_wall_puzzle_a_m003:9532308@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_m.msh
+	SkinName	=	default
+rock_wall_puzzle_a_r002:9532309@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_r.msh
+	SkinName	=	default
+rock_wall_puzzle_a_l003:9532310@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_l.msh
+	SkinName	=	default
+rock_wall_puzzle_a_m004:9532311@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_m.msh
+	SkinName	=	default
+rock_wall_puzzle_a_s002:9532313@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_s.msh
+	SkinName	=	default
+rock_wall_puzzle_a_l004:9532314@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_l.msh
+	SkinName	=	default
+rock_wall_puzzle_a_s003:9532315@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_s.msh
+	SkinName	=	default
+rock_wall_puzzle_a_k001:9532316@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_k.msh
+	SkinName	=	default
+rock_wall_puzzle_a_g008:9532317@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_g.msh
+	SkinName	=	default
+rock_wall_puzzle_a_k002:9532318@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_k.msh
+	SkinName	=	default
+rock_wall_puzzle_a_i001:9532321@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_i.msh
+	SkinName	=	default
+rock_wall_puzzle_a_k005:9532322@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_k.msh
+	SkinName	=	default
+rock_wall_puzzle_a_g009:9532323@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_g.msh
+	SkinName	=	default
+rock_wall_puzzle_a_h002:9532324@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_h.msh
+	SkinName	=	default
+rock_wall_puzzle_a_k006:9532325@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_k.msh
+	SkinName	=	default
+rock_wall_puzzle_a_i002:9532326@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_i.msh
+	SkinName	=	default
+rock_wall_puzzle_a_f001:9532328@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_f.msh
+	SkinName	=	default
+rock_wall_puzzle_a_e001:9532329@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_e.msh
+	SkinName	=	default
+rock_wall_puzzle_a_e002:9532330@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_e.msh
+	SkinName	=	default
+rock_wall_puzzle_a_b002:9532331@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_b.msh
+	SkinName	=	default
+rock_wall_puzzle_a_e003:9532332@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_e.msh
+	SkinName	=	default
+rock_wall_puzzle_a_s004:9532863@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_s.msh
+	SkinName	=	default
+rock_wall_puzzle_a_m005:9532864@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_m.msh
+	SkinName	=	default
+rock_wall_puzzle_a_s005:9532865@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_s.msh
+	SkinName	=	default
+mexican_house_ground_floor_a003:9532869@[ModelObject]
+	MeshName	=	mexican_house_ground_floor_a.msh
+	SkinName	=	plaster
+mexican_house_ground_floor_a004:9532870@[ModelObject]
+	MeshName	=	mexican_house_ground_floor_a.msh
+	SkinName	=	plaster
+mexican_house_a_interior002:9532871@[ModelObject]
+	MeshName	=	mexican_house_a_interior.msh
+	SkinName	=	plaster
+mexican_roof_e001:9532872@[ModelObject]
+	MeshName	=	mexican_roof_e.msh
+	SkinName	=	Plaster
+mexican_roof_e002:9532873@[ModelObject]
+	MeshName	=	mexican_roof_e.msh
+	SkinName	=	Plaster
+mexican_roof_c001:9532874@[ModelObject]
+	MeshName	=	mexican_roof_c.msh
+	SkinName	=	plaster
+mexican_balcony_a001:9532875@[ModelObject]
+	MeshName	=	mexican_balcony_a.msh
+	SkinName	=	plaster
+mexican_wall_small001:9532884@[ModelObject]
+	MeshName	=	mexican_wall_small.msh
+	SkinName	=	Plaster
+mexican_wall_small002:9532885@[ModelObject]
+	MeshName	=	mexican_wall_small.msh
+	SkinName	=	Plaster
+rock_arizona_a001:9532886@[ModelObject]
+	MeshName	=	rock_arizona_a.msh
+	SkinName	=	default
+fence_old_b003:9532893@[ModelObject]
+	MeshName	=	fence_old_b.msh
+	SkinName	=	Default
+fence_old_b004:9532894@[ModelObject]
+	MeshName	=	fence_old_b.msh
+	SkinName	=	Default
+fence_old_c004:9532895@[ModelObject]
+	MeshName	=	fence_old_c.msh
+	SkinName	=	Default
+fence_old_b007:9532901@[ModelObject]
+	MeshName	=	fence_old_b.msh
+	SkinName	=	Default
+fence_old_cracked003:9532905@[ModelObject]
+	MeshName	=	fence_old_cracked.msh
+	SkinName	=	Default
+fence_old_b008:9532906@[ModelObject]
+	MeshName	=	fence_old_b.msh
+	SkinName	=	Default
+fence_old_a#001:9532907@[ModelObject]
+	MeshName	=	fence_old_a#05.msh
+	SkinName	=	default
+cactus_a001:9532908@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c001:9532909@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b001:9532910@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_a002:9532911@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a003:9532912@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b002:9532913@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+rock_arizona_b_big001:9532917@[ModelObject]
+	MeshName	=	rock_arizona_b_big.msh
+	SkinName	=	default
+rock_arizona_b_big002:9532918@[ModelObject]
+	MeshName	=	rock_arizona_b_big.msh
+	SkinName	=	default
+cactus_a004:9532919@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_d001:9532920@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+stone_arizona_b001:9532921@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_b001:9532922@[ModelObject]
+	MeshName	=	stone_b.msh
+	SkinName	=	default
+stone_big_a001:9532923@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+stone_big_b001:9532924@[ModelObject]
+	MeshName	=	stone_big_b.msh
+	SkinName	=	default
+stone_c001:9532925@[ModelObject]
+	MeshName	=	stone_c.msh
+	SkinName	=	default
+stone_d001:9532926@[ModelObject]
+	MeshName	=	stone_d.msh
+	SkinName	=	Default
+stone_small_c001:9532927@[ModelObject]
+	MeshName	=	stone_small_c.msh
+	SkinName	=	default
+stone_small_a001:9532928@[ModelObject]
+	MeshName	=	stone_small_a.msh
+	SkinName	=	default
+stone_d002:9532929@[ModelObject]
+	MeshName	=	stone_d.msh
+	SkinName	=	Default
+stone_e001:9532930@[ModelObject]
+	MeshName	=	stone_e.msh
+	SkinName	=	default
+stone_b002:9532932@[ModelObject]
+	MeshName	=	stone_b.msh
+	SkinName	=	default
+cactus_c002:9532933@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_d002:9532934@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_b003:9532935@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_a005:9532936@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+stone_b003:9532937@[ModelObject]
+	MeshName	=	stone_b.msh
+	SkinName	=	default
+stone_big_a002:9532939@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+stone_big_b002:9532941@[ModelObject]
+	MeshName	=	stone_big_b.msh
+	SkinName	=	default
+stone_big_b003:9532942@[ModelObject]
+	MeshName	=	stone_big_b.msh
+	SkinName	=	default
+stone_big_b004:9532943@[ModelObject]
+	MeshName	=	stone_big_b.msh
+	SkinName	=	default
+stone_c002:9532944@[ModelObject]
+	MeshName	=	stone_c.msh
+	SkinName	=	default
+stone_big_c001:9532946@[ModelObject]
+	MeshName	=	stone_big_c.msh
+	SkinName	=	default
+stone_small_c002:9532947@[ModelObject]
+	MeshName	=	stone_small_c.msh
+	SkinName	=	default
+cactus_c003:9532948@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b004:9532949@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_c004:9532950@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b005:9532951@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+stone_big_a003:9532952@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+stone_c004:9532954@[ModelObject]
+	MeshName	=	stone_c.msh
+	SkinName	=	default
+stone_c005:9532955@[ModelObject]
+	MeshName	=	stone_c.msh
+	SkinName	=	default
+stone_small_b002:9532960@[ModelObject]
+	MeshName	=	stone_small_b.msh
+	SkinName	=	default
+cactus_d003:9532961@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_d004:9532962@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_c005:9532963@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_a006:9532964@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b006:9532965@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_b007:9532966@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_a007:9532967@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a008:9532968@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+stone_arizona_a001:9532969@[ModelObject]
+	MeshName	=	stone_arizona_a.msh
+	SkinName	=	default
+stone_big_a004:9532970@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+stone_big_c002:9532971@[ModelObject]
+	MeshName	=	stone_big_c.msh
+	SkinName	=	default
+rock_arizona_b001:9532972@[ModelObject]
+	MeshName	=	rock_arizona_b.msh
+	SkinName	=	Arizona_A
+cactus_a009:9532974@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_d005:9532975@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_b008:9532976@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+wood_piece_b001:9533145@[ModelObject]
+	MeshName	=	wood_piece_b.msh
+	SkinName	=	Default
+house_walkway_step001:9533149@[ModelObject]
+	MeshName	=	house_walkway_step.msh
+	SkinName	=	default
+wood_stack_b001:9533150@[ModelObject]
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	Default
+trough001:9533151@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Default
+house_walkway_a001:9533152@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	default
+house_ground_floor_a001:9533153@[ModelObject]
+	MeshName	=	house_ground_floor_a.msh
+	SkinName	=	default
+house_rooflet_b001:9533154@[ModelObject]
+	MeshName	=	house_rooflet_b.msh
+	SkinName	=	default
+house_roof_e001:9533155@[ModelObject]
+	MeshName	=	house_roof_e.msh
+	SkinName	=	default
+house_window_a002:9533930@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_shutter_a010:9533931@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a011:9533932@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_balcony_small_a001:9533933@[ModelObject]
+	MeshName	=	house_balcony_small_a.msh
+	SkinName	=	Default
+house_barrier_a001:9533934@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_small_a002:9533935@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_balcony_small_a002:9533936@[ModelObject]
+	MeshName	=	house_balcony_small_a.msh
+	SkinName	=	Default
+house_barrier_small_a003:9533937@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_barrier_a002:9533938@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_roof_a001:9533939@[ModelObject]
+	MeshName	=	house_roof_a.msh
+	SkinName	=	Wall_Brick_A
+house_a_interior_column010:9533940@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column009:9533941@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column008:9533942@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_wall_b007:9533943@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+carpet_c001:9533944@[ModelObject]
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+house_a_interior_wall_b002:9533945@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_wall_b001:9533946@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+stacks_a008:9533947@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a006:9533948@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a005:9533949@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a004:9533950@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+commode_b001:9533951@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+wardrobe_a001:9533952@[ModelObject]
+	MeshName	=	wardrobe_a.msh
+	SkinName	=	Default
+stacks_a003:9533953@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a002:9533954@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a001:9533955@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+cross_small_b001:9533956@[ModelObject]
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+house_a_interior_column001:9533957@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+candle001:9533958@[ModelObject]
+	MeshName	=	candle.msh
+	SkinName	=	default
+holy_bible002:9533959@[ModelObject]
+	MeshName	=	holy_bible.msh
+	SkinName	=	Default
+holy_bible001:9533960@[ModelObject]
+	MeshName	=	holy_bible.msh
+	SkinName	=	Default
+counterr_small_b001:9533961@[ModelObject]
+	MeshName	=	counterr_small_b.msh
+	SkinName	=	Default
+counterr_small_a002:9533962@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a003:9533963@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a001:9533964@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+case_a001:9533965@[ModelObject]
+	MeshName	=	case_a.msh
+	SkinName	=	Default
+carpet_a001:9533966@[ModelObject]
+	MeshName	=	carpet_a.msh
+	SkinName	=	Default
+candlestick_c001:9533967@[ModelObject]
+	MeshName	=	candlestick_c.msh
+	SkinName	=	default
+books025:9533968@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books016:9533969@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books017:9533970@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books015:9533971@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books014:9533972@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books013:9533973@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books012:9533974@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books011:9533975@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books010:9533976@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books009:9533977@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books008:9533978@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books007:9533979@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books006:9533980@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books005:9533981@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books004:9533982@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books003:9533983@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books002:9533984@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books001:9533985@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book022:9533986@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book021:9533987@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+house_window_a001:9533988@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_door_a001:9533989@[ModelObject] from group arizona_house_e01:9534056
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_a_interior001:9533990@[ModelObject]
+	MeshName	=	house_a_interior.msh
+	SkinName	=	Wall_Brick_A
+books018:9533991@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book015:9533992@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book014:9533993@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book013:9533994@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book012:9533995@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+house_shutter_a009:9533996@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+book016:9533997@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book011:9533998@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book010:9533999@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book009:9534000@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book008:9534001@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book007:9534002@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book006:9534003@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book005:9534004@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book004:9534005@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book003:9534006@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book002:9534007@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book001:9534008@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+bed_a001:9534009@[ModelObject]
+	MeshName	=	bed_a.msh
+	SkinName	=	Default
+house_shutter_a001:9534010@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a002:9534011@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a003:9534012@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a004:9534013@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a005:9534014@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a006:9534015@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a007:9534016@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a008:9534017@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_barrier_small_a001:9534018@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_barrier_small_a004:9534019@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_a_interior_wall_b006:9534020@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_wall_b005:9534021@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_wall_b004:9534022@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_wall_b003:9534023@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+stacks_a007:9534024@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+table_a_cloth_b001:9534025@[ModelObject]
+	MeshName	=	table_a_cloth_b.msh
+	SkinName	=	Default
+house_a_interior_column007:9534026@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column006:9534027@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+books024:9534028@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+plate_a005:9534029@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+plate_a004:9534030@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+book020:9534031@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+spittoon001:9534032@[ModelObject]
+	MeshName	=	spittoon.msh
+	SkinName	=	Default
+stove001:9534033@[ModelObject]
+	MeshName	=	stove.msh
+	SkinName	=	Default
+house_a_interior_column005:9534034@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column004:9534035@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+holy_bible004:9534036@[ModelObject]
+	MeshName	=	holy_bible.msh
+	SkinName	=	Default
+books023:9534037@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+mug002:9534038@[ModelObject]
+	MeshName	=	mug.msh
+	SkinName	=	default
+plate_a003:9534039@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+kettle001:9534040@[ModelObject]
+	MeshName	=	kettle.msh
+	SkinName	=	Default
+chair_b002:9534041@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+holy_bible003:9534042@[ModelObject]
+	MeshName	=	holy_bible.msh
+	SkinName	=	Default
+books022:9534043@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books021:9534044@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book019:9534045@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+mug001:9534046@[ModelObject]
+	MeshName	=	mug.msh
+	SkinName	=	default
+plate_a002:9534047@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+chair_b001:9534048@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+book018:9534049@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book017:9534050@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books020:9534051@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+house_a_interior_column003:9534052@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column002:9534053@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+plate_a001:9534054@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+books019:9534055@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+house_a_interior_wall_a002:9534122@[ModelObject]
+	MeshName	=	house_a_interior_wall_a.msh
+	SkinName	=	Default
+house_a_interior_wall_a001:9534123@[ModelObject]
+	MeshName	=	house_a_interior_wall_a.msh
+	SkinName	=	Default
+house_a_interior_wall_b008:9534124@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+stacks_a010:9534125@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+case_a002:9534126@[ModelObject]
+	MeshName	=	case_a.msh
+	SkinName	=	Default
+tin_basin_a001:9534127@[ModelObject]
+	MeshName	=	tin_basin_a.msh
+	SkinName	=	Default
+house_door_a003:9534128@[ModelObject] from group arizona_house_g01:9534187
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+counterr_small_a006:9534129@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a005:9534130@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a004:9534131@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+house_door_a002:9534132@[ModelObject] from group arizona_house_g01:9534187
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_a_interior002:9534134@[ModelObject]
+	MeshName	=	house_a_interior.msh
+	SkinName	=	Default
+clock_a001:9534135@[ModelObject] from group arizona_house_g01:9534187
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+house_window_a005:9534136@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_shutter_a015:9534137@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a025:9534138@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a014:9534139@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a024:9534140@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_a_interior_column011:9534141@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_shutter_a022:9534142@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_window_a003:9534143@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a004:9534144@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_shutter_a020:9534145@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a021:9534146@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a023:9534147@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+chair_b003:9534148@[ModelObject] from group arizona_house_g01:9534187
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+counterr_small_b002:9534149@[ModelObject]
+	MeshName	=	counterr_small_b.msh
+	SkinName	=	Default
+soap001:9534150@[ModelObject]
+	MeshName	=	soap.msh
+	SkinName	=	Default
+soap002:9534151@[ModelObject]
+	MeshName	=	soap.msh
+	SkinName	=	Default
+soap003:9534152@[ModelObject]
+	MeshName	=	soap.msh
+	SkinName	=	Default
+soap004:9534153@[ModelObject]
+	MeshName	=	soap.msh
+	SkinName	=	Default
+soap005:9534154@[ModelObject]
+	MeshName	=	soap.msh
+	SkinName	=	Default
+soap006:9534155@[ModelObject]
+	MeshName	=	soap.msh
+	SkinName	=	Default
+book023:9534156@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+house_a_interior_column012:9534157@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column015:9534158@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+bag001:9534159@[ModelObject]
+	MeshName	=	bag.msh
+	SkinName	=	Default
+house_a_interior_column014:9534160@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+tin_jug001:9534161@[ModelObject]
+	MeshName	=	tin_jug.msh
+	SkinName	=	Default
+tin_jug002:9534162@[ModelObject]
+	MeshName	=	tin_jug.msh
+	SkinName	=	Default
+house_window_a006:9534163@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_shutter_a017:9534164@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a019:9534165@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a016:9534166@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a018:9534167@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_balcony_small_a003:9534168@[ModelObject]
+	MeshName	=	house_balcony_small_a.msh
+	SkinName	=	Default
+house_barrier_small_a005:9534169@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_barrier_small_a006:9534170@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_barrier_a003:9534171@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_roof_h001:9534172@[ModelObject]
+	MeshName	=	house_roof_h.msh
+	SkinName	=	Default
+stacks_a009:9534173@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+saddle003:9534174@[ModelObject]
+	MeshName	=	saddle.msh
+	SkinName	=	default
+saddle001:9534175@[ModelObject]
+	MeshName	=	saddle.msh
+	SkinName	=	default
+saddle002:9534176@[ModelObject]
+	MeshName	=	saddle.msh
+	SkinName	=	default
+house_shutter_a013:9534177@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a012:9534178@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_a_interior_column013:9534179@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_balcony_c001:9534180@[ModelObject]
+	MeshName	=	house_balcony_c.msh
+	SkinName	=	Default
+house_walkway_a002:9534181@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	Default
+house_barrier_c001:9534182@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c002:9534183@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c003:9534184@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c004:9534185@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c005:9534186@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_a001:9534197@[ModelObject]
+	MeshName	=	house_a.msh
+	SkinName	=	Wall_Wood_A
+house_stairs_a_barrier001:9534198@[ModelObject]
+	MeshName	=	house_stairs_a_barrier.msh
+	SkinName	=	Default
+house_barrier_a004:9534199@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_walkway_a003:9534200@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	Default
+horsepole001:9534201@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+house_balcony_b001:9534202@[ModelObject]
+	MeshName	=	house_balcony_b.msh
+	SkinName	=	Default
+house_stairs_a001:9534203@[Ramp] from group sel_house_balcony01:9534205
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+house_roof_a002:9534204@[ModelObject]
+	MeshName	=	house_roof_a.msh
+	SkinName	=	Wall_Wood_A
+saloon_a002:9534253@[ModelObject]
+	MeshName	=	saloon_a.msh
+	SkinName	=	Default
+house_a_interior003:9534254@[ModelObject]
+	MeshName	=	house_a_interior.msh
+	SkinName	=	Wall_Painted_A_Wallpaper_OLD/DIRT
+house_balcony_a002:9534260@[ModelObject]
+	MeshName	=	house_balcony_a.msh
+	SkinName	=	Default
+house_ground_floor_a003:9535128@[ModelObject]
+	MeshName	=	house_ground_floor_a.msh
+	SkinName	=	Default
+house_a002:9535130@[ModelObject]
+	MeshName	=	house_a.msh
+	SkinName	=	Default
+house_roof_c001:9535132@[ModelObject]
+	MeshName	=	house_roof_c.msh
+	SkinName	=	Default
+house_roof_e002:9535133@[ModelObject]
+	MeshName	=	house_roof_e.msh
+	SkinName	=	Default
+stacks_a013:9535219@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+books029:9535220@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books030:9535221@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+house_a_interior_wall_b011:9535222@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_column018:9535223@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+books031:9535224@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books032:9535225@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books033:9535226@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book029:9535227@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book030:9535228@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+house_a_interior004:9535229@[ModelObject]
+	MeshName	=	house_a_interior.msh
+	SkinName	=	Wall_Painted_B
+book033:9535230@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book034:9535231@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book026:9535232@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book027:9535233@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book032:9535234@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book031:9535235@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books034:9535236@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+stacks_a012:9535237@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a011:9535238@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+house_window_a013:9535239@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_roof_g001:9535240@[ModelObject]
+	MeshName	=	house_roof_g.msh
+	SkinName	=	Wall_Painted_B
+plate_a008:9535241@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+plate_a009:9535242@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+plate_a010:9535243@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+books028:9535244@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books027:9535245@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books026:9535246@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book024:9535247@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+plate_a006:9535248@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+plate_a007:9535249@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Default
+mug003:9535250@[ModelObject]
+	MeshName	=	mug.msh
+	SkinName	=	default
+mug004:9535251@[ModelObject]
+	MeshName	=	mug.msh
+	SkinName	=	default
+carpet_a002:9535252@[ModelObject]
+	MeshName	=	carpet_a.msh
+	SkinName	=	Default
+stove002:9535253@[ModelObject]
+	MeshName	=	stove.msh
+	SkinName	=	Default
+house_window_a012:9535254@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+stacks_a014:9535255@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+counterr_small_a007:9535256@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_b003:9535257@[ModelObject]
+	MeshName	=	counterr_small_b.msh
+	SkinName	=	Default
+counterr_small_a008:9535258@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a009:9535259@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+spittoon002:9535260@[ModelObject]
+	MeshName	=	spittoon.msh
+	SkinName	=	Default
+carpet_c002:9535261@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+book025:9535262@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+book028:9535263@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+holy_bible005:9535264@[ModelObject]
+	MeshName	=	holy_bible.msh
+	SkinName	=	Default
+books037:9535265@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books036:9535266@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books035:9535267@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+house_window_a007:9535268@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_a_interior_wall_b010:9535269@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_column016:9535270@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column017:9535271@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+house_a_interior_column019:9535272@[ModelObject]
+	MeshName	=	house_a_interior_column.msh
+	SkinName	=	Default
+bed_a002:9535273@[ModelObject]
+	MeshName	=	bed_a.msh
+	SkinName	=	Default
+wardrobe_a002:9535274@[ModelObject]
+	MeshName	=	wardrobe_a.msh
+	SkinName	=	Default
+commode_b002:9535275@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+cross_small_b002:9535276@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+candle002:9535277@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	candle.msh
+	SkinName	=	default
+candlestick_c002:9535278@[ModelObject]
+	MeshName	=	candlestick_c.msh
+	SkinName	=	default
+case_a003:9535279@[ModelObject]
+	MeshName	=	case_a.msh
+	SkinName	=	Default
+table_a_cloth_b002:9535280@[ModelObject]
+	MeshName	=	table_a_cloth_b.msh
+	SkinName	=	Default
+chair_b004:9535281@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b005:9535282@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+kettle002:9535283@[ModelObject]
+	MeshName	=	kettle.msh
+	SkinName	=	Default
+house_window_a010:9535284@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_shutter_a029:9535285@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a028:9535286@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a027:9535287@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_shutter_a026:9535288@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	Default
+house_window_a011:9535289@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a008:9535290@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a009:9535291@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+holy_bible006:9535292@[ModelObject]
+	MeshName	=	holy_bible.msh
+	SkinName	=	Default
+house_balcony_c002:9535293@[ModelObject]
+	MeshName	=	house_balcony_c.msh
+	SkinName	=	Default
+house_barrier_c006:9535294@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c007:9535295@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c008:9535296@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c010:9535297@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_walkway_a004:9535298@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	Default
+house_door_a004:9535299@[ModelObject] from group arizona_house_c01:9535301
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_barrier_c009:9535300@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_oriel_a001:9535302@[ModelObject]
+	MeshName	=	house_oriel_a.msh
+	SkinName	=	Default
+house_balcony_a003:9535304@[ModelObject]
+	MeshName	=	house_balcony_a.msh
+	SkinName	=	Default
+house_stairs_a_barrier002:9535307@[ModelObject]
+	MeshName	=	house_stairs_a_barrier.msh
+	SkinName	=	Default
+house_stairs_a002:9535311@[Ramp]
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+house_stairs_c_barrier001:9535312@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier002:9535313@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier003:9535314@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier#002:9535318@[ModelObject]
+	MeshName	=	house_stairs_c_barrier#04.msh
+	SkinName	=	default
+house_balcony_a004:9535320@[ModelObject]
+	MeshName	=	house_balcony_a.msh
+	SkinName	=	Default
+house_stairs_c_barrier005:9535324@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier006:9535325@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier007:9535326@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier008:9535327@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+crate_b001:9535328@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+crate_b002:9535329@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+crate_b003:9535330@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+crate_b004:9535331@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+crate_b005:9535332@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	default
+crate_big_a001:9535333@[ModelObject]
+	MeshName	=	crate_big_a.msh
+	SkinName	=	default
+crate_small_b001:9535334@[ModelObject]
+	MeshName	=	crate_small_b.msh
+	SkinName	=	Old
+crate_small_b002:9535335@[ModelObject]
+	MeshName	=	crate_small_b.msh
+	SkinName	=	Old
+house_balcony_small_a005:9535340@[ModelObject]
+	MeshName	=	house_balcony_small_a.msh
+	SkinName	=	Default
+house_barrier_c011:9535341@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c#001:9535343@[ModelObject]
+	MeshName	=	house_barrier_c#03.msh
+	SkinName	=	default
+house_barrier_c#003:9535345@[ModelObject]
+	MeshName	=	house_barrier_c#03.msh
+	SkinName	=	default
+chimney_a001:9535347@[ModelObject]
+	MeshName	=	chimney_a.msh
+	SkinName	=	Stone_A
+windmill_anim001:9535350@[ModelObject]
+	MeshName	=	windmill_anim.msh
+	SkinName	=	Default
+windmill_a_ladder001:9535353@[Ladder]
+	MeshName	=	windmill_a_ladder.msh
+	SkinName	=	default
+water_tower_anim001:9535357@[ModelObject]
+	MeshName	=	water_tower_anim.msh
+	SkinName	=	Default
+ladder_a001:9535359@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+crate_box001:9535361@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box002:9535362@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+ladder_a002:9535364@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a003:9535365@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+crate_box004:9535367@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_e001:9535369@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e002:9535370@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e003:9535371@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e004:9535372@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e005:9535373@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e006:9535374@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e007:9535375@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e008:9535376@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e009:9535377@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e010:9535378@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e011:9535379@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_e012:9535380@[ModelObject]
+	MeshName	=	crate_e.msh
+	SkinName	=	Old
+crate_big_b001:9535381@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b002:9535382@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b003:9535383@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+mexican_rooflet_a001:9535386@[ModelObject]
+	MeshName	=	mexican_rooflet_a.msh
+	SkinName	=	Default
+mexican_rooflet_a002:9535387@[ModelObject]
+	MeshName	=	mexican_rooflet_a.msh
+	SkinName	=	Default
+crate_small_b003:9535389@[ModelObject]
+	MeshName	=	crate_small_b.msh
+	SkinName	=	Old
+house_corner_a001:9535394@[ModelObject]
+	MeshName	=	house_corner_a.msh
+	SkinName	=	Wall_Wood_Old_B
+house_corner_balcony_a001:9535395@[ModelObject]
+	MeshName	=	house_corner_balcony_a.msh
+	SkinName	=	Default
+house_corner_roof_b001:9535396@[ModelObject]
+	MeshName	=	house_corner_roof_b.msh
+	SkinName	=	Wall_Wood_Old_B
+windmill_a_ladder002:9535399@[Ladder] from group arizona_house_e01:9534056
+	MeshName	=	windmill_a_ladder.msh
+	SkinName	=	default
+stagecoach_ride001:9535402@[ModelObject]
+	MeshName	=	stagecoach_ride.msh
+	SkinName	=	Default
+wagon_a_ride002:9535408@[ModelObject]
+	MeshName	=	wagon_a_ride.msh
+	SkinName	=	Default
+wagon_tarpaulin_a002:9535411@[ModelObject]
+	MeshName	=	wagon_tarpaulin_a.msh
+	SkinName	=	Old
+crate_big_b004:9535413@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+house_cellar001:9535414@[ModelObject]
+	MeshName	=	house_cellar.msh
+	SkinName	=	Wall_Wood_Old_A
+trough002:9535418@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Standard
+trough003:9535419@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Standard
+trough004:9535420@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+wanted001:9535421@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	default
+wanted002:9535422@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	default
+lasso_rolled001:9535424@[ModelObject]
+	MeshName	=	lasso_rolled.msh
+	SkinName	=	Default
+stone_big_a007:9535425@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+stone_arizona_b002:9535426@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_d005:9535428@[ModelObject]
+	MeshName	=	stone_d.msh
+	SkinName	=	Default
+cactus_a010:9535431@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+house_walkway_a005:9535437@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	Default
+house_walkway_a007:9535439@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	Default
+house_walkway_a008:9535440@[ModelObject]
+	MeshName	=	house_walkway_a.msh
+	SkinName	=	Default
+house_corner_walkway_a001:9535441@[ModelObject]
+	MeshName	=	house_corner_walkway_a.msh
+	SkinName	=	Default
+house_rooflet_small_a001:9535444@[ModelObject]
+	MeshName	=	house_rooflet_small_a.msh
+	SkinName	=	Roof_A
+house_roof_h002:9535446@[ModelObject]
+	MeshName	=	house_roof_h.msh
+	SkinName	=	Default
+house_balcony_small_a006:9535450@[ModelObject]
+	MeshName	=	house_balcony_small_a.msh
+	SkinName	=	Default
+ladder_a005:9535451@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+house_balcony_a007:9535453@[ModelObject]
+	MeshName	=	house_balcony_a.msh
+	SkinName	=	Default
+water_tower_c001:9535457@[ModelObject]
+	MeshName	=	water_tower_c.msh
+	SkinName	=	Old
+horsepole002:9535463@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+horsepole003:9535464@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+horsepole004:9535465@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+horsepole006:9535467@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+horsepole007:9535468@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+horsepole008:9535469@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+stone_d006:9535472@[ModelObject]
+	MeshName	=	stone_d.msh
+	SkinName	=	Default
+stone_c006:9535473@[ModelObject]
+	MeshName	=	stone_c.msh
+	SkinName	=	Arizona_A
+stone_big_c008:9535474@[ModelObject]
+	MeshName	=	stone_big_c.msh
+	SkinName	=	Arizona_A
+tree_mountain_d001:9535477@[ModelObject]
+	MeshName	=	tree_mountain_d.msh
+	SkinName	=	Default
+cactus_a011:9535478@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c006:9535479@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b009:9535480@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_d006:9535481@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_b010:9535483@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+bush_a003:9535488@[ModelObject]
+	MeshName	=	bush_a.msh
+	SkinName	=	Default
+horsea001:9535489@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB
+horsea002:9535491@[Horse]
+	bSaddled	=	1
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC
+house_barrier_c012:9536544@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c014:9536546@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_stairs_c_barrier009:9536549@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier010:9536550@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier011:9536551@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier012:9536552@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier016:9536556@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier017:9536557@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier018:9536566@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier020:9536568@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier021:9536569@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier022:9536570@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier023:9536571@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier024:9536572@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_stairs_c_barrier025:9536573@[ModelObject]
+	MeshName	=	house_stairs_c_barrier.msh
+	SkinName	=	Default
+house_barrier_c016:9536578@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c017:9536579@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Default
+house_barrier_c018:9536586@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c019:9536587@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c020:9536588@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c022:9536590@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c025:9536593@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c026:9536594@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c029:9536597@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c030:9536598@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c031:9536599@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c032:9536600@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c#004:9536601@[ModelObject]
+	MeshName	=	house_barrier_c#03.msh
+	SkinName	=	default
+house_barrier_c#005:9536602@[ModelObject]
+	MeshName	=	house_barrier_c#03.msh
+	SkinName	=	default
+house_barrier_c#006:9536603@[ModelObject]
+	MeshName	=	house_barrier_c#03.msh
+	SkinName	=	default
+house_barrier_c#007:9536604@[ModelObject]
+	MeshName	=	house_barrier_c#03.msh
+	SkinName	=	default
+house_barrier_c033:9536605@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c034:9536606@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_a005:9536613@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a006:9536614@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a007:9536615@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a008:9536616@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a009:9536617@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a010:9536618@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a017:9536625@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a018:9536626@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a019:9536627@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a020:9536628@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a021:9536629@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a022:9536630@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a023:9536631@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_walkway_step002:9536632@[ModelObject]
+	MeshName	=	house_walkway_step.msh
+	SkinName	=	Default
+house_walkway_step003:9536633@[ModelObject]
+	MeshName	=	house_walkway_step.msh
+	SkinName	=	Default
+house_walkway_step004:9536634@[ModelObject]
+	MeshName	=	house_walkway_step.msh
+	SkinName	=	Default
+trough005:9536635@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Standard
+house_window_b001:9536637@[ModelObject]
+	MeshName	=	house_window_b.msh
+	SkinName	=	Default
+house_window_b002:9536638@[ModelObject]
+	MeshName	=	house_window_b.msh
+	SkinName	=	Default
+house_window_a015:9536640@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a016:9536641@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a017:9536642@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_door_a005:9536645@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a006:9536647@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_window_b#001:9536651@[ModelObject]
+	MeshName	=	house_window_b#01.msh
+	SkinName	=	default
+house_window_a018:9536653@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a019:9536654@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_c001:9536655@[ModelObject]
+	MeshName	=	house_window_c.msh
+	SkinName	=	Default
+house_window_c002:9536656@[ModelObject]
+	MeshName	=	house_window_c.msh
+	SkinName	=	Default
+house_window_c003:9536657@[ModelObject]
+	MeshName	=	house_window_c.msh
+	SkinName	=	Default
+house_window_c004:9536658@[ModelObject]
+	MeshName	=	house_window_c.msh
+	SkinName	=	Default
+saloon_door_a001:9536664@[ModelObject]
+	MeshName	=	saloon_door_a.msh
+	SkinName	=	Default
+saloon_door_a002:9536665@[ModelObject]
+	MeshName	=	saloon_door_a.msh
+	SkinName	=	Default
+sign_round001:9536667@[ModelObject]
+	MeshName	=	sign_round.msh
+	SkinName	=	Boots_n_Shoes
+sign_round003:9536670@[ModelObject]
+	MeshName	=	sign_round.msh
+	SkinName	=	Weapon_Store
+sign002:9536671@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Sheriff
+sign_vert001:9536672@[ModelObject]
+	MeshName	=	sign_vert.msh
+	SkinName	=	Hotel
+sign_vert002:9536673@[ModelObject]
+	MeshName	=	sign_vert.msh
+	SkinName	=	Hotel
+sign_round004:9536674@[ModelObject]
+	MeshName	=	sign_round.msh
+	SkinName	=	Grand_Saloon
+bench_d001:9536678@[ModelObject]
+	MeshName	=	bench_d.msh
+	SkinName	=	Old
+chair_a001:9536679@[ModelObject]
+	MeshName	=	chair_a.msh
+	SkinName	=	Default
+house_barrier_a024:9536680@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a025:9536681@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_a026:9536682@[ModelObject]
+	MeshName	=	house_barrier_a.msh
+	SkinName	=	Default
+house_barrier_small_a007:9536690@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_barrier_small_a008:9536691@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_barrier_small_a009:9536692@[ModelObject]
+	MeshName	=	house_barrier_small_a.msh
+	SkinName	=	Default
+house_walkway_barrier_a003:9536693@[ModelObject]
+	MeshName	=	house_walkway_barrier_a.msh
+	SkinName	=	Default
+house_walkway_barrier_a004:9536694@[ModelObject]
+	MeshName	=	house_walkway_barrier_a.msh
+	SkinName	=	Default
+house_walkway_barrier_a006:9536696@[ModelObject]
+	MeshName	=	house_walkway_barrier_a.msh
+	SkinName	=	Default
+house_walkway_barrier_a007:9536697@[ModelObject]
+	MeshName	=	house_walkway_barrier_a.msh
+	SkinName	=	Default
+house_door_a007:9536698@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a008:9536699@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a009:9536700@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a012:9536703@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a013:9536704@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a014:9536705@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+mexican_window_c001:9536708@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c002:9536709@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c005:9536714@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c006:9536715@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c007:9536716@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c008:9536717@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c009:9536718@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+mexican_window_c010:9536719@[ModelObject]
+	MeshName	=	mexican_window_c.msh
+	SkinName	=	C
+house_door_a015:9536723@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C_Block
+house_door_a016:9536724@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C_Block
+house_door_a017:9536725@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C_Block
+house_door_a018:9536726@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C_Block
+shelter_b001:9536729@[ModelObject]
+	MeshName	=	shelter_b.msh
+	SkinName	=	Wall_Wood_Old_B
+privy_a001:9536730@[ModelObject]
+	MeshName	=	privy_a.msh
+	SkinName	=	Default
+chair_b006:9537880@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c001:9537882@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+table_c005:9537886@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b007:9537887@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b008:9537888@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b009:9537889@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b010:9537890@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b011:9537891@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c009:9537895@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b012:9537897@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b013:9537898@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b014:9537899@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b015:9537900@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b016:9537901@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b017:9537902@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c011:9537903@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b018:9537904@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b019:9537905@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b020:9537906@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b021:9537907@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c012:9537908@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b022:9537909@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b023:9537910@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c013:9537911@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b024:9537912@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b025:9537913@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b026:9537914@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b027:9537915@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c018:9537937@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+table_c019:9537938@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+table_c020:9537939@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b044:9537940@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b045:9537941@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b046:9537942@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b047:9537943@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b048:9537944@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b049:9537945@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b050:9537946@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b051:9537947@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b052:9537948@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b053:9537949@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b054:9537950@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b055:9537951@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b056:9537952@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b057:9537953@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b058:9537954@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b059:9537955@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+table_c021:9537956@[ModelObject]
+	MeshName	=	table_c.msh
+	SkinName	=	Default
+chair_b060:9537957@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+counterr_small_a010:9537958@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a011:9537959@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a012:9537960@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_a014:9537962@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+counterr_small_b006:9537965@[ModelObject]
+	MeshName	=	counterr_small_b.msh
+	SkinName	=	Default
+counterr_small_a015:9537966@[ModelObject]
+	MeshName	=	counterr_small_a.msh
+	SkinName	=	Default
+candlestick_a001:9537967@[ModelObject]
+	MeshName	=	candlestick_a.msh
+	SkinName	=	default
+cup_b001:9537968@[ModelObject]
+	MeshName	=	cup_b.msh
+	SkinName	=	Ceramic
+wanted003:9537969@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	saloon
+wanted005:9537971@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	saloon
+wanted006:9537972@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	show
+piano001:9537973@[ModelObject]
+	MeshName	=	piano.msh
+	SkinName	=	Default
+chair_b061:9537974@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Paint
+georgian_bed_b001:9537975@[ModelObject]
+	MeshName	=	georgian_bed_b.msh
+	SkinName	=	Default
+kitchen_stacks001:9537976@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Paint
+kitchen_stacks002:9537977@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Paint
+kitchen_stacks003:9537978@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Paint
+kitchen_stacks004:9537979@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Paint
+wardrobe_a003:9537981@[ModelObject]
+	MeshName	=	wardrobe_a.msh
+	SkinName	=	Default
+night_table_a001:9537982@[ModelObject]
+	MeshName	=	night_table_a.msh
+	SkinName	=	Default
+armchair001:9537983@[ModelObject]
+	MeshName	=	armchair.msh
+	SkinName	=	Armchair_B
+folding_chair_a001:9537986@[ModelObject]
+	MeshName	=	folding_chair_a.msh
+	SkinName	=	Default
+georgian_desk_a001:9537987@[ModelObject]
+	MeshName	=	georgian_desk_a.msh
+	SkinName	=	Default
+georgian_wardrobe_c001:9537988@[ModelObject]
+	MeshName	=	georgian_wardrobe_c.msh
+	SkinName	=	Default
+georgian_wardrobe_a001:9537989@[ModelObject]
+	MeshName	=	georgian_wardrobe_a.msh
+	SkinName	=	Default
+safe001:9537990@[ModelObject]
+	MeshName	=	safe.msh
+	SkinName	=	Default
+stove003:9537991@[ModelObject]
+	MeshName	=	stove.msh
+	SkinName	=	Default
+carpet_d001:9537992@[ModelObject]
+	MeshName	=	carpet_d.msh
+	SkinName	=	Spikes
+house_door_a019:9537993@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a020:9537994@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a021:9537995@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a022:9537996@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a023:9537997@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	F
+house_door_a024:9537998@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	F
+house_door_a025:9537999@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	F
+house_door_a026:9538000@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	F
+house_barrier_c035:9538002@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c036:9538003@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c037:9538004@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c038:9538005@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c039:9538006@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c040:9538007@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c041:9538008@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+house_barrier_c042:9538009@[ModelObject]
+	MeshName	=	house_barrier_c.msh
+	SkinName	=	Old
+bed_b001:9538010@[ModelObject]
+	MeshName	=	bed_b.msh
+	SkinName	=	Default
+house_window_a020:9538012@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a021:9538013@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a022:9538014@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a023:9538015@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a024:9538016@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a025:9538017@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_window_a026:9538018@[ModelObject]
+	MeshName	=	house_window_a.msh
+	SkinName	=	Default
+house_shutter_a030:9538019@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a031:9538020@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a032:9538021@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a033:9538022@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a034:9538023@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a035:9538024@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a036:9538025@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a037:9538026@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a038:9538027@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a039:9538028@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a040:9538029@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a041:9538030@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a042:9538031@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+house_shutter_a043:9538032@[ModelObject]
+	MeshName	=	house_shutter_a.msh
+	SkinName	=	A_Block
+hanger_a001:9539295@[ModelObject]
+	MeshName	=	hanger_a.msh
+	SkinName	=	Old_B
+hangrope001:9539296@[ModelObject]
+	MeshName	=	hangrope.msh
+	SkinName	=	Default
+stall_a#04#001:9539298@[ModelObject]
+	MeshName	=	stall_a#04#02.msh
+	SkinName	=	default
+stall_a#04#002:9539303@[ModelObject]
+	MeshName	=	stall_a#04#02.msh
+	SkinName	=	default
+house_door_a027:9539305@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a#002:9539307@[ModelObject]
+	MeshName	=	house_door_a#01.msh
+	SkinName	=	default
+house_door_a028:9539308@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a029:9539309@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a030:9539310@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a031:9539311@[ModelObject] from group arizona_house_e01:9534056
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a032:9539312@[ModelObject] from group arizona_house_e01:9534056
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a033:9539313@[ModelObject] from group arizona_house_e01:9534056
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+fence_old_cracked004:9539315@[ModelObject]
+	MeshName	=	fence_old_cracked.msh
+	SkinName	=	Default
+fence_old_b009:9539316@[ModelObject]
+	MeshName	=	fence_old_b.msh
+	SkinName	=	Default
+laundryhanger004:9539322@[ModelObject]
+	MeshName	=	laundryhanger.msh
+	SkinName	=	Default
+laundry_b001:9539323@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_a001:9539325@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_a.msh
+	SkinName	=	Default
+laundryhanger005:9539326@[ModelObject]
+	MeshName	=	laundryhanger.msh
+	SkinName	=	Default
+laundryhanger006:9539327@[ModelObject]
+	MeshName	=	laundryhanger.msh
+	SkinName	=	Default
+laundry_b002:9539328@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_a002:9539329@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_a.msh
+	SkinName	=	Default
+laundryhanger007:9539330@[ModelObject]
+	MeshName	=	laundryhanger.msh
+	SkinName	=	Default
+laundryhanger008:9539331@[ModelObject]
+	MeshName	=	laundryhanger.msh
+	SkinName	=	Default
+laundry_b003:9539332@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_a003:9539333@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_a.msh
+	SkinName	=	Default
+laundryhanger009:9539334@[ModelObject]
+	MeshName	=	laundryhanger.msh
+	SkinName	=	Default
+stand001:9539336@[ModelObject]
+	MeshName	=	stand.msh
+	SkinName	=	Default
+wanted007:9539337@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	cattle
+wanted008:9539338@[ModelObject]
+	MeshName	=	wanted.msh
+	SkinName	=	peters
+hay_cube_pile_a001:9539339@[ModelObject]
+	MeshName	=	hay_cube_pile_a.msh
+	SkinName	=	Default
+hay_cube_pile_b001:9539340@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+hayrick_b001:9539341@[ModelObject]
+	MeshName	=	hayrick_b.msh
+	SkinName	=	Default
+barn_walkway_a001:9539346@[ModelObject]
+	MeshName	=	barn_walkway_a.msh
+	SkinName	=	Default
+animal_skull_c001:9539347@[ModelObject]
+	MeshName	=	animal_skull_c.msh
+	SkinName	=	Default
+chair_c#001:9539349@[ModelObject]
+	MeshName	=	chair_c#02.msh
+	SkinName	=	default
+chair_c#002:9539350@[ModelObject]
+	MeshName	=	chair_c#01.msh
+	SkinName	=	default
+chair_c001:9539351@[ModelObject]
+	MeshName	=	chair_c.msh
+	SkinName	=	Old
+skin_bear001:9539352@[ModelObject]
+	MeshName	=	skin_bear.msh
+	SkinName	=	Default
+fence_destruction002:9539355@[ModelObject]
+	MeshName	=	fence_destruction.msh
+	SkinName	=	Default
+fence_old_b#006:9539358@[ModelObject]
+	MeshName	=	fence_old_b#05.msh
+	SkinName	=	default
+fence_old_b#007:9539360@[ModelObject]
+	MeshName	=	fence_old_b#02.msh
+	SkinName	=	default
+fence_old_a001:9539361@[ModelObject]
+	MeshName	=	fence_old_a.msh
+	SkinName	=	Default
+fence_stick_a002:9539364@[ModelObject]
+	MeshName	=	fence_stick_a.msh
+	SkinName	=	Default
+fence_stick_b001:9539365@[ModelObject]
+	MeshName	=	fence_stick_b.msh
+	SkinName	=	Default
+fence_stick_b002:9539366@[ModelObject]
+	MeshName	=	fence_stick_b.msh
+	SkinName	=	Default
+trough006:9539367@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+hayrick_b002:9539369@[ModelObject]
+	MeshName	=	hayrick_b.msh
+	SkinName	=	Default
+wood_stack_b002:9539373@[ModelObject]
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	Default
+barrel_b001:9539375@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	TNT_Explosives
+shelter_b002:9539378@[ModelObject]
+	MeshName	=	shelter_b.msh
+	SkinName	=	Wall_Wood_Old_B
+trough007:9539379@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Standard
+stones_big_mexico_d_linked001:9539380@[ModelObject]
+	MeshName	=	stones_big_mexico_d_linked.msh
+	SkinName	=	Default
+stones_big_mexico_c_linked001:9539381@[ModelObject]
+	MeshName	=	stones_big_mexico_c_linked.msh
+	SkinName	=	Default
+stones_big_mexico_d_linked002:9539382@[ModelObject]
+	MeshName	=	stones_big_mexico_d_linked.msh
+	SkinName	=	Default
+stones_mid_mexico_b_linked001:9539383@[ModelObject]
+	MeshName	=	stones_mid_mexico_b_linked.msh
+	SkinName	=	default
+stones_mid_mexico_c_linked001:9539384@[ModelObject]
+	MeshName	=	stones_mid_mexico_c_linked.msh
+	SkinName	=	default
+stones_mid_mexico_a_linked001:9539386@[ModelObject]
+	MeshName	=	stones_mid_mexico_a_linked.msh
+	SkinName	=	Default
+stones_big_mexico_a_linked001:9539387@[ModelObject]
+	MeshName	=	stones_big_mexico_a_linked.msh
+	SkinName	=	Default
+cactus_a012:9539388@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c007:9539389@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_d007:9539390@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+bush_arizona_b001:9539393@[Actor]
+	MeshName	=	bush_arizona_b.msh
+	SkinName	=	Default
+bush_arizona_a001:9539394@[Actor]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_dry_a001:9539395@[Actor]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+stone_big_c009:9539396@[ModelObject]
+	MeshName	=	stone_big_c.msh
+	SkinName	=	Default
+cactus_d008:9539398@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+crates_stack001:9539401@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Old
+crates_stack002:9539402@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+crate_f001:9539403@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f002:9539404@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f003:9539405@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f004:9539406@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f005:9539407@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f006:9539408@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f007:9539409@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f008:9539410@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f009:9539411@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f010:9539412@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f011:9539413@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f012:9539414@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f013:9539415@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+house_door_a035:9540767@[ModelObject] from group arizona_house_e01:9534056
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+horizon_arizona_b001:9540783@[ModelObject]
+	MeshName	=	horizon_arizona_b.msh
+	SkinName	=	default
+rock_b001:9540785@[ModelObject]
+	MeshName	=	rock_b.msh
+	SkinName	=	default
+rock_c001:9540786@[ModelObject]
+	MeshName	=	rock_c.msh
+	SkinName	=	default
+rock_arizona_f001:9540789@[ModelObject]
+	MeshName	=	rock_arizona_f.msh
+	SkinName	=	default
+stone_big_a009:9540793@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+cactus_a013:9540794@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c008:9540795@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+bush_a004:9540796@[Actor]
+	MeshName	=	bush_a.msh
+	SkinName	=	Default
+wagon_b001:9540799@[ModelObject]
+	MeshName	=	wagon_b.msh
+	SkinName	=	Default
+wagon_frame001:9540800@[ModelObject]
+	MeshName	=	wagon_frame.msh
+	SkinName	=	Old
+wheel001:9540801@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wheel_des001:9540802@[ModelObject]
+	MeshName	=	wheel_des.msh
+	SkinName	=	Default
+wagon_c001:9540803@[ModelObject]
+	MeshName	=	wagon_c.msh
+	SkinName	=	Old
+bucket_a002:9540805@[ModelObject]
+	MeshName	=	bucket_a.msh
+	SkinName	=	Default
+tin_bathtub_b001:9540806@[ModelObject]
+	MeshName	=	tin_bathtub_b.msh
+	SkinName	=	Default
+sign003:9540807@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Blacksmith
+sign_round005:9540808@[ModelObject]
+	MeshName	=	sign_round.msh
+	SkinName	=	Barber_Shop
+stones_small_mexico_b_linked001:9540810@[ModelObject]
+	MeshName	=	stones_small_mexico_b_linked.msh
+	SkinName	=	default
+stones_small_mexico_a_linked001:9540811@[ModelObject]
+	MeshName	=	stones_small_mexico_a_linked.msh
+	SkinName	=	default
+stones_small_mexico_b_linked002:9540812@[ModelObject]
+	MeshName	=	stones_small_mexico_b_linked.msh
+	SkinName	=	default
+stones_mid_mexico_a_linked002:9540813@[ModelObject]
+	MeshName	=	stones_mid_mexico_a_linked.msh
+	SkinName	=	Default
+barrel_b002:9540815@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	TNT_Explosives
+barrel_b003:9540816@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	TNT_Explosives
+barrel_a001:9540817@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a002:9540818@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a003:9540819@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a004:9540820@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a005:9540821@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a006:9540822@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a007:9540823@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a008:9540824@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a009:9540825@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a010:9540826@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a011:9540827@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a012:9540828@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+well_a001:9540831@[ModelObject]
+	MeshName	=	well_a.msh
+	SkinName	=	Stone
+cactus_c009:9540833@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_a014:9540834@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b011:9540835@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_b012:9540836@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_a015:9540837@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b013:9540838@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+stone_b005:9540839@[ModelObject]
+	MeshName	=	stone_b.msh
+	SkinName	=	default
+stone_arizona_b003:9540840@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+cactus_a016:9542233@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+crates_wagon001:9542234@[ModelObject]
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+crates_stack003:9542235@[ModelObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+wood_stack_b003:9542236@[ModelObject]
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	Default
+wood_stack_b004:9542237@[ModelObject]
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	Default
+stone_arizona_b004:9542239@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	Arizona_A
+bush_arizona_b002:9542242@[Actor]
+	MeshName	=	bush_arizona_b.msh
+	SkinName	=	Default
+hay_cube_pile_b002:9542248@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+hay_cube_a001:9542249@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a002:9542250@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+bottle_b001:9542251@[ModelObject]
+	MeshName	=	bottle_b.msh
+	SkinName	=	Default
+bottle_a001:9542252@[ModelObject]
+	MeshName	=	bottle_a.msh
+	SkinName	=	Default
+bottle_c001:9542253@[ModelObject]
+	MeshName	=	bottle_c.msh
+	SkinName	=	Default
+bottle_d001:9542254@[ModelObject]
+	MeshName	=	bottle_d.msh
+	SkinName	=	Default
+carafe_a001:9542255@[ModelObject]
+	MeshName	=	carafe_a.msh
+	SkinName	=	Default
+carafe_a002:9542256@[ModelObject]
+	MeshName	=	carafe_a.msh
+	SkinName	=	Default
+bottle_a002:9542257@[ModelObject]
+	MeshName	=	bottle_a.msh
+	SkinName	=	Default
+bottle_b002:9542258@[ModelObject]
+	MeshName	=	bottle_b.msh
+	SkinName	=	Default
+bottle_c002:9542259@[ModelObject]
+	MeshName	=	bottle_c.msh
+	SkinName	=	Default
+bottle_c003:9542260@[ModelObject]
+	MeshName	=	bottle_c.msh
+	SkinName	=	Default
+bottle_b003:9542261@[ModelObject]
+	MeshName	=	bottle_b.msh
+	SkinName	=	Default
+bottle_d002:9542262@[ModelObject]
+	MeshName	=	bottle_d.msh
+	SkinName	=	Default
+clock_a002:9542264@[ModelObject]
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+bench_b001:9542265@[ModelObject]
+	MeshName	=	bench_b.msh
+	SkinName	=	Old
+barrel_b004:9542267@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	Default
+barrel_d001:9542268@[ModelObject]
+	MeshName	=	barrel_d.msh
+	SkinName	=	default
+barrel_b005:9542269@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	Default
+barrel_a013:9542270@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a014:9542271@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a015:9542272@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a016:9542273@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+horsepole009:9542274@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+horsepole010:9542275@[ModelObject]
+	MeshName	=	horsepole.msh
+	SkinName	=	default
+trough008:9542276@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+crate_d001:9542279@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d002:9542280@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d003:9542281@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d004:9542282@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d005:9542283@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+stone_arizona_b005:9542284@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+cactus_b014:9542285@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+stone_small_a002:9542286@[ModelObject]
+	MeshName	=	stone_small_a.msh
+	SkinName	=	Arizona_B
+cactus_c010:9542287@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_d009:9542288@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+stone_big_a010:9542289@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+cactus_a017:9542290@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b015:9542291@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+stones_big_mexico_c_linked002:9542292@[ModelObject]
+	MeshName	=	stones_big_mexico_c_linked.msh
+	SkinName	=	Default
+stones_big_mexico_e_linked001:9542293@[ModelObject]
+	MeshName	=	stones_big_mexico_e_linked.msh
+	SkinName	=	Default
+stones_big_mexico_b_linked001:9542294@[ModelObject]
+	MeshName	=	stones_big_mexico_b_linked.msh
+	SkinName	=	Default
+stones_big_mexico_a_linked002:9542295@[ModelObject]
+	MeshName	=	stones_big_mexico_a_linked.msh
+	SkinName	=	Default
+stones_big_mexico_a_linked003:9542296@[ModelObject]
+	MeshName	=	stones_big_mexico_a_linked.msh
+	SkinName	=	Default
+stones_big_mexico_e_linked002:9542297@[ModelObject]
+	MeshName	=	stones_big_mexico_e_linked.msh
+	SkinName	=	Default
+stones_big_mexico_f_linked001:9542298@[ModelObject]
+	MeshName	=	stones_big_mexico_f_linked.msh
+	SkinName	=	Default
+cactus_c011:9542299@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_a018:9542300@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a019:9542301@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b016:9542302@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_b017:9542303@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_d010:9542304@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_d011:9542305@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_c012:9542306@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_a020:9542307@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_d012:9542308@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+rock_wall_puzzle_a_c007:9542309@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_c.msh
+	SkinName	=	default
+rock_wall_puzzle_a_c008:9542310@[ModelObject]
+	MeshName	=	rock_wall_puzzle_a_c.msh
+	SkinName	=	default
+cactus_a021:9542315@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a022:9543782@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a023:9543783@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b018:9543784@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_c013:9543785@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_a024:9543786@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a025:9543787@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a026:9543788@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c014:9543789@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b019:9543790@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_a027:9543791@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b020:9543792@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_a028:9543793@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+tree_canyon_a001:9543795@[ModelObject]
+	MeshName	=	tree_canyon_a.msh
+	SkinName	=	Default
+tree_canyon_c002:9543797@[ModelObject]
+	MeshName	=	tree_canyon_c.msh
+	SkinName	=	Default
+tree_mountain_b001:9543798@[ModelObject]
+	MeshName	=	tree_mountain_b.msh
+	SkinName	=	Default
+root001:9543801@[ModelObject]
+	MeshName	=	root.msh
+	SkinName	=	default
+fence_planks_destruction001:9545263@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_b001:9545265@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+fence_planks_destruction002:9545266@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_b002:9545267@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+fence_planks_b003:9545268@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+cactus_b021:9545270@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+fence_planks_destruction003:9545271@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction004:9545272@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction005:9545273@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction006:9545274@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction007:9545275@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction008:9545276@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction012:9545280@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction013:9545281@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction014:9545282@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_b004:9545284@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+stone_big_b006:9545286@[ModelObject]
+	MeshName	=	stone_big_b.msh
+	SkinName	=	default
+cactus_a029:9545287@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+fence_planks_destruction015:9545290@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction016:9545291@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction017:9545292@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction018:9545293@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction019:9545294@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_cracked001:9545295@[ModelObject]
+	MeshName	=	fence_planks_cracked.msh
+	SkinName	=	Default
+fence_planks_b006:9545296@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+fence_planks_b007:9545297@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+fence_planks_b008:9545298@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+trough010:9545300@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+trough011:9545301@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+horsea003:9545302@[Horse]
+	bTied	=	1
+	bCanMount	=	0
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC_NoSaddle
+fence_planks_c001:9546781@[ModelObject]
+	MeshName	=	fence_planks_c.msh
+	SkinName	=	Default
+fence_planks_c002:9546782@[ModelObject]
+	MeshName	=	fence_planks_c.msh
+	SkinName	=	Default
+fence_planks_c003:9546783@[ModelObject]
+	MeshName	=	fence_planks_c.msh
+	SkinName	=	Default
+fence_planks_destruction020:9546784@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_cracked002:9546785@[ModelObject]
+	MeshName	=	fence_planks_cracked.msh
+	SkinName	=	Default
+fence_planks_b009:9546786@[ModelObject]
+	MeshName	=	fence_planks_b.msh
+	SkinName	=	Default
+fence_planks_destruction021:9546787@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+trough012:9546788@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+trough013:9546789@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+horsea004:9546790@[Horse]
+	bTied	=	1
+	bCanMount	=	0
+	MeshName	=	horsea.msh
+	SkinName	=	HorseD_NoSaddle
+horsea005:9546791@[Horse]
+	bTied	=	1
+	bCanMount	=	0
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB_NoSaddle
+horsea006:9546792@[Horse]
+	bTied	=	1
+	bCanMount	=	0
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC_NoSaddle
+crate_big_b005:9546793@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b006:9546794@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+cactus_d013:9546795@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+table_a_cloth_a001:9546796@[ModelObject]
+	MeshName	=	table_a_cloth_a.msh
+	SkinName	=	Default
+georgian_chair_a001:9546797@[ModelObject]
+	MeshName	=	georgian_chair_a.msh
+	SkinName	=	Default
+georgian_chair_a002:9546798@[ModelObject]
+	MeshName	=	georgian_chair_a.msh
+	SkinName	=	Default
+georgian_chair_a003:9546799@[ModelObject]
+	MeshName	=	georgian_chair_a.msh
+	SkinName	=	Default
+georgian_chair_a004:9546800@[ModelObject]
+	MeshName	=	georgian_chair_a.msh
+	SkinName	=	Default
+kitchen_stacks005:9546801@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Default
+commode_b003:9546802@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+night_table_a002:9546804@[ModelObject]
+	MeshName	=	night_table_a.msh
+	SkinName	=	Default
+shelf_b002:9546806@[ModelObject]
+	MeshName	=	shelf_b.msh
+	SkinName	=	Paint
+mirror_b002:9546811@[ModelObject]
+	MeshName	=	mirror_b.msh
+	SkinName	=	Default
+mirror_b_glass002:9546812@[ModelObject]
+	MeshName	=	mirror_b_glass.msh
+	SkinName	=	Default
+stone_b006:9546813@[ModelObject]
+	MeshName	=	stone_b.msh
+	SkinName	=	default
+stone_arizona_b006:9546814@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_big_a011:9546815@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+cactus_c015:9546816@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_a030:9546817@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+crate_big_b007:9546818@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b008:9546819@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b009:9546820@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b010:9546821@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b011:9546822@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b012:9546823@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b013:9546824@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b014:9546825@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b015:9546826@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b016:9546827@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_big_b017:9546828@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+cactus_a031:9546829@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_a032:9546830@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c016:9546831@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b022:9546832@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+cactus_c017:9546833@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+corpse_jackson001:9546845@[LawmanActor]
+	MeshName	=	corpse_jackson.msh
+	SkinName	=	Default
+corpse_k002:9546847@[LawmanActor]
+	MeshName	=	corpse_k.msh
+	SkinName	=	default
+corpse_i001:9546849@[LawmanActor]
+	MeshName	=	corpse_i.msh
+	SkinName	=	Default
+corpse_h001:9546850@[LawmanActor]
+	MeshName	=	corpse_h.msh
+	SkinName	=	Default
+corpse_f001:9546851@[LawmanActor]
+	MeshName	=	corpse_f.msh
+	SkinName	=	Default
+ray_hat001:9546852@[ModelObject]
+	MeshName	=	ray_hat.msh
+	SkinName	=	default
+man_hat_c001:9546853@[ModelObject]
+	MeshName	=	man_hat_c.msh
+	SkinName	=	default
+man_hat_d001:9546854@[ModelObject]
+	MeshName	=	man_hat_d.msh
+	SkinName	=	default
+prison_bars_anim002:9553013@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+prison_bars_anim003:9553014@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+prison_bars_anim004:9553015@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+prison_bars_anim005:9553016@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+prison_bars_anim006:9553017@[ModelObject]
+	MeshName	=	prison_bars_anim.msh
+	SkinName	=	Default
+commode_b004:9553019@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+crate_f018:9559186@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f019:9559187@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f020:9559188@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f021:9559189@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+crate_f022:9559190@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+FXEmitter001:9560892@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_light
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+barrier001:9562758@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier002:9562759@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier003:9562760@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier004:9562761@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:9562762@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier006:9562763@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier007:9562764@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier008:9562765@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier009:9562766@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier010:9562767@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier011:9562768@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier012:9562769@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier013:9562770@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier014:9562771@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier015:9562772@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier016:9562773@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier017:9562774@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier018:9562775@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier019:9562776@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier022:9562779@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier023:9562780@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier024:9562781@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier025:9562782@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier026:9562783@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier027:9562784@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier028:9562785@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier029:9562786@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier030:9562787@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier031:9562788@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier032:9562789@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier033:9562790@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_f023:9562792@[ModelObject]
+	MeshName	=	crate_f.msh
+	SkinName	=	Default
+barrier034:9564367@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier035:9564368@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier036:9564369@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+chest_a001:9565959@[ModelObject]
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+wardrobe_a004:9565962@[ModelObject]
+	MeshName	=	wardrobe_a.msh
+	SkinName	=	Default
+house_a_interior_wall_b012:9565963@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Wallpaper_DIRT/OLD
+house_a_interior_wall_b013:9565964@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Wallpaper_DIRT/OLD
+house_a_interior_wall_b014:9565965@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+house_a_interior_wall_b015:9565966@[ModelObject]
+	MeshName	=	house_a_interior_wall_b.msh
+	SkinName	=	Default
+barrel_e001:9567562@[ModelObject]
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+ghost_church_tower001:9567563@[ModelObject]
+	MeshName	=	ghost_church_tower.msh
+	SkinName	=	Default
+ghost_church_front001:9567564@[ModelObject]
+	MeshName	=	ghost_church_front.msh
+	SkinName	=	Default
+ghost_church_b001:9567565@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+ghost_church_a001:9567568@[ModelObject]
+	MeshName	=	ghost_church_a.msh
+	SkinName	=	Default
+ghost_church_b_anim001:9567569@[ModelObject]
+	MeshName	=	ghost_church_b_anim.msh
+	SkinName	=	Default
+ghost_church_a_anim002:9567570@[ModelObject]
+	MeshName	=	ghost_church_a_anim.msh
+	SkinName	=	Default
+ghost_church_b002:9567571@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+ghost_church_b003:9567572@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+ghost_church_a_anim003:9567573@[ModelObject]
+	MeshName	=	ghost_church_a_anim.msh
+	SkinName	=	Default
+schofield001:9569180@[ModelObject]
+	MeshName	=	schofield.msh
+	SkinName	=	Superb
+case_a004:9569213@[ModelObject]
+	MeshName	=	case_a.msh
+	SkinName	=	Default
+tombstone_a001:9569220@[ModelObject]
+	MeshName	=	tombstone_a.msh
+	SkinName	=	Default
+tombstone_b001:9569221@[ModelObject]
+	MeshName	=	tombstone_b.msh
+	SkinName	=	Default
+tombstone_d001:9569222@[ModelObject]
+	MeshName	=	tombstone_d.msh
+	SkinName	=	Default
+ghost_church_a_anim004:9569223@[ModelObject]
+	MeshName	=	ghost_church_a_anim.msh
+	SkinName	=	Default
+ghost_church_b004:9569224@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+ghost_church_a_anim005:9569225@[ModelObject]
+	MeshName	=	ghost_church_a_anim.msh
+	SkinName	=	Default
+ghost_church_b005:9569226@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+ghost_church_a_anim006:9569227@[ModelObject]
+	MeshName	=	ghost_church_a_anim.msh
+	SkinName	=	Default
+ghost_church_b006:9569228@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+ghost_church_a_anim007:9569229@[ModelObject]
+	MeshName	=	ghost_church_a_anim.msh
+	SkinName	=	Default
+ghost_church_b007:9569230@[ModelObject]
+	MeshName	=	ghost_church_b.msh
+	SkinName	=	Default
+cross_a001:9569231@[ModelObject]
+	MeshName	=	cross_a.msh
+	SkinName	=	Default
+fence_old_a002:9569232@[ModelObject]
+	MeshName	=	fence_old_a.msh
+	SkinName	=	Default
+fence_old_e001:9569233@[ModelObject]
+	MeshName	=	fence_old_e.msh
+	SkinName	=	Default
+fence_old_f001:9569234@[ModelObject]
+	MeshName	=	fence_old_f.msh
+	SkinName	=	Default
+fence_old_d001:9569235@[ModelObject]
+	MeshName	=	fence_old_d.msh
+	SkinName	=	Default
+tombstone_a002:9569236@[ModelObject]
+	MeshName	=	tombstone_a.msh
+	SkinName	=	Default
+tombstone_d002:9569237@[ModelObject]
+	MeshName	=	tombstone_d.msh
+	SkinName	=	Default
+tombstone_b002:9569238@[ModelObject]
+	MeshName	=	tombstone_b.msh
+	SkinName	=	Default
+tombstone_a003:9569239@[ModelObject]
+	MeshName	=	tombstone_a.msh
+	SkinName	=	Default
+tombstone_b003:9569240@[ModelObject]
+	MeshName	=	tombstone_b.msh
+	SkinName	=	Default
+tombstone_b004:9569241@[ModelObject]
+	MeshName	=	tombstone_b.msh
+	SkinName	=	Default
+cross_a002:9569242@[ModelObject]
+	MeshName	=	cross_a.msh
+	SkinName	=	Default
+tombstone_d003:9569243@[ModelObject]
+	MeshName	=	tombstone_d.msh
+	SkinName	=	Default
+church_altar001:9569244@[ModelObject]
+	MeshName	=	church_altar.msh
+	SkinName	=	Old
+mexican_shed_a001:9569245@[ModelObject]
+	MeshName	=	mexican_shed_a.msh
+	SkinName	=	Plaster
+mexican_wall_c001:9569246@[ModelObject]
+	MeshName	=	mexican_wall_c.msh
+	SkinName	=	Plaster
+shed_b001:9569250@[ModelObject]
+	MeshName	=	shed_b.msh
+	SkinName	=	Wall_Wood_Old_A
+shelter_a_des001:9569251@[ModelObject]
+	MeshName	=	shelter_a_des.msh
+	SkinName	=	Default
+sign004:9569264@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Hotel
+wood_trunk_b001:9569270@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+wood_trunk_b002:9569271@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+wood_trunk_b003:9569273@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+sign005:9569274@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Hotel
+wood_trunk_b004:9569275@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+wood_trunk_b005:9569276@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+wood_trunk_b006:9569277@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+sign006:9569278@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Boots_n_Shoes
+sign007:9569279@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Boots_n_Shoes
+wood_trunk_b007:9569280@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+wood_trunk_b008:9569281@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+wood_trunk_b009:9569282@[ModelObject]
+	MeshName	=	wood_trunk_b.msh
+	SkinName	=	Default
+sign008:9569283@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Explosives_Left
+sign009:9569284@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Explosives_Right
+hay_cube_a003:9569303@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+wagon_carrier001:9569304@[ModelObject]
+	MeshName	=	wagon_carrier.msh
+	SkinName	=	default
+wagon_b002:9569305@[ModelObject]
+	MeshName	=	wagon_b.msh
+	SkinName	=	Default
+wagon_cart001:9569306@[ModelObject]
+	MeshName	=	wagon_cart.msh
+	SkinName	=	default
+hay_cube_a004:9569307@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+wheel004:9569308@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wheel002:9569309@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+hay_cube_a005:9569310@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_b002:9569311@[ModelObject]
+	MeshName	=	hay_cube_b.msh
+	SkinName	=	Default
+wagon_thill001:9569312@[ModelObject]
+	MeshName	=	wagon_thill.msh
+	SkinName	=	default
+wheel005:9569313@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wheel003:9569314@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+hay_cube_a006:9569315@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a007:9569316@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a008:9569317@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_b001:9569318@[ModelObject]
+	MeshName	=	hay_cube_b.msh
+	SkinName	=	Default
+hay_cube_a009:9569319@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_b003:9569320@[ModelObject]
+	MeshName	=	hay_cube_b.msh
+	SkinName	=	Default
+wagon_thill002:9569384@[ModelObject]
+	MeshName	=	wagon_thill.msh
+	SkinName	=	Default
+wagon_tarpaulin_b001:9569385@[ModelObject]
+	MeshName	=	wagon_tarpaulin_b.msh
+	SkinName	=	Old
+wheel007:9569386@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wagon_cart002:9569387@[ModelObject]
+	MeshName	=	wagon_cart.msh
+	SkinName	=	Default
+wheel009:9569388@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wheel008:9569389@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wagon_carrier002:9569390@[ModelObject]
+	MeshName	=	wagon_carrier.msh
+	SkinName	=	Default
+wagon_a001:9569391@[ModelObject]
+	MeshName	=	wagon_a.msh
+	SkinName	=	Default
+wheel006:9569392@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+crate_box008:9569730@[ModelObject] from group sel_Objects_Farm01:9569791
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+wheel010:9569731@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Paint
+barrel_d002:9569732@[ModelObject]
+	MeshName	=	barrel_d.msh
+	SkinName	=	default
+crate_big_b018:9569733@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	default
+crate_c004:9569734@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	default
+crate_c003:9569735@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	default
+barrel_c004:9569736@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+crate_stones001:9569737@[ModelObject]
+	MeshName	=	crate_stones.msh
+	SkinName	=	default
+hay_cube_a014:9569738@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a012:9569739@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a011:9569740@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a010:9569741@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a013:9569742@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+well_b001:9569743@[ModelObject]
+	MeshName	=	well_b.msh
+	SkinName	=	Default
+barrel_c002:9569744@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+crate_stones002:9569745@[ModelObject]
+	MeshName	=	crate_stones.msh
+	SkinName	=	default
+mexican_wall_c002:9569746@[ModelObject]
+	MeshName	=	mexican_wall_c.msh
+	SkinName	=	default
+mexican_wall_a001:9569747@[ModelObject]
+	MeshName	=	mexican_wall_a.msh
+	SkinName	=	Default
+mexican_shed_b001:9569748@[ModelObject]
+	MeshName	=	mexican_shed_b.msh
+	SkinName	=	Plaster
+hayrick_a001:9569749@[ModelObject]
+	MeshName	=	hayrick_a.msh
+	SkinName	=	default
+logs_frame_a001:9569750@[ModelObject]
+	MeshName	=	logs_frame_a.msh
+	SkinName	=	default
+barrel_c007:9569751@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+trough014:9569752@[ModelObject]
+	MeshName	=	trough.msh
+	SkinName	=	Old
+hayrick_a002:9569753@[ModelObject]
+	MeshName	=	hayrick_a.msh
+	SkinName	=	default
+wheelbarrow002:9569754@[ModelObject]
+	MeshName	=	wheelbarrow.msh
+	SkinName	=	default
+hay_cube_a015:9569755@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+shelter_b003:9569756@[ModelObject]
+	MeshName	=	shelter_b.msh
+	SkinName	=	Default
+hay_cube_b004:9569757@[ModelObject]
+	MeshName	=	hay_cube_b.msh
+	SkinName	=	default
+hay_cube_pile_a002:9569758@[ModelObject]
+	MeshName	=	hay_cube_pile_a.msh
+	SkinName	=	default
+wheelbarrow003:9569759@[ModelObject]
+	MeshName	=	wheelbarrow.msh
+	SkinName	=	default
+crate_big_b019:9569760@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+crate_box009:9569761@[ModelObject] from group sel_Objects_Farm01:9569791
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+wheel011:9569762@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Paint
+barrel_c006:9569763@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	Old
+tincan001:9569764@[ModelObject]
+	MeshName	=	tincan.msh
+	SkinName	=	Default
+log_a001:9569765@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Wood_Old_A
+log_a002:9569766@[ModelObject]
+	MeshName	=	log_a.msh
+	SkinName	=	Wood_Old_A
+barrel_c005:9569767@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+barrel_d003:9569768@[ModelObject]
+	MeshName	=	barrel_d.msh
+	SkinName	=	default
+mexican_wall_c004:9569769@[ModelObject]
+	MeshName	=	mexican_wall_c.msh
+	SkinName	=	Plaster
+mexican_rooflet_a003:9569771@[ModelObject]
+	MeshName	=	mexican_rooflet_a.msh
+	SkinName	=	default
+crate_c006:9569772@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	Old
+mexican_roof_b001:9569773@[ModelObject]
+	MeshName	=	mexican_roof_b.msh
+	SkinName	=	Plaster
+crate_c005:9569774@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	Old
+mexican_annexe001:9569775@[ModelObject]
+	MeshName	=	mexican_annexe.msh
+	SkinName	=	Plaster
+barrel_d004:9569776@[ModelObject]
+	MeshName	=	barrel_d.msh
+	SkinName	=	default
+crate_c001:9569777@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	default
+crate_c002:9569778@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	default
+house_stairs_a003:9569779@[Ramp] from group sel_Objects_Farm01:9569791
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+crate_box006:9569780@[ModelObject] from group sel_Objects_Farm01:9569791
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box005:9569781@[ModelObject] from group sel_Objects_Farm01:9569791
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+bottle_b005:9569782@[ModelObject]
+	MeshName	=	bottle_b.msh
+	SkinName	=	default
+bottle_b004:9569783@[ModelObject]
+	MeshName	=	bottle_b.msh
+	SkinName	=	default
+tincan002:9569784@[ModelObject]
+	MeshName	=	tincan.msh
+	SkinName	=	Default
+barrel_c001:9569785@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+barrel_c003:9569786@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+mexican_house_ground_floor_a005:9569787@[ModelObject]
+	MeshName	=	mexican_house_ground_floor_a.msh
+	SkinName	=	plaster
+mexican_rooflet_b001:9569788@[ModelObject]
+	MeshName	=	mexican_rooflet_b.msh
+	SkinName	=	default
+crate_box007:9569789@[ModelObject] from group sel_Objects_Farm01:9569791
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_c007:9569790@[ModelObject]
+	MeshName	=	crate_c.msh
+	SkinName	=	default
+barn_b001:9571701@[ModelObject]
+	MeshName	=	barn_b.msh
+	SkinName	=	Default
+barn_door_a001:9571702@[ModelObject]
+	MeshName	=	barn_door_a.msh
+	SkinName	=	Default
+barn_door_a_kick002:9571704@[ModelObject]
+	MeshName	=	barn_door_a_kick.msh
+	SkinName	=	Default
+barn_door_a002:9571705@[ModelObject]
+	MeshName	=	barn_door_a.msh
+	SkinName	=	Default
+barn_door_a_kick003:9571706@[ModelObject]
+	MeshName	=	barn_door_a_kick.msh
+	SkinName	=	Default
+barn_door_a003:9571707@[ModelObject]
+	MeshName	=	barn_door_a.msh
+	SkinName	=	Default
+fence_planks_destruction022:9571709@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_cracked003:9571710@[ModelObject]
+	MeshName	=	fence_planks_cracked.msh
+	SkinName	=	Default
+fence_planks_destruction023:9571711@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction024:9571712@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction025:9571713@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+shelter_a001:9571714@[ModelObject]
+	MeshName	=	shelter_a.msh
+	SkinName	=	Wall_Wood_Old_B
+hay_cube_pile_b003:9571715@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+hay_cube_pile_b004:9571716@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+hay_cube_pile_b005:9571717@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+hay_cube_pile_b006:9571718@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+hay_cube_a016:9571719@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a017:9571720@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_a018:9571721@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+tree_linden_a001:9573471@[ModelObject]
+	MeshName	=	tree_linden_a.msh
+	SkinName	=	Default
+tree_linden_a002:9573472@[ModelObject]
+	MeshName	=	tree_linden_a.msh
+	SkinName	=	Default
+tree_linden_a003:9573473@[ModelObject]
+	MeshName	=	tree_linden_a.msh
+	SkinName	=	Default
+tree_linden_a004:9573474@[ModelObject]
+	MeshName	=	tree_linden_a.msh
+	SkinName	=	Default
+tree_linden_a005:9573475@[ModelObject]
+	MeshName	=	tree_linden_a.msh
+	SkinName	=	Default
+tree_mountain_a002:9573477@[ModelObject]
+	MeshName	=	tree_mountain_a.msh
+	SkinName	=	Default
+tree_canyon_a002:9573478@[ModelObject]
+	MeshName	=	tree_canyon_a.msh
+	SkinName	=	Default
+cactus_a033:9573479@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_c018:9573480@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+cactus_b023:9573482@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+bush_georgia001:9573483@[ModelObject]
+	MeshName	=	bush_georgia.msh
+	SkinName	=	Default
+bush_dry_a002:9573486@[ModelObject]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+bush_dry_a003:9573487@[Actor]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+bush_dry_a004:9573488@[ModelObject]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+bush_arizona_a002:9573489@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_arizona_a003:9573491@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_arizona_a004:9573492@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_arizona_a005:9573493@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_arizona_a006:9573494@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+stone_arizona_b007:9573495@[ModelObject]
+	MeshName	=	stone_arizona_b.msh
+	SkinName	=	default
+stone_b007:9573496@[ModelObject]
+	MeshName	=	stone_b.msh
+	SkinName	=	default
+stone_big_a012:9573497@[ModelObject]
+	MeshName	=	stone_big_a.msh
+	SkinName	=	default
+cactus_a034:9573498@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+tree_double_a001:9573499@[ModelObject]
+	MeshName	=	tree_double_a.msh
+	SkinName	=	Default
+cactus_c019:9573501@[ModelObject]
+	MeshName	=	cactus_c.msh
+	SkinName	=	Default
+crate_d006:9573502@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d007:9573503@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d008:9573504@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d009:9573505@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+barn_walkway_a002:9573506@[ModelObject]
+	MeshName	=	barn_walkway_a.msh
+	SkinName	=	Default
+barn_walkway_a003:9573507@[ModelObject]
+	MeshName	=	barn_walkway_a.msh
+	SkinName	=	Default
+bench_b002:9573512@[ModelObject]
+	MeshName	=	bench_b.msh
+	SkinName	=	Default
+lamp_a001:9573513@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a002:9573514@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+wheel_des002:9573515@[ModelObject]
+	MeshName	=	wheel_des.msh
+	SkinName	=	Default
+cactus_a035:9573517@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_d014:9573518@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_b024:9573519@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+bush_arizona_a007:9573520@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_dry_a005:9573521@[Actor]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+bush_arizona_a008:9573522@[Actor]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+barrel_b006:9573523@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	TNT_Explosives
+barrel_b007:9573524@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	TNT_Explosives
+barrel_d005:9573525@[ModelObject]
+	MeshName	=	barrel_d.msh
+	SkinName	=	TNT_Explosives
+crate_box#001:9573526@[ModelObject]
+	MeshName	=	crate_box#01.msh
+	SkinName	=	default
+crate_box011:9573528@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_big_a002:9573529@[ModelObject]
+	MeshName	=	crate_big_a.msh
+	SkinName	=	default
+stall_a#04#003:9573530@[ModelObject]
+	MeshName	=	stall_a#04#02.msh
+	SkinName	=	default
+stall_a#04#004:9573531@[ModelObject]
+	MeshName	=	stall_a#04#02.msh
+	SkinName	=	default
+barrier037:9573532@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier038:9573533@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier039:9573534@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier040:9573535@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier041:9573536@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier042:9573537@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier043:9573538@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier044:9573539@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier046:9573541@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+BoidsFlock001:9576296@[VultureBirdBoidsFlock]
+	m_Population	=	2
+	m_SpawnRangeMin	=	0.000000
+	m_SpawnRangeMax	=	15000.000000
+crate_d010:9579933@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d011:9579934@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+crate_d012:9579935@[ModelObject]
+	MeshName	=	crate_d.msh
+	SkinName	=	Old
+chest_a002:9579936@[ModelObject]
+	MeshName	=	chest_a.msh
+	SkinName	=	Old
+commode_a001:9579941@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+commode_a002:9579942@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+commode_a003:9579943@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+commode_a004:9579944@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+screen002:9581779@[ModelObject]
+	MeshName	=	screen.msh
+	SkinName	=	Default
+screen003:9581780@[ModelObject]
+	MeshName	=	screen.msh
+	SkinName	=	Default
+screen004:9581781@[ModelObject]
+	MeshName	=	screen.msh
+	SkinName	=	Default
+screen005:9581782@[ModelObject]
+	MeshName	=	screen.msh
+	SkinName	=	Default
+screen006:9581783@[ModelObject]
+	MeshName	=	screen.msh
+	SkinName	=	Default
+georgian_night_table001:9581784@[ModelObject]
+	MeshName	=	georgian_night_table.msh
+	SkinName	=	Default
+cactus_d015:9581785@[ModelObject]
+	MeshName	=	cactus_d.msh
+	SkinName	=	Default
+cactus_a036:9581786@[ModelObject]
+	MeshName	=	cactus_a.msh
+	SkinName	=	Default
+cactus_b025:9581787@[ModelObject]
+	MeshName	=	cactus_b.msh
+	SkinName	=	Default
+stacks_a015:9581789@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+stacks_a016:9581790@[ModelObject]
+	MeshName	=	stacks_a.msh
+	SkinName	=	Default
+kitchen_stacks006:9581791@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Default
+kitchen_stacks007:9581792@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Default
+kitchen_stacks008:9581793@[ModelObject]
+	MeshName	=	kitchen_stacks.msh
+	SkinName	=	Default
+shelf_b003:9581794@[ModelObject]
+	MeshName	=	shelf_b.msh
+	SkinName	=	Default
+books038:9581795@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Books_A
+book035:9581797@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books040:9581798@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books041:9581799@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book036:9581800@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books042:9581801@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Books_A
+books043:9581802@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books044:9581803@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book037:9581804@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books045:9581805@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Books_A
+books046:9581806@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books047:9581807@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book038:9581808@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books048:9581809@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books049:9581810@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Books_A
+books050:9581811@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book039:9581812@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books051:9581813@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Books_A
+books052:9581814@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books053:9581815@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book040:9581816@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+books054:9581817@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books055:9581818@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+books056:9581819@[ModelObject]
+	MeshName	=	books.msh
+	SkinName	=	Default
+book041:9581820@[ModelObject]
+	MeshName	=	book.msh
+	SkinName	=	Default
+carpet_b001:9581821@[ModelObject]
+	MeshName	=	carpet_b.msh
+	SkinName	=	1
+carpet_a003:9581822@[ModelObject]
+	MeshName	=	carpet_a.msh
+	SkinName	=	Default
+tea_pot_a001:9581823@[ModelObject]
+	MeshName	=	tea_pot_a.msh
+	SkinName	=	Ceramic
+plate_a011:9581824@[ModelObject]
+	MeshName	=	plate_a.msh
+	SkinName	=	Ceramic
+jug_b001:9581825@[ModelObject]
+	MeshName	=	jug_b.msh
+	SkinName	=	Default
+cup_a001:9581826@[ModelObject]
+	MeshName	=	cup_a.msh
+	SkinName	=	Default
+cup_a002:9581827@[ModelObject]
+	MeshName	=	cup_a.msh
+	SkinName	=	Default
+cup_a003:9581828@[ModelObject]
+	MeshName	=	cup_a.msh
+	SkinName	=	Default
+cup_a004:9581829@[ModelObject]
+	MeshName	=	cup_a.msh
+	SkinName	=	Default
+cup_a005:9581830@[ModelObject]
+	MeshName	=	cup_a.msh
+	SkinName	=	Default
+tea_pot_a002:9581832@[ModelObject]
+	MeshName	=	tea_pot_a.msh
+	SkinName	=	Default
+pot001:9581833@[ModelObject]
+	MeshName	=	pot.msh
+	SkinName	=	Default
+georgian_painting002:9581835@[ModelObject]
+	MeshName	=	georgian_painting.msh
+	SkinName	=	Portrait_Saloon
+frame_e001:9581836@[ModelObject]
+	MeshName	=	frame_e.msh
+	SkinName	=	Frame_I
+frame_b001:9581837@[ModelObject]
+	MeshName	=	frame_b.msh
+	SkinName	=	Frame_I
+carpet_b002:9581838@[ModelObject]
+	MeshName	=	carpet_b.msh
+	SkinName	=	InShadow
+curtain_a001:9581840@[ModelObject]
+	MeshName	=	curtain_a.msh
+	SkinName	=	curtain_b
+curtain_a002:9581841@[ModelObject]
+	MeshName	=	curtain_a.msh
+	SkinName	=	curtain_b
+curtain_a003:9581842@[ModelObject]
+	MeshName	=	curtain_a.msh
+	SkinName	=	curtain_b
+house_door_a036:9581843@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	F
+chest_box_a001:9581845@[ModelObject]
+	MeshName	=	chest_box_a.msh
+	SkinName	=	Old
+chest_box_a002:9581846@[ModelObject]
+	MeshName	=	chest_box_a.msh
+	SkinName	=	Old
+chair_b062:9581847@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+wagon_carrier003:9581858@[ModelObject]
+	MeshName	=	wagon_carrier.msh
+	SkinName	=	Default
+wagon_thill003:9581859@[ModelObject]
+	MeshName	=	wagon_thill.msh
+	SkinName	=	Default
+wheel015:9581860@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wagon_tarpaulin_b002:9581861@[ModelObject]
+	MeshName	=	wagon_tarpaulin_b.msh
+	SkinName	=	Old
+wheel012:9581862@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wagon_cart003:9581863@[ModelObject]
+	MeshName	=	wagon_cart.msh
+	SkinName	=	Default
+wagon_a002:9581864@[ModelObject]
+	MeshName	=	wagon_a.msh
+	SkinName	=	Default
+wheel013:9581865@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+wheel014:9581866@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Default
+bush_arizona_a009:9581868@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_arizona_a010:9581869@[ModelObject]
+	MeshName	=	bush_arizona_a.msh
+	SkinName	=	Default
+bush_dry_a006:9581870@[ModelObject]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+bush_dry_a007:9581871@[ModelObject]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+bush_dry_a008:9581872@[ModelObject]
+	MeshName	=	bush_dry_a.msh
+	SkinName	=	Default
+house_barrier_small_a#001:9581876@[ModelObject]
+	MeshName	=	house_barrier_small_a#02.msh
+	SkinName	=	default
+house_barrier_small_a#003:9581878@[ModelObject]
+	MeshName	=	house_barrier_small_a#02.msh
+	SkinName	=	default
+crate_big_b020:9619644@[ModelObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+MainStreet3:9625479@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet3:9625480@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet3:9625481@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet3:9625482@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet4:9625483@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet4:9625484@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet4:9625485@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet4:9625486@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet4:9625487@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+MainStreet4:9625488@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+barrier047:9625886@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier048:9625887@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier049:9625888@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier050:9625889@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier051:9625890@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+watercircle001:9626021@[ModelObject]
+	MeshName	=	watercircle.msh
+	SkinName	=	default
+watercircle002:9626022@[ModelObject]
+	MeshName	=	watercircle.msh
+	SkinName	=	default
+watercircle003:9626023@[ModelObject]
+	MeshName	=	watercircle.msh
+	SkinName	=	default
+watercircle004:9626024@[ModelObject]
+	MeshName	=	watercircle.msh
+	SkinName	=	default
+house_walkway_step005:9626025@[ModelObject]
+	MeshName	=	house_walkway_step.msh
+	SkinName	=	Default

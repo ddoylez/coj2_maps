@@ -1,0 +1,102 @@
+GameModeSkirmish001:14161607@[GameModeSkirmish]
+	[aOnDeathLimitOutBLUE:0] actnet_FinishRoundTeam001:14161608@[actnet_FinishRoundTeam]
+		eTeamWinner	=	RED
+	[aOnDeathLimitOutRED:0] actnet_FinishRoundTeam002:14161610@[actnet_FinishRoundTeam]
+		eTeamWinner	=	BLUE
+	eWarnTeam	=	BLUE
+	sWarnMessageOnCarry	=	&MP_GoldSackTaken&
+	[aOnPlayerKilledBLUE:0] actnet_AddTeamPoints001:14161609@[actnet_AddTeamPoints]
+		eTeam	=	RED
+		sValue	=	1
+	[aOnPlayerKilledRED:0] actnet_AddTeamPoints002:14161606@[actnet_AddTeamPoints]
+		eTeam	=	BLUE
+		sValue	=	1
+	nRoundsResultLimit	=	5
+spawn_red003:14161611@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red007:14161612@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red006:14161613@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red002:14161614@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red009:14161615@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red004:14161616@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red005:14161617@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red010:14161618@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red008:14161619@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_red011:14161620@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_blue003:14161621@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue008:14161622@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue004:14161623@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue010:14161624@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue011:14161625@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_red001:14161626@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	data/interface/fightnode.msh
+	SkinName	=	default
+spawn_blue001:14161627@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue002:14161628@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue005:14161629@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue006:14161630@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue007:14161631@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue009:14161632@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default

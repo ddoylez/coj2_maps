@@ -1,0 +1,13 @@
+import "templates.mtt"
+
+sub material()
+{
+ use mtt_objects( 
+        s_clr = "Branch.dds",
+        s_nrm = "Branch_nrm.dds",
+        f_sss = 1.0,
+        b_tex_kill_on = TRUE,
+        b_wind_bend_on = TRUE,
+        f_wind_noise_scale = 0.1
+    );
+}

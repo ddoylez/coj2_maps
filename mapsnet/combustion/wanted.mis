@@ -1,0 +1,44 @@
+SpawnPoint012:14123024@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:14123025@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14123026@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:14123027@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:14123028@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint003:14123029@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+FXDisablerWanted001:14123030@[NetInvokeObject]
+	[m_OnInvoke:0] 001:14123038@[act_InstantActions]
+		[aInstantActions:0] 002:14123039@[InstantGroundFxControl]
+			bEnable	=	0
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+SpawnPoint001:14123031@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:14123032@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:14123033@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14123034@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:14123035@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14123036@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+GameModeWanted001:14123037@[GameModeWanted]
+	nFragsLimit	=	400

@@ -1,0 +1,30 @@
+﻿!String(s,s)
+
+String("Red_Name", "Red_Team!" )
+String("Blue_Name", "Blue_Team!" )
+
+
+String( "Enclosure_MP_Mode", "Захват лагеря")
+String( "Enclosure_MP_Mode_info", "Защитите свой лагерь и захватить лагерь врагов" )
+
+String( "Enclosure_Message_Red", "Синяя команда записывает свой ​​лагерь!" )
+String( "Enclosure_blocked_Message_Red", "Вы не можете захватить синего лагеря в то время как ваш лагерь напали." )
+String( "Enclosure_captured_Message_Red", "Ваш лагерь пленных." )
+String( "Enclosure_capture_Red", "Захват голубой лагерь!" )
+String( "Enclosure_protect_Red", "Защитите свой лагерь!" )
+String( "Enclosure_percent_Red", "Красная команда захватили 30%" )
+String( "Enclosure_percent2_Red", "Красная команда захватили 60%" )
+String( "Enclosure_percent3_Red", "Красная команда захватили 100%" )
+
+String( "Enclosure_Message_Blue", "Красная команда записывает свой ​​лагерь!" )
+String( "Enclosure_blocked_Message_Blue", "Вы не можете захватить красный лагерь в то время как ваш лагерь напали." )
+String( "Enclosure_captured_Message_Blue", "Ваш лагерь пленных." )
+String( "Enclosure_capture_Blue", "Захват красный лагерь!" )
+String( "Enclosure_protect_Blue", "Защитите свой лагерь!" )
+String( "Enclosure_percent_Blue", "Синяя команда захватили 30%" )
+String( "Enclosure_percent2_Blue", "Синяя команда захватили 60%" )
+String( "Enclosure_percent3_Blue", "Синяя команда захватили 100%" )
+
+String( "The End", "Конец" )
+String( "credits", "Спасибо всем Зов Хуареса сообщество!" )
+String( "credits2", "Благодаря Gazitron, Сеир-Techland персонала, бахчеводства mikethemelon-, coj2-ELITE-Team, и так далее ..." )

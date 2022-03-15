@@ -1,0 +1,9 @@
+!include("surface.def")
+
+Skin("Default")
+{
+    Replace("snowman.mat", "snowman_red.mat")
+
+//    ReplaceSurface(<old surface id>, <new surface id>, <surface flags>)
+    ReplaceSurface("Unknown", "Unknown", "")
+}

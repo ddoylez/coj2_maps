@@ -1,0 +1,8 @@
+import "Templates.mtt"
+sub material()
+{
+ use mtt_objects(
+  s_clr="saloon_sign_147_1.dds",
+  f_shn_factor = 0.0
+ );
+}

@@ -1,0 +1,47 @@
+GameModeDM001:19094980@[GameModeDM]
+	nFragsLimit	=	400
+	m_RespawnTime	=	5.000000
+	m_MinFirstAidRespawnTime	=	30.000000
+	m_MaxFirstAidRespawnTime	=	40.000000
+spawner004:19094981@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner003:19094982@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner002:19094983@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner001:19094984@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner005:19094985@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner006:19094986@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner007:19094987@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner008:19094988@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner009:19094989@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner010:19094990@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner011:19094991@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner012:19094992@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner013:19094993@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner014:19094994@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

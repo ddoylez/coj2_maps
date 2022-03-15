@@ -1,0 +1,9 @@
+!include("AmbientSounds.def")
+!AmbientVolume(fMasterVolume, fTrack00Volume, fTrack01Volume, fTrack02Volume)
+!AmbientSound(sId, sFileName, nTrack, nLoops, fVolume, fFadeIn, fFadeOut) // 0-2
+
+AmbientVolume(1, 1, 1, 1)
+
+AmbientSound("Desert_Crickets", COJ2_Cricket_Desert_01, 1, -1, 1, 2, 5)
+AmbientSound("Town_Chickens", COJ2_Town_05_Chicken, 1, -1, 1, 3, 3)
+AmbientSound("Wind_High", COJ2_Wind_Ambient_01, 0, -1, 1, 3, 3)

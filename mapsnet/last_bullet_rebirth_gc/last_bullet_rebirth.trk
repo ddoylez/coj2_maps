@@ -1,0 +1,84 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM20)
+
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/last_bullet_rebirth/teamdeathmatch.eds")
+	MapTitle("Grand Canyon")
+	SaveName("Grand Canyon")
+	ModeName("&MP_MODE_Skirmish&")
+	ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("last_bullet_rebirth_loading6.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+
+	}
+}
+
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/last_bullet_rebirth/teamdeathmatch.eds")
+	MapTitle("Grand Canyon")
+	SaveName("Grand Canyon")
+	ModeName("&MP_MODE_Skirmish&")
+	ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("last_bullet_rebirth_loading6.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout3.dds","ow_map_loading.dds",375,155,1)
+
+	}
+}
+
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/last_bullet_rebirth/teamdeathmatch.eds")
+	MapTitle("Grand Canyon")
+	SaveName("Grand Canyon")
+	ModeName("&MP_MODE_Skirmish&")
+	ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("last_bullet_rebirth_loading6.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(50, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+
+	}
+}
+
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/last_bullet_rebirth/teamdeathmatch.eds")
+	MapTitle("Grand Canyon")
+	SaveName("Grand Canyon")
+	ModeName("&MP_MODE_Skirmish&")
+	ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("last_bullet_rebirth_loading6.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(50, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+
+	}
+
+

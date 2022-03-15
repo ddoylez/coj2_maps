@@ -1,0 +1,45 @@
+SpawnPoint011:14122960@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14122961@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+FXDisablerDeathmatch001:14122962@[NetInvokeObject]
+	[m_OnInvoke:0] 003:14122975@[act_InstantActions]
+		[aInstantActions:0] 004:14122974@[InstantGroundFxControl]
+			bEnable	=	0
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+SpawnPoint001:14122963@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:14122964@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14122965@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:14122966@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:14122967@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint003:14122968@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:14122969@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:14122970@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14122971@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+GameModeDM001:14122972@[GameModeDM]
+	nFragsLimit	=	400
+	[m_OnLevelStart:0] 001:14122976@[act_Invoke]
+		[cTarget] FXDisablerDeathmatch001:14122962@[NetInvokeObject]
+	[m_OnLevelStart_NonNetworkActions:0] 002:14122973@[act_Invoke]
+		[cTarget] FXDisablerDeathmatch001:14122962@[NetInvokeObject]

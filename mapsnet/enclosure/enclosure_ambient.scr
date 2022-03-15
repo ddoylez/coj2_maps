@@ -1,0 +1,17 @@
+!include("AmbientSounds.def")
+!AmbientVolume(fMasterVolume, fTrack00Volume, fTrack01Volume, fTrack02Volume)
+!AmbientSound(sId, sFileName, nTrack, nLoops, fVolume, fFadeIn, fFadeOut) // 0-2
+
+AmbientVolume(1, 1, 1, 1)
+
+AmbientSound("Desert_Crickets", COJ2_Cricket_Desert_01, 1, -1, 1, 2, 5)
+AmbientSound("Desert_Wind", COJ2_Wind_Ambient_01, 0, -1, 1, 3, 3)
+AmbientSound("Forest_Birds", COJ2_Forest_Birds_01, 1, -1, 1, 3, 3)
+AmbientSound("Forest_Crickets", COJ2_Cricket_Ambient_01, 1, -1, 1, 3, 3)
+AmbientSound("Forest_Frogs", COJ2_River_BFrogs_01, 1, -1, 1, 3, 3)
+AmbientSound("Forest_Wind", COJ2_Wind_Ambient_02, 2, -1, 1, 3, 3)
+AmbientSound("Town_Chickens", COJ2_Town_05_Chicken, 1, -1, 1, 3, 3)
+AmbientSound("Town_Dogs", COJ2_Town_03_Dogs, 1, -1, 1, 3, 3)
+AmbientSound("Town_Roaster", COJ2_Town_06_Roaster, 1, -1, 1, 3, 3)
+AmbientSound("Wind_High", COJ2_Wind_Ambient_01, 0, -1, 1, 3, 3)
+AmbientSound("Wind_Low", COJ2_Wind_Ambient_02, 0, -1, 1, 3, 3)

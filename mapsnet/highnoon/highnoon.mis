@@ -1,0 +1,759 @@
+Highnoon:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:18941203@[NatureParamsNormal]
+		bHenFlocksAllowed	=	1
+		bGoatFlocksAllowed	=	1
+		bFishFlocksAllowed	=	0
+		bBirdFlocksAllowed	=	1
+	m_CameraFov	=	80.000000
+	m_tempTinyObjectsScriptPath	=	Data/MapsNet/Highnoon/Highnoon_foliage.scr
+se_Ambient02:18942652@[SoundEmitterAmbient]
+	m_SoundId	=	Desert_Wind
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+se_Ambient03:18942654@[SoundEmitterAmbient]
+	m_SoundId	=	Desert_Crickets
+	fMinDistance	=	50000.000000
+	m_Test	=	1
+barrel_e002:18946955@[ModelObject] from group barn_a01:18946994
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+barrel_e001:18946965@[ModelObject] from group barn_a01:18946994
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+bucket_b001:18946975@[ModelObject] from group barn_a01:18946994
+	MeshName	=	bucket_b.msh
+	SkinName	=	Default
+house_door_a001:18947193@[ModelObject] from group arizona_house_e01:18947249
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+carpet_c001:18947200@[ModelObject]
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+chair_b002:18947203@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b001:18947210@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+commode_b001:18947227@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+cross_small_b001:18947232@[ModelObject]
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+candle001:18947233@[ModelObject]
+	MeshName	=	candle.msh
+	SkinName	=	default
+house_stairs_a001:18947516@[Ramp] from group sel_house_balcony01:18947520
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+house_door_a002:18947796@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+chair_b004:18947813@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b003:18947814@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+candle002:18947818@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	candle.msh
+	SkinName	=	default
+cross_small_b002:18947819@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+carpet_c002:18947862@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+commode_b002:18947876@[ModelObject] from group arizona_house_c01:18947877
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+carpet_c003:18948082@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+commode_b003:18948094@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+cross_small_b003:18948095@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+candle003:18948096@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_b005:18948100@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b006:18948101@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a003:18948118@[ModelObject] from group arizona_house_c01:18948120
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+clock_a001:18948248@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+candle006:18948252@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	candle.msh
+	SkinName	=	default
+folding_table002:18948254@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	folding_table.msh
+	SkinName	=	Default
+folding_table001:18948258@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	folding_table.msh
+	SkinName	=	Default
+cross_small_a001:18948282@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	cross_small_a.msh
+	SkinName	=	Default
+chair_b009:18948285@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b008:18948286@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a004:18948287@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+crate_box001:18948293@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box002:18948295@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+chair_b007:18948303@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+dressing_table001:18948308@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	dressing_table.msh
+	SkinName	=	Default
+candle004:18948311@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle005:18948312@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_c001:18948313@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	chair_c.msh
+	SkinName	=	Default
+mirror_b_glass001:18948344@[ModelObject] from group arizona_house_a01:18948359
+	MeshName	=	mirror_b_glass.msh
+	SkinName	=	Default
+carpet_c004:18948487@[ModelObject] from group arizona_house_c01:18948527
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+commode_b004:18948501@[ModelObject] from group arizona_house_c01:18948527
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+cross_small_b004:18948502@[ModelObject] from group arizona_house_c01:18948527
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+candle007:18948503@[ModelObject] from group arizona_house_c01:18948527
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_b010:18948507@[ModelObject] from group arizona_house_c01:18948527
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b011:18948508@[ModelObject] from group arizona_house_c01:18948527
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+bucket_b002:18948743@[ModelObject] from group barn_a01:18948780
+	MeshName	=	bucket_b.msh
+	SkinName	=	Default
+barrel_e004:18948756@[ModelObject] from group barn_a01:18948780
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+ladder_a004:18948773@[Ladder] from group barn_a01:18948780
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+barrel_e003:18948777@[ModelObject] from group barn_a01:18948780
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+chest_a002:18948873@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+chest_a001:18948876@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+chair_b013:18948881@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b017:18948882@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+candle008:18948886@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_b016:18948887@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b012:18948888@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+candle010:18948891@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_b015:18948896@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+candle009:18948900@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_b014:18948901@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+candle011:18948906@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle012:18948907@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle013:18948908@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	candle.msh
+	SkinName	=	default
+commode_a001:18948918@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+carpet_c005:18948924@[ModelObject] from group arizona_house_d01:18948945
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+candle016:18949361@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	candle.msh
+	SkinName	=	default
+folding_table004:18949363@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	folding_table.msh
+	SkinName	=	Default
+clock_a002:18949367@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+folding_table003:18949369@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	folding_table.msh
+	SkinName	=	Default
+cross_small_a002:18949393@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	cross_small_a.msh
+	SkinName	=	Default
+chair_b020:18949396@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b019:18949397@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a007:18949398@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a008:18949403@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+crate_box003:18949404@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box004:18949411@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+chair_b018:18949415@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+dressing_table002:18949424@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	dressing_table.msh
+	SkinName	=	Default
+candle014:18949427@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle015:18949428@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_c002:18949429@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	chair_c.msh
+	SkinName	=	Default
+mirror_b_glass002:18949460@[ModelObject] from group arizona_house_a01:18949475
+	MeshName	=	mirror_b_glass.msh
+	SkinName	=	Default
+bucket_b003:18949759@[ModelObject] from group barn_a01:18949797
+	MeshName	=	bucket_b.msh
+	SkinName	=	Default
+barrel_e005:18949781@[ModelObject] from group barn_a01:18949797
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+barrel_e006:18949789@[ModelObject] from group barn_a01:18949797
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+house_door_a010:18949870@[ModelObject] from group arizona_house_g01:18949928
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+clock_a003:18949876@[ModelObject] from group arizona_house_g01:18949928
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+chair_b021:18949889@[ModelObject] from group arizona_house_g01:18949928
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+commode_b007:18950318@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+commode_b006:18950319@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+commode_b005:18950320@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+chest_a003:18950321@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+chair_b072:18950322@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b071:18950323@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b070:18950324@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b069:18950325@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b068:18950326@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b067:18950328@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b066:18950329@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b065:18950330@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b064:18950331@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b063:18950332@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b062:18950333@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b061:18950334@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b060:18950335@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b059:18950336@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+georgian_painting001:18950340@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	georgian_painting.msh
+	SkinName	=	Portrait_Saloon
+house_door_a011:18950394@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+lasso_hanger_b001:18950425@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	lasso_hanger_b.msh
+	SkinName	=	Default
+flag_banner001:18950450@[MeshCloth]
+	m_MpcScript	=	data/physics/meshpartcloth/mc_flag.phx
+	m_StretchMul	=	1.000000
+	m_WindInfluence	=	35.000000
+	m_JointElem1	=	bone10
+	m_JointElem2	=	bone100
+	bEnableMPCOnStart	=	1
+	m_MpcWakeUpEnabled	=	1
+	MeshName	=	flag_banner.msh
+	SkinName	=	Flag_A
+chair_b024:18950452@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b023:18950453@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b022:18950454@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+carpet_c007:18950455@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	carpet_c.msh
+	SkinName	=	Brown
+carpet_c006:18950456@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+candle021:18950460@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle020:18950461@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle019:18950462@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle018:18950463@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle017:18950464@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	candle.msh
+	SkinName	=	default
+barrier_ramp001:18950470@[Ramp] from group saloon_b01:18950505
+	bVisible	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+chair_b028:18950471@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b026:18950472@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b027:18950473@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b058:18950474@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b025:18950475@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b057:18950476@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b056:18950477@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b055:18950478@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b054:18950479@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b053:18950480@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b052:18950481@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b051:18950482@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b050:18950483@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b049:18950484@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b048:18950485@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b047:18950486@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b046:18950487@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b045:18950488@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b044:18950489@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b043:18950490@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b042:18950491@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b041:18950492@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b040:18950493@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b039:18950494@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b038:18950495@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b037:18950496@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b036:18950497@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b035:18950498@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b034:18950499@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b033:18950500@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b032:18950501@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b031:18950502@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b030:18950503@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b029:18950504@[ModelObject] from group saloon_b01:18950505
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b073:18950589@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b074:18950590@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a012:18950607@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+carpet_c008:18950623@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+commode_b008:18950664@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+cross_small_b005:18950665@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+candle022:18950666@[ModelObject] from group arizona_house_c01:18950670
+	MeshName	=	candle.msh
+	SkinName	=	default
+barrel_e007:18950720@[ModelObject] from group barn_a01:18950761
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+barrel_e008:18950727@[ModelObject] from group barn_a01:18950761
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+bucket_b004:18950739@[ModelObject] from group barn_a01:18950761
+	MeshName	=	bucket_b.msh
+	SkinName	=	Default
+ladder_a006:18950757@[Ladder] from group barn_a01:18950761
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a007:18950796@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a008:18950797@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a009:18950798@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+house_door_a013:18952737@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a014:18952738@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a015:18952739@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a016:18952740@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a017:18952741@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a018:18952742@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a019:18952743@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a020:18952744@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a021:18952745@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a022:18952746@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a023:18952747@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a025:18952749@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a026:18952750@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a028:18952752@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a029:18952753@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a036:18952773@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_stairs_a002:18954721@[Ramp]
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+barrier001:18956989@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier002:18956991@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier003:18956992@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:18956994@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier007:18956996@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier008:18956997@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier009:18956998@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier010:18956999@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier011:18957000@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier012:18957001@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier013:18957002@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier014:18957003@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier015:18957004@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier016:18957005@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier017:18957006@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier018:18957007@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier019:18957008@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier020:18957009@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier021:18957010@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier022:18957011@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier023:18957012@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier024:18957013@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_a001:18962249@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+barrier025:18962254@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a037:18962255@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a038:18962256@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a039:18962257@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a040:18962258@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+ladder_a010:18962259@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+barrel_a002:18962261@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a003:18962262@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Default
+barrel_a004:18962263@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+house_door_a041:18962292@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a042:18962293@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+horsea001:18966346@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseA_No_Rein
+horsea002:18966348@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB_No_Rein
+horsea003:18966349@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC_No_Rein
+horsea004:18966350@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseD_No_Rein
+horsea005:18966351@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseA_No_Rein
+horsea006:18966352@[Horse]
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB_No_Rein
+r:18967239@[CRoadControlPointHelper]
+	m_Width	=	1000.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+r:18967240@[CRoadControlPointHelper]
+	m_Width	=	1000.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+r2:18967241@[CRoadControlPointHelper]
+	m_Width	=	1600.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+r2:18967242@[CRoadControlPointHelper]
+	m_Width	=	1600.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+barrier026:18967517@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default

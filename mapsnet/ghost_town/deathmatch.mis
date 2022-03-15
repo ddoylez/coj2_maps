@@ -1,0 +1,42 @@
+GameModeSkirmish001:8286468@[GameModeDM]
+	nFragsLimit	=	400
+spawn_blue001:8286469@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue002:8286470@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue003:8286471@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue004:8286472@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue005:8286473@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue006:8286474@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue007:8286475@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue008:8286476@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue009:8286477@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue010:8286478@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default

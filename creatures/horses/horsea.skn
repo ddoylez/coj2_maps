@@ -1,0 +1,647 @@
+!include("surface.def")
+
+Skin("HorseA")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseA_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+/*
+Skin("HorseA_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+Skin("HorseA_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseB")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseB_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+/*
+Skin("HorseB_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+Skin("HorseB_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseC")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseC_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+/*
+Skin("HorseC_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+Skin("HorseC_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseD")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseD_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+/*
+Skin("HorseD_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+Skin("HorseD_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseA_NoSaddle")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseA_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+/*
+Skin("HorseA_NoSaddle_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+Skin("HorseA_NoSaddle_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseB_NoSaddle")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseB_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+/*
+Skin("HorseB_NoSaddle_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+Skin("HorseB_NoSaddle_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseC_NoSaddle")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseC_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+/*
+Skin("HorseC_NoSaddle_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+Skin("HorseC_NoSaddle_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseD_NoSaddle")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseD_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+/*
+Skin("HorseD_NoSaddle_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+Skin("HorseD_NoSaddle_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Bridle")
+	Hide("Saddle")
+	Hide("Stirrups")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseA_No_Rein")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseA_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+/*
+Skin("HorseA_No_Rein_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+Skin("HorseA_No_Rein_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseB_No_Rein")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseB_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+/*
+Skin("HorseB_No_Rein_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+Skin("HorseB_No_Rein_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseC_No_Rein")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseC_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+/*
+Skin("HorseC_No_Rein_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+Skin("HorseC_No_Rein_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+*/
+
+Skin("HorseD_No_Rein")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseD_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+/*
+Skin("HorseD_No_Rein_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+Skin("HorseD_No_Rein_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Harness")
+}
+*/
+
+
+Skin("HorseA_Wagon")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseA_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+/*
+Skin("HorseA_Wagon_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+Skin("HorseA_Wagon_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseA_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseA_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+*/
+
+Skin("HorseB_Wagon")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseB_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+/*
+Skin("HorseB_Wagon_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+Skin("HorseB_Wagon_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseB_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseB_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+*/
+
+Skin("HorseC_Wagon")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseC_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+/*
+Skin("HorseC_Wagon_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+Skin("HorseC_Wagon_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseC_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseC_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+*/
+
+Skin("HorseD_Wagon")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	Replace("HorseA_Body.mat", "HorseD_Body.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+/*
+Skin("HorseD_Wagon_highlight")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_hl.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_hl.mat")
+	Replace("saddle.mat", "saddle_hl.mat")
+	Replace("harness.mat", "harness_hl.mat")
+	Replace("horse_tail.mat", "horse_tail_hl.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+Skin("HorseD_Wagon_marked")
+{
+	!include("HorseADisableAnimsOnLod.skt")
+	FilterInEditor() 
+	Replace("HorseA_Body.mat", "HorseD_Body_mrk.mat")
+	Replace("HorseA_Fringe.mat", "HorseD_Fringe_mrk.mat")
+	Replace("saddle.mat", "saddle_mrk.mat")
+	Replace("harness.mat", "harness_mrk.mat")
+	Replace("horse_tail.mat", "horse_tail_mrk.mat")
+	ReplaceSurface("Unknown", "Flesh", "")
+	Hide("Rein")
+	Hide("Saddle")
+	Hide("Stirrups")
+}
+*/
+

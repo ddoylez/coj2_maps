@@ -1,0 +1,13 @@
+import "templates.mtt"
+
+sub material()
+{
+	use mtt_objects(
+		s_clr = "BambooCage.dds",
+		b_clr_vrt_on = TRUE,
+		s_nrm = "BambooCage_nrm.dds",
+        f_shn_factor = 0.7,
+		f_nrm_scale = 0.75,
+		b_burn_on = TRUE
+	);
+}

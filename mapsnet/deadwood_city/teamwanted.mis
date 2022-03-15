@@ -1,0 +1,168 @@
+GameModeTeamWanted001:14181825@[GameModeTeamWanted]
+	[aOnPlayerKilledBLUE:0] actnet_AddTeamPoints002:14181826@[actnet_AddTeamPoints]
+		eTeam	=	RED
+		sValue	=	1
+	[aOnPlayerKilledRED:0] actnet_AddTeamPoints001:14181827@[actnet_AddTeamPoints]
+		eTeam	=	BLUE
+		sValue	=	1
+	nRoundsResultLimit	=	10
+SpawnPoint012:14181828@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint013:14181829@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:14181830@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:14181831@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnArea001_002:14181832@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint012:14181828@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint011:14181830@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint010:14181845@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint009:14181844@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint008:14181835@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint007:14181842@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea001_005:14181839@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea001_003:14181847@[SpawnArea]
+	[m_SpawnAttackersAt:1] SpawnArea001_001:14181843@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+SpawnPoint003:14181833@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:14181834@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14181835@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+sign_round001:14181836@[ModelObject]
+	MeshName	=	sign_round.msh
+	SkinName	=	General_Store
+SpawnArea001_004:14181837@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint019:14181861@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint020:14181859@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint021:14181860@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint022:14181851@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint023:14181852@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint024:14181853@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea001_002:14181832@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea001_003:14181847@[SpawnArea]
+	[m_SpawnAttackersAt:1] SpawnArea001_005:14181839@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+house_door_a051:14181838@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnArea001_005:14181839@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint025:14181854@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint026:14181857@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint027:14181855@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint028:14181856@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint029:14181858@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint030:14181849@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea001_002:14181832@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea001_003:14181847@[SpawnArea]
+	[m_SpawnAttackersAt:1] SpawnArea001_004:14181837@[SpawnArea]
+	[m_SpawnAttackersAt:2] SpawnArea001_001:14181843@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+SpawnPoint005:14181840@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:14181841@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14181842@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnArea001_001:14181843@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint001:14181848@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint002:14181834@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint003:14181833@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint004:14181841@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint005:14181840@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint006:14181831@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea001_003:14181847@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea001_005:14181839@[SpawnArea]
+	[m_SpawnAttackersAt:1] SpawnArea001_002:14181832@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+SpawnPoint009:14181844@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14181845@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a050:14181846@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnArea001_003:14181847@[SpawnArea]
+	[m_SpawnPoints:0] SpawnPoint018:14181862@[SpawnPoint]
+	[m_SpawnPoints:1] SpawnPoint017:14181865@[SpawnPoint]
+	[m_SpawnPoints:2] SpawnPoint016:14181850@[SpawnPoint]
+	[m_SpawnPoints:3] SpawnPoint015:14181863@[SpawnPoint]
+	[m_SpawnPoints:4] SpawnPoint014:14181864@[SpawnPoint]
+	[m_SpawnPoints:5] SpawnPoint013:14181829@[SpawnPoint]
+	[m_SpawnDefendersAt:0] SpawnArea001_005:14181839@[SpawnArea]
+	[m_SpawnAttackersAt:0] SpawnArea001_004:14181837@[SpawnArea]
+	[m_SpawnAttackersAt:1] SpawnArea001_002:14181832@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+SpawnPoint001:14181848@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint030:14181849@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint016:14181850@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint022:14181851@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint023:14181852@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint024:14181853@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint025:14181854@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint027:14181855@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint028:14181856@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint026:14181857@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint029:14181858@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint020:14181859@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint021:14181860@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint019:14181861@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint018:14181862@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint015:14181863@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint014:14181864@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint017:14181865@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

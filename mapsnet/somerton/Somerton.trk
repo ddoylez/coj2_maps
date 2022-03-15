@@ -1,0 +1,107 @@
+!include("Track.def")
+
+MapId(_MP_MAP_CUSTOM29)
+
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Somerton/deathmatch.eds")
+	MapTitle("Somerton")
+	SaveName("Somerton")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_12_Guns.ogg")
+	InGameMap("Somerton_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Somerton/teamdeathmatch.eds")
+	MapTitle("Somerton")
+	SaveName("Somerton")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_12_Guns.ogg")
+	InGameMap("Somerton_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading6.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Somerton/wanted.eds")
+	MapTitle("Somerton")
+	SaveName("Somerton")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Somerton_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Somerton/teamwanted.eds")
+	MapTitle("Somerton")
+	SaveName("Somerton")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Somerton_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading6.dds",0,0,1)
+	}
+}
+
+Group("historical")
+{
+	Objects("Data/MapsNet/Somerton/famousevents.eds")
+	MapTitle("Somerton")
+	SaveName("Somerton")
+	ModeName("&MP_MODE_FamousEvents&")
+	DescriptionMusic("COJ2_Escape_01B.ogg")
+	InGameMap("Somerton_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map1.dds","Somerton_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map2.dds","Somerton_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map3.dds","Somerton_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Somerton_map.dds","Somerton_loading6.dds",0,0,1)
+	}
+}

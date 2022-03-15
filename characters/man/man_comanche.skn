@@ -1,0 +1,523 @@
+// ======================== IndianA ========================
+Skin("IndianA")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indiana_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 107, 35, 22)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 125, 38, 34)
+       ColorI(2, 23, 91, 174)
+       ColorI(3, 83, 62, 47)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 53, 53, 53)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 210, 204, 181)
+    }
+    ColorPreset("Color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 100, 78, 60)
+       ColorI(3, 28, 23, 9)
+    }
+    ColorPreset("Color_5")
+    {
+       ColorI(0, 242, 224, 0)
+       ColorI(2, 48, 61, 48)
+       ColorI(3, 98, 117, 77)
+    }
+    ColorPreset("Color_6")
+    {
+       ColorI(0, 200, 32, 36)
+       ColorI(2, 200, 32, 36)
+       ColorI(3, 75, 86, 112)
+    }
+}
+Skin("IndianA_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("IndianA_highlight")
+{
+	//FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("IndianA_marked")
+{
+	//FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")		
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("IndianA_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== IndianB ========================
+Skin("IndianB")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indiana_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 107, 35, 22)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 125, 38, 34)
+       ColorI(2, 23, 91, 174)
+       ColorI(3, 83, 62, 47)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 53, 53, 53)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 210, 204, 181)
+    }
+    ColorPreset("Color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 100, 78, 60)
+       ColorI(3, 28, 23, 9)
+    }
+    ColorPreset("Color_5")
+    {
+       ColorI(0, 242, 224, 0)
+       ColorI(2, 48, 61, 48)
+       ColorI(3, 98, 117, 77)
+    }
+    ColorPreset("Color_6")
+    {
+       ColorI(0, 200, 32, 36)
+       ColorI(2, 200, 32, 36)
+       ColorI(3, 75, 86, 112)
+    }
+}
+Skin("IndianB_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("IndianB_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("IndianB_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")		
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("IndianB_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_f.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indiana_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== IndianC ========================
+Skin("IndianC")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indianb_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 107, 35, 22)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 125, 38, 34)
+       ColorI(2, 23, 91, 174)
+       ColorI(3, 83, 62, 47)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 53, 53, 53)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 210, 204, 181)
+    }
+    ColorPreset("Color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 100, 78, 60)
+       ColorI(3, 28, 23, 9)
+    }
+    ColorPreset("Color_5")
+    {
+       ColorI(0, 242, 224, 0)
+       ColorI(2, 48, 61, 48)
+       ColorI(3, 98, 117, 77)
+    }
+    ColorPreset("Color_6")
+    {
+       ColorI(0, 200, 32, 36)
+       ColorI(2, 200, 32, 36)
+       ColorI(3, 75, 86, 112)
+    }
+}
+Skin("IndianC_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indianb_accessories.skt")
+
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("IndianC_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indianb_accessories.skt")
+
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("IndianC_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indianb_accessories.skt")
+
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")		
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("IndianC_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_f.skt")
+	!include("indianb_accessories.skt")
+
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== IndianD ========================
+Skin("IndianD")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indianb_accessories.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("Color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 107, 35, 22)
+    }
+    ColorPreset("Color_2")
+    {
+       ColorI(0, 125, 38, 34)
+       ColorI(2, 23, 91, 174)
+       ColorI(3, 83, 62, 47)
+    }
+    ColorPreset("Color_3")
+    {
+       ColorI(0, 53, 53, 53)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 210, 204, 181)
+    }
+    ColorPreset("Color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 100, 78, 60)
+       ColorI(3, 28, 23, 9)
+    }
+    ColorPreset("Color_5")
+    {
+       ColorI(0, 242, 224, 0)
+       ColorI(2, 48, 61, 48)
+       ColorI(3, 98, 117, 77)
+    }
+    ColorPreset("Color_6")
+    {
+       ColorI(0, 200, 32, 36)
+       ColorI(2, 200, 32, 36)
+       ColorI(3, 75, 86, 112)
+    }
+}
+Skin("IndianD_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indianb_accessories.skt")
+	
+	!include("man_player.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("IndianD_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indianb_accessories.skt")
+	
+	!include("man_highlight.skt")	
+	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("IndianD_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indianb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")		
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("IndianD_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_f.skt")
+	!include("man_pants_g.skt")
+	!include("man_torso_f.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_i.skt")
+	!include("indianb_accessories.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}

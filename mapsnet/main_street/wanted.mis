@@ -1,0 +1,50 @@
+GameModeWanted001:14672702@[GameModeWanted]
+	nFragsLimit	=	400
+spawn_blue010:14672703@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue006:14672704@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue007:14672705@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue011:14672706@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue003:14672707@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue009:14672708@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue002:14672709@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue005:14672710@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue001:14672711@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue008:14672712@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue004:14672713@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue012:14672714@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default

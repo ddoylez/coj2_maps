@@ -1,0 +1,162 @@
+spawner001:19100519@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner003:19100520@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner004:19100521@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner002:19100522@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner005:19100523@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner006:19100524@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner010:19100525@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+GameModeWanted001:19100536@[GameModeDM]
+	[m_OnLevelStart_NonNetworkActions:0] 040:19100526@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:1] 039:19100534@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:2] 038:19100528@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:3] 001:19100527@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:4] 002:19100532@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:5] 003:19100529@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:6] 004:19100531@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:7] 005:19100535@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:8] 006:19100533@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:9] 007:19100530@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:10] 008:19100562@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:11] 009:19100550@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:12] 010:19100557@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:13] 011:19100538@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:14] 012:19100542@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:15] 013:19100545@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:16] 014:19100559@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:17] 015:19100560@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:18] 016:19100564@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:19] 017:19100558@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:20] 018:19100547@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:21] 019:19100543@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:22] 020:19100555@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:23] 021:19100546@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:24] 022:19100563@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:25] 023:19100551@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:26] 024:19100544@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:27] 025:19100548@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:28] 026:19100539@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:29] 027:19100549@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:30] 028:19100540@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:31] 029:19100552@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:32] 030:19100553@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:33] 031:19100561@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:34] 032:19100554@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:35] 033:19100541@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:36] 034:19100537@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:37] 035:19100556@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:38] 036:19100565@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:39] 037:19100566@[act_Appear]
+		cType	=	_DISAPPEAR
+	m_RespawnTime	=	3.000000
+spawner011:19100567@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner008:19100568@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner007:19100569@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner013:19100570@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner014:19100571@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner012:19100572@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner009:19100573@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

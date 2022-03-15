@@ -1,0 +1,105 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM7)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Cursed_land/deathmatch.eds")
+	MapTitle("Cursed land")
+	SaveName("Cursed_land")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Indians_Sacred_Grounds.ogg")
+	InGameMap("Cursed_land_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Cursed_land/teamdeathmatch.eds")
+	MapTitle("Cursed land")
+	SaveName("Cursed_land")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Indians_Sacred_Grounds.ogg")
+	InGameMap("Cursed_land_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Cursed_land/wanted.eds")
+	MapTitle("Cursed land")
+	SaveName("Cursed_land")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Indians_Sacred_Grounds.ogg")
+	InGameMap("Cursed_land_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Cursed_land/teamwanted.eds")
+	MapTitle("Cursed land")
+	SaveName("Cursed_land")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Indians_Sacred_Grounds.ogg")
+	InGameMap("Cursed_land_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading6.dds",0,0,1)
+	}
+}
+
+Group("historical")
+{
+	Objects("Data/MapsNet/Cursed_land/famousevents.eds")
+	MapTitle("Cursed land")
+	SaveName("Cursed_land")
+	ModeName("&MP_MODE_FamousEvents&")
+	DescriptionMusic("COJ2_Indians_Sacred_Grounds.ogg")
+	InGameMap("Cursed_land_map2.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_screenshot.dds","Cursed_land_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_screenshot2.dds","Cursed_land_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_screenshot3.dds","Cursed_land_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_map.dds","Cursed_land_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_screenshot4.dds","Cursed_land_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Cursed_land_screenshot4.dds","Cursed_land_loading6.dds",0,0,1)
+	}
+}

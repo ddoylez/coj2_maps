@@ -1,0 +1,1219 @@
+loc_1obj_B003:19154456@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_Barricade_003:19154559@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_B002:19154457@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_Barricade_001:19154558@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_B001:19154458@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_1obj001:19154557@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+sensor_TrackBox001:19154459@[sensor_TrackBox]
+	cSide	=	_NET_TEAM_BLUE
+	[cOnEnter:0] 051:19154735@[act_Run]
+		[cChain] Escape001:19154727@[ActionChain]
+	bEnabled	=	0
+LocationOutlawEscapeReach001:19154460@[Location]
+	sTipID	=	&MPFE_LOC_EscapeRoute&
+	[cTrackedObject] sensor_TrackBox001:19154459@[sensor_TrackBox]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	35.000000
+	eColor	=	NetStarGolden
+	m_3dMapMode	=	AlwaysVisible
+loc_3obj_B001:19154461@[Location]
+	sTipID	=	Third Location
+	[cTrackedObject] dynamite_3obj001:19154540@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_3obj_R001:19154462@[Location]
+	sTipID	=	Third Location
+	[cTrackedObject] dynamite_3obj001:19154540@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+loc_3obj_R002:19154463@[Location]
+	sTipID	=	Third Location
+	[cTrackedObject] dynamite_Storage_001:19154560@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+LocationLawmenEscapeDefend001:19154464@[Location]
+	sTipID	=	&MPFE_LOC_EscapeRoute&
+	[cTrackedObject] sensor_TrackBox001:19154459@[sensor_TrackBox]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	35.000000
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_3obj_B002:19154465@[Location]
+	sTipID	=	Third Location
+	[cTrackedObject] dynamite_Storage_001:19154560@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_B004:19154466@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_Barricade_002:19154535@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_R002:19154467@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_Barricade_001:19154558@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_R004:19154468@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_Barricade_002:19154535@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_R001:19154469@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_1obj001:19154557@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+loc_1obj_R003:19154470@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_Barricade_003:19154559@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+loc_2obj_B001:19154471@[Location]
+	sTipID	=	Second Location
+	[cTrackedObject] dynamite_2obj001:19154555@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+loc_2obj_R001:19154472@[Location]
+	sTipID	=	Second Location
+	[cTrackedObject] dynamite_2obj001:19154555@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+wheel019:19154473@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Paint
+wheel021:19154474@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Paint
+spawn_3obj_R_008:19154475@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_B_008:19154476@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+wheel018:19154477@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Paint
+spawn_4obj_R_003:19154478@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_B_005:19154479@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_4obj_B_007:19154480@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+wagon_b003:19154481@[ModelObject]
+	MeshName	=	wagon_b.msh
+	SkinName	=	Paint
+wagon_cart004:19154482@[ModelObject]
+	MeshName	=	wagon_cart.msh
+	SkinName	=	Paint
+spawn_4obj_R_008:19154483@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_B_001:19154484@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_4obj_R_002:19154485@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_B_006:19154486@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_4obj_B_003:19154487@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_4obj_R_005:19154488@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_R_004:19154489@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_R_006:19154490@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_4obj_R_007:19154491@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+wagon_tarpaulin_a002:19154492@[ModelObject]
+	MeshName	=	wagon_tarpaulin_a.msh
+	SkinName	=	Old
+spawn_4obj_R_001:19154493@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+wagon_thill003:19154494@[ModelObject]
+	MeshName	=	wagon_thill.msh
+	SkinName	=	Paint
+spawn_4obj_B_002:19154495@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_4obj_B_004:19154496@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+tin_bathtub_a003:19154497@[NetEventsObject]
+	MeshName	=	tin_bathtub_a.msh
+	SkinName	=	Rusty
+wagon_carrier003:19154498@[ModelObject]
+	MeshName	=	wagon_carrier.msh
+	SkinName	=	Paint
+wheel020:19154499@[ModelObject]
+	MeshName	=	wheel.msh
+	SkinName	=	Paint
+001_crate_defender001:19154500@[NetEventsObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+001_crate_defender003:19154501@[NetEventsObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+001_crate_defender004:19154502@[NetEventsObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+001_crate_defender005:19154503@[NetEventsObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+barrel_a096:19154504@[NetEventsObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a097:19154505@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	Old
+barrel_a099:19154506@[NetEventsObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a098:19154507@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+001_crate_defender002:19154508@[NetEventsObject]
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+corpse_a001:19154509@[LawmanActor]
+	MeshName	=	corpse_a.msh
+	SkinName	=	Default
+barrel_a101:19154510@[NetEventsObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+corpse_j001:19154511@[LawmanActor]
+	MeshName	=	corpse_j.msh
+	SkinName	=	default
+corpse_jackson001:19154512@[LawmanActor]
+	MeshName	=	corpse_jackson.msh
+	SkinName	=	Default
+barrels_stack002:19154513@[ModelObject]
+	MeshName	=	barrels_stack.msh
+	SkinName	=	Old
+barrel_a105:19154514@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrels_stack005:19154515@[NetEventsObject]
+	MeshName	=	barrels_stack.msh
+	SkinName	=	Old
+crate_big_b006:19154516@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	crate_big_b.msh
+	SkinName	=	Old
+barrel_a100:19154517@[NetEventsObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+corpse_h001:19154518@[LawmanActor]
+	MeshName	=	corpse_h.msh
+	SkinName	=	Default
+crates_stack005:19154519@[NetEventsObject]
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+crates_stack006:19154520@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	crates_stack.msh
+	SkinName	=	Default
+barrel_a103:19154521@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a102:19154522@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_d003:19154523@[NetEventsObject]
+	MeshName	=	barrel_d.msh
+	SkinName	=	TNT_Explosives
+barrel_a107:19154524@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrel_a106:19154525@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+barrels_stack003:19154526@[NetEventsObject]
+	MeshName	=	barrels_stack.msh
+	SkinName	=	Old
+burned_ground_house_a001:19154527@[ModelObject]
+	MeshName	=	burned_ground_house_a.msh
+	SkinName	=	Default
+barrels_stack004:19154528@[NetEventsObject]
+	MeshName	=	barrels_stack.msh
+	SkinName	=	Old
+barrel_a104:19154529@[ModelObject]
+	MeshName	=	barrel_a.msh
+	SkinName	=	TNT_Explosives
+corpse_d001:19154530@[LawmanActor]
+	MeshName	=	corpse_d.msh
+	SkinName	=	Default
+corpse_i001:19154531@[LawmanActor]
+	MeshName	=	corpse_i.msh
+	SkinName	=	Default
+hay_cube_pile_b008:19154532@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+crates_wagon002:19154533@[NetEventsObject]
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+house_door_a041:19154534@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+dynamite_Barricade_002:19154535@[NetEventsExplodingObject]
+	[m_OnExplode:0] 065:19154714@[act_Run]
+		[cChain] Bank Entrance 004:19154666@[ActionChain]
+	[m_OnPlant:0] 069:19154721@[actnet_Objective]
+		[aTargets:0] loc_1obj_B004:19154466@[Location]
+		[aTargets:1] loc_1obj_R004:19154468@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 073:19154725@[actnet_Objective]
+		[aTargets:0] loc_1obj_B004:19154466@[Location]
+		[aTargets:1] loc_1obj_R004:19154468@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	BLUE
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+house_door_a042:19154536@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_roof_i001:19154537@[ModelObject]
+	MeshName	=	house_roof_i.msh
+	SkinName	=	Wall_Wood_Old_A
+house_door_a044:19154538@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+crates_wagon004:19154539@[NetEventsObject]
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+dynamite_3obj001:19154540@[NetEventsExplodingObject]
+	[m_OnExplode:0] 075:19154722@[act_Run]
+		[cChain] ac_3obj001:19154628@[ActionChain]
+	[m_OnPlant:0] 074:19154723@[actnet_Objective]
+		[aTargets:0] loc_3obj_B001:19154461@[Location]
+		[aTargets:1] loc_3obj_R001:19154462@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 070:19154711@[actnet_Objective]
+		[aTargets:0] loc_3obj_B001:19154461@[Location]
+		[aTargets:1] loc_3obj_R001:19154462@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	BLUE
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+house_door_a043:19154541@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a045:19154542@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+hay_cube_a012:19154543@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+crates_wagon005:19154544@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+hay_cube_a013:19154545@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_pile_a002:19154546@[ModelObject]
+	MeshName	=	hay_cube_pile_a.msh
+	SkinName	=	Default
+hay_cube_a014:19154547@[ModelObject]
+	MeshName	=	hay_cube_a.msh
+	SkinName	=	Default
+hay_cube_pile_b006:19154548@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+house_door_a039:19154549@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a040:19154550@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+hay_cube_pile_b007:19154551@[ModelObject]
+	MeshName	=	hay_cube_pile_b.msh
+	SkinName	=	Default
+crates_wagon007:19154552@[NetEventsObject]
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+crates_wagon003:19154553@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+house_door_a046:19154554@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+dynamite_2obj001:19154555@[NetEventsExplodingObject]
+	m_ExplosionDelay	=	30.000000
+	[m_OnExplode:0] 078:19154701@[act_Run]
+		[cChain] ac_2obj001:19154647@[ActionChain]
+	[m_OnPlant:0] 077:19154702@[actnet_Objective]
+		[aTargets:0] loc_2obj_B001:19154471@[Location]
+		[aTargets:1] loc_2obj_R001:19154472@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 076:19154710@[actnet_Objective]
+		[aTargets:0] loc_2obj_B001:19154471@[Location]
+		[aTargets:1] loc_2obj_R001:19154472@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	BLUE
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+crates_wagon006:19154556@[NetEventsObject]
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+dynamite_1obj001:19154557@[NetEventsExplodingObject]
+	m_ExplosionDelay	=	20.000000
+	[m_OnExplode:0] 081:19154698@[act_Run]
+		[cChain] ac_1obj001:19154616@[ActionChain]
+	[m_OnPlant:0] 080:19154700@[actnet_Objective]
+		[aTargets:0] loc_1obj_B001:19154458@[Location]
+		[aTargets:1] loc_1obj_R001:19154469@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 079:19154699@[actnet_Objective]
+		[aTargets:0] loc_1obj_B001:19154458@[Location]
+		[aTargets:1] loc_1obj_R001:19154469@[Location]
+	m_Visible	=	1
+	sReadyText	=	
+	m_Team	=	BLUE
+	eIconUse	=	DEFAULT
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+dynamite_Barricade_001:19154558@[NetEventsExplodingObject]
+	[m_OnExplode:0] 063:19154728@[act_Run]
+		[cChain] Bank Entrance 001:19154659@[ActionChain]
+	[m_OnPlant:0] 067:19154724@[actnet_Objective]
+		[aTargets:0] loc_1obj_B002:19154457@[Location]
+		[aTargets:1] loc_1obj_R002:19154467@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 071:19154719@[actnet_Objective]
+		[aTargets:0] loc_1obj_B002:19154457@[Location]
+		[aTargets:1] loc_1obj_R002:19154467@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	BLUE
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+dynamite_Barricade_003:19154559@[NetEventsExplodingObject]
+	[m_OnExplode:0] 064:19154705@[act_Run]
+		[cChain] Bank Entrance 002:19154683@[ActionChain]
+	[m_OnPlant:0] 068:19154731@[actnet_Objective]
+		[aTargets:0] loc_1obj_B003:19154456@[Location]
+		[aTargets:1] loc_1obj_R003:19154470@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 072:19154706@[actnet_Objective]
+		[aTargets:0] loc_1obj_B003:19154456@[Location]
+		[aTargets:1] loc_1obj_R003:19154470@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	BLUE
+	eIconUse	=	DISARM_BOMB
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+dynamite_Storage_001:19154560@[NetEventsExplodingObject]
+	[m_OnExplode:0] 055:19154720@[act_Run]
+		[cChain] Barricade001:19154668@[ActionChain]
+	[m_OnPlant:0] 057:19154726@[actnet_Objective]
+		[aTargets:0] loc_3obj_B002:19154465@[Location]
+		[aTargets:1] loc_3obj_R002:19154463@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 059:19154730@[actnet_Objective]
+		[aTargets:0] loc_3obj_B002:19154465@[Location]
+		[aTargets:1] loc_3obj_R002:19154463@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	BLUE
+	MeshName	=	dynamite.msh
+	SkinName	=	Default
+crates_wagon001:19154561@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	crates_wagon.msh
+	SkinName	=	Default
+horsea004:19154562@[Horse]
+	bCanMount	=	0
+	bFriendlyFire	=	0
+	MeshName	=	horsea.msh
+	SkinName	=	HorseA_Wagon
+horsea005:19154563@[Horse]
+	bCanMount	=	0
+	bFriendlyFire	=	0
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC_Wagon
+spawn_2obj_R_003:19154564@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_B_001:19154565@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+shed_b003:19154566@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	shed_b.msh
+	SkinName	=	Wall_Wood_Old_B
+spawn_1obj_R_002:19154567@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_R_004:19154568@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+sign010:19154569@[NetEventsObject]
+	MeshName	=	sign.msh
+	SkinName	=	Explosives
+spawn_1obj_B_004:19154570@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_006:19154571@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_008:19154572@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_001:19154573@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_R_005:19154574@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_R_008:19154575@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_B_001:19154576@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_002:19154577@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_007:19154578@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+sign009:19154579@[ModelObject]
+	MeshName	=	sign.msh
+	SkinName	=	Explosives_Right
+spawn_2obj_B_003:19154580@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_005:19154581@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_007:19154582@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_006:19154583@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_B_004:19154584@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_002:19154585@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_003:19154586@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_007:19154587@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_006:19154588@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_008:19154589@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_003:19154590@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_B_005:19154591@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_R_002:19154592@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_001:19154593@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_004:19154594@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_005:19154595@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_002:19154596@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_B_008:19154597@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_005:19154598@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_002:19154599@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_R_003:19154600@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_004:19154601@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_005:19154602@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_006:19154603@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_007:19154604@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_006:19154605@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_007:19154606@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_B_004:19154607@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_006:19154608@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_R_008:19154609@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_B_003:19154610@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_007:19154611@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_001:19154612@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_R_001:19154613@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+ac_1obj001:19154616@[ActionChain]
+	[aChain:0] 066:19154621@[actnet_SetRoundTime]
+		m_NewTime	=	120.000000
+		m_AddMode	=	1
+	[aChain:1] 006:19154617@[act_PlaySound]
+		sSoundFile	=	data/music/coj2_attack_05.ogg
+		fDuration	=	136.000000
+		VolumeSource	=	Sound
+		fDelay	=	1.000000
+	[aChain:2] 056:19154614@[act_Appear]
+		[cTarget] crates_wagon002:19154533@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:3] 100:19154615@[act_Appear]
+		[cTarget] crates_wagon001:19154561@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:4] 099:19154618@[actnet_Objective]
+		[cTarget] obj_1_B001:19154709@[NetObjective]
+		eState	=	Failed
+	[aChain:5] 098:19154619@[actnet_Objective]
+		[cTarget] obj_1_R001:19154713@[NetObjective]
+		eState	=	Accomplished
+	[aChain:6] 097:19154620@[act_EnableDisable]
+		[aTargets:0] obj_1_B002:19154712@[NetObjective]
+		[aTargets:1] obj_1_R002:19154716@[NetObjective]
+	[aChain:7] 007:19154625@[act_EnableDisable]
+		[aTargets:0] loc_1obj_B003:19154456@[Location]
+		[aTargets:1] loc_1obj_R003:19154470@[Location]
+		[aTargets:2] loc_1obj_B004:19154466@[Location]
+		[aTargets:3] loc_1obj_R004:19154468@[Location]
+	[aChain:8] 096:19154652@[act_EnableDisable]
+		[aTargets:0] spawn_1obj_R_008:19154575@[SpawnPoint]
+		[aTargets:1] spawn_1obj_R_006:19154583@[SpawnPoint]
+		[aTargets:2] spawn_1obj_R_007:19154578@[SpawnPoint]
+		[aTargets:3] spawn_1obj_R_004:19154568@[SpawnPoint]
+		[aTargets:4] spawn_1obj_R_005:19154574@[SpawnPoint]
+		[aTargets:5] spawn_1obj_R_003:19154590@[SpawnPoint]
+		[aTargets:6] spawn_1obj_R_002:19154567@[SpawnPoint]
+		[aTargets:7] spawn_1obj_R_001:19154573@[SpawnPoint]
+		[aTargets:8] spawn_1obj_B_008:19154572@[SpawnPoint]
+		[aTargets:9] spawn_1obj_B_007:19154587@[SpawnPoint]
+		[aTargets:10] spawn_1obj_B_005:19154591@[SpawnPoint]
+		[aTargets:11] spawn_1obj_B_006:19154571@[SpawnPoint]
+		[aTargets:12] spawn_1obj_B_004:19154570@[SpawnPoint]
+		[aTargets:13] spawn_1obj_B_003:19154586@[SpawnPoint]
+		[aTargets:14] spawn_1obj_B_002:19154577@[SpawnPoint]
+		[aTargets:15] spawn_1obj_B_001:19154565@[SpawnPoint]
+		cType	=	_DISABLE
+	[aChain:9] 095:19154631@[act_EnableDisable]
+		[aTargets:0] spawn_2obj_B_001:19154576@[SpawnPoint]
+		[aTargets:1] spawn_2obj_B_002:19154585@[SpawnPoint]
+		[aTargets:2] spawn_2obj_B_003:19154580@[SpawnPoint]
+		[aTargets:3] spawn_2obj_B_004:19154584@[SpawnPoint]
+		[aTargets:4] spawn_2obj_B_005:19154581@[SpawnPoint]
+		[aTargets:5] spawn_2obj_B_006:19154588@[SpawnPoint]
+		[aTargets:6] spawn_2obj_B_007:19154582@[SpawnPoint]
+		[aTargets:7] spawn_2obj_B_008:19154589@[SpawnPoint]
+		[aTargets:8] spawn_2obj_R_001:19154593@[SpawnPoint]
+		[aTargets:9] spawn_2obj_R_002:19154592@[SpawnPoint]
+		[aTargets:10] spawn_2obj_R_003:19154564@[SpawnPoint]
+		[aTargets:11] spawn_2obj_R_004:19154594@[SpawnPoint]
+		[aTargets:12] spawn_2obj_R_005:19154595@[SpawnPoint]
+		[aTargets:13] spawn_2obj_R_006:19154605@[SpawnPoint]
+		[aTargets:14] spawn_2obj_R_007:19154606@[SpawnPoint]
+		[aTargets:15] spawn_2obj_R_008:19154609@[SpawnPoint]
+	[aChain:10] 094:19154626@[act_Wait]
+		fDelay	=	5.000000
+	[aChain:11] 004:19154635@[act_Appear]
+		[cTarget] dynamite_Barricade_003:19154559@[NetEventsExplodingObject]
+	[aChain:12] 003:19154650@[act_Appear]
+		[cTarget] dynamite_Barricade_002:19154535@[NetEventsExplodingObject]
+	[aChain:13] 005:19154649@[act_Appear]
+		[cTarget] dynamite_Barricade_001:19154558@[NetEventsExplodingObject]
+	[aChain:14] 093:19154624@[act_Appear]
+		[cTarget] dynamite_2obj001:19154555@[NetEventsExplodingObject]
+ac_3obj001:19154628@[ActionChain]
+	[aChain:0] 036:19154638@[act_Appear]
+		[cTarget] crates_wagon005:19154544@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:1] 037:19154639@[act_Appear]
+		[cTarget] crates_wagon006:19154556@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:2] 016:19154641@[act_Appear]
+		[cTarget] barrel_a096:19154504@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:3] 046:19154642@[act_EnableDisable]
+		[aTargets:0] NetObjective_01_Lawmen001:19154707@[NetObjective]
+		[aTargets:1] NetObjective_02_Outlaws001:19154708@[NetObjective]
+		[aTargets:2] LocationLawmenEscapeDefend001:19154464@[Location]
+		[aTargets:3] LocationOutlawEscapeReach001:19154460@[Location]
+	[aChain:4] 085:19154643@[act_EnableDisable]
+		[cTarget] sensor_TrackBox001:19154459@[sensor_TrackBox]
+		fDelay	=	3.000000
+	[aChain:5] 034:19154632@[act_EnableDisable]
+		[aTargets:0] spawn_3obj_B_001:19154612@[SpawnPoint]
+		[aTargets:1] spawn_3obj_B_002:19154599@[SpawnPoint]
+		[aTargets:2] spawn_3obj_B_003:19154610@[SpawnPoint]
+		[aTargets:3] spawn_3obj_B_004:19154607@[SpawnPoint]
+		[aTargets:4] spawn_3obj_B_005:19154598@[SpawnPoint]
+		[aTargets:5] spawn_3obj_B_006:19154608@[SpawnPoint]
+		[aTargets:6] spawn_3obj_B_007:19154611@[SpawnPoint]
+		[aTargets:7] spawn_3obj_B_008:19154597@[SpawnPoint]
+		[aTargets:8] spawn_3obj_R_001:19154613@[SpawnPoint]
+		[aTargets:9] spawn_3obj_R_002:19154596@[SpawnPoint]
+		[aTargets:10] spawn_3obj_R_003:19154600@[SpawnPoint]
+		[aTargets:11] spawn_3obj_R_004:19154601@[SpawnPoint]
+		[aTargets:12] spawn_3obj_R_005:19154602@[SpawnPoint]
+		[aTargets:13] spawn_3obj_R_006:19154603@[SpawnPoint]
+		[aTargets:14] spawn_3obj_R_007:19154604@[SpawnPoint]
+		[aTargets:15] spawn_3obj_R_008:19154475@[SpawnPoint]
+		cType	=	_DISABLE
+	[aChain:6] 035:19154644@[act_EnableDisable]
+		[aTargets:0] spawn_4obj_B_001:19154484@[SpawnPoint]
+		[aTargets:1] spawn_4obj_B_002:19154495@[SpawnPoint]
+		[aTargets:2] spawn_4obj_B_003:19154487@[SpawnPoint]
+		[aTargets:3] spawn_4obj_B_004:19154496@[SpawnPoint]
+		[aTargets:4] spawn_4obj_B_005:19154479@[SpawnPoint]
+		[aTargets:5] spawn_4obj_B_006:19154486@[SpawnPoint]
+		[aTargets:6] spawn_4obj_B_007:19154480@[SpawnPoint]
+		[aTargets:7] spawn_4obj_B_008:19154476@[SpawnPoint]
+		[aTargets:8] spawn_4obj_R_001:19154493@[SpawnPoint]
+		[aTargets:9] spawn_4obj_R_002:19154485@[SpawnPoint]
+		[aTargets:10] spawn_4obj_R_003:19154478@[SpawnPoint]
+		[aTargets:11] spawn_4obj_R_004:19154489@[SpawnPoint]
+		[aTargets:12] spawn_4obj_R_005:19154488@[SpawnPoint]
+		[aTargets:13] spawn_4obj_R_006:19154490@[SpawnPoint]
+		[aTargets:14] spawn_4obj_R_007:19154491@[SpawnPoint]
+		[aTargets:15] spawn_4obj_R_008:19154483@[SpawnPoint]
+	[aChain:7] 084:19154633@[actnet_Objective]
+		[cTarget] obj_3_B001:19154736@[NetObjective]
+		eState	=	Failed
+	[aChain:8] 083:19154646@[actnet_Objective]
+		[cTarget] obj_3_R001:19154733@[NetObjective]
+		eState	=	Accomplished
+	[aChain:9] 047:19154634@[actnet_SetRoundTime]
+		m_NewTime	=	60.000000
+		m_AddMode	=	1
+		fDelay	=	5.000000
+	[aChain:10] 001:19154681@[act_PlaySound]
+		sSoundFile	=	data/music/coj2_attack_17b.ogg
+		fDuration	=	101.000000
+		fDelay	=	1.000000
+	[aChain:11] 082:19154680@[act_Wait]
+		fDelay	=	5.000000
+ac_2obj001:19154647@[ActionChain]
+	[aChain:0] 062:19154636@[actnet_SetRoundTime]
+		m_NewTime	=	180.000000
+		m_AddMode	=	1
+	[aChain:1] 092:19154653@[act_Appear]
+		[cTarget] shed_b003:19154566@[NetEventsObject]
+		cType	=	_DISAPPEAR
+		fDelay	=	1.000000
+		bDelayWaits	=	0
+	[aChain:2] 008:19154627@[act_Appear]
+		[cTarget] dynamite_Storage_001:19154560@[NetEventsExplodingObject]
+		cType	=	_APPEAR
+	[aChain:3] 091:19154630@[actnet_Objective]
+		[cTarget] obj_2_B001:19154717@[NetObjective]
+		eState	=	Failed
+	[aChain:4] 090:19154637@[actnet_Objective]
+		[cTarget] obj_2_R001:19154718@[NetObjective]
+		eState	=	Accomplished
+	[aChain:5] 089:19154645@[act_EnableDisable]
+		[aTargets:0] obj_3_B002:19154732@[NetObjective]
+		[aTargets:1] obj_3_R002:19154734@[NetObjective]
+	[aChain:6] 088:19154648@[act_EnableDisable]
+		[aTargets:0] spawn_2obj_B_001:19154576@[SpawnPoint]
+		[aTargets:1] spawn_2obj_B_002:19154585@[SpawnPoint]
+		[aTargets:2] spawn_2obj_B_003:19154580@[SpawnPoint]
+		[aTargets:3] spawn_2obj_B_004:19154584@[SpawnPoint]
+		[aTargets:4] spawn_2obj_B_005:19154581@[SpawnPoint]
+		[aTargets:5] spawn_2obj_B_006:19154588@[SpawnPoint]
+		[aTargets:6] spawn_2obj_B_007:19154582@[SpawnPoint]
+		[aTargets:7] spawn_2obj_B_008:19154589@[SpawnPoint]
+		[aTargets:8] spawn_2obj_R_001:19154593@[SpawnPoint]
+		[aTargets:9] spawn_2obj_R_002:19154592@[SpawnPoint]
+		[aTargets:10] spawn_2obj_R_003:19154564@[SpawnPoint]
+		[aTargets:11] spawn_2obj_R_004:19154594@[SpawnPoint]
+		[aTargets:12] spawn_2obj_R_005:19154595@[SpawnPoint]
+		[aTargets:13] spawn_2obj_R_006:19154605@[SpawnPoint]
+		[aTargets:14] spawn_2obj_R_007:19154606@[SpawnPoint]
+		[aTargets:15] spawn_2obj_R_008:19154609@[SpawnPoint]
+		cType	=	_DISABLE
+	[aChain:7] 087:19154651@[act_EnableDisable]
+		[aTargets:0] spawn_3obj_B_001:19154612@[SpawnPoint]
+		[aTargets:1] spawn_3obj_B_003:19154610@[SpawnPoint]
+		[aTargets:2] spawn_3obj_B_002:19154599@[SpawnPoint]
+		[aTargets:3] spawn_3obj_B_004:19154607@[SpawnPoint]
+		[aTargets:4] spawn_3obj_B_005:19154598@[SpawnPoint]
+		[aTargets:5] spawn_3obj_B_006:19154608@[SpawnPoint]
+		[aTargets:6] spawn_3obj_B_007:19154611@[SpawnPoint]
+		[aTargets:7] spawn_3obj_R_001:19154613@[SpawnPoint]
+		[aTargets:8] spawn_3obj_B_008:19154597@[SpawnPoint]
+		[aTargets:9] spawn_3obj_R_002:19154596@[SpawnPoint]
+		[aTargets:10] spawn_3obj_R_003:19154600@[SpawnPoint]
+		[aTargets:11] spawn_3obj_R_004:19154601@[SpawnPoint]
+		[aTargets:12] spawn_3obj_R_005:19154602@[SpawnPoint]
+		[aTargets:13] spawn_3obj_R_006:19154603@[SpawnPoint]
+		[aTargets:14] spawn_3obj_R_007:19154604@[SpawnPoint]
+		[aTargets:15] spawn_3obj_R_008:19154475@[SpawnPoint]
+	[aChain:8] 086:19154629@[act_Wait]
+		fDelay	=	5.000000
+	[aChain:9] 053:19154622@[act_Appear]
+		[cTarget] dynamite_3obj001:19154540@[NetEventsExplodingObject]
+	[aChain:10] 002:19154623@[act_PlaySound]
+		sSoundFile	=	data/music/coj2_attack_05.ogg
+		fDuration	=	136.000000
+		fDelay	=	1.000000
+	[aChain:11] 054:19154640@[act_Appear]
+		[cTarget] sign010:19154569@[NetEventsObject]
+		cType	=	_DISAPPEAR
+		fDelay	=	-0.000000
+		bDelayWaits	=	1
+Bank Entrance 003:19154654@[ActionChain]
+	[aChain:0] 030:19154664@[act_EnableDisable]
+		[aTargets:0] obj_2_B001:19154717@[NetObjective]
+		[aTargets:1] obj_2_R001:19154718@[NetObjective]
+	[aChain:1] 014:19154661@[act_EnableDisable]
+		[aTargets:0] obj_1_B002:19154712@[NetObjective]
+		[aTargets:1] obj_1_R002:19154716@[NetObjective]
+		cType	=	_DISABLE
+	[aChain:2] 015:19154665@[act_EnableDisable]
+		[aTargets:0] loc_1obj_B002:19154457@[Location]
+		[aTargets:1] loc_1obj_B003:19154456@[Location]
+		[aTargets:2] loc_1obj_B004:19154466@[Location]
+		[aTargets:3] loc_1obj_R002:19154467@[Location]
+		[aTargets:4] loc_1obj_R003:19154470@[Location]
+		[aTargets:5] loc_1obj_R004:19154468@[Location]
+		cType	=	_DISABLE
+Bank Entrance 001:19154659@[ActionChain]
+	[aChain:0] 058:19154663@[act_Appear]
+		[cTarget] crates_stack006:19154520@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:1] 033:19154682@[act_EnableDisable]
+		[aTargets:0] obj_2_B001:19154717@[NetObjective]
+		[aTargets:1] obj_2_R001:19154718@[NetObjective]
+	[aChain:2] 009:19154672@[act_EnableDisable]
+		[aTargets:0] obj_1_B002:19154712@[NetObjective]
+		[aTargets:1] obj_1_R002:19154716@[NetObjective]
+		cType	=	_DISABLE
+	[aChain:3] 010:19154670@[act_EnableDisable]
+		[aTargets:0] loc_1obj_B002:19154457@[Location]
+		[aTargets:1] loc_1obj_B003:19154456@[Location]
+		[aTargets:2] loc_1obj_B004:19154466@[Location]
+		[aTargets:3] loc_1obj_R002:19154467@[Location]
+		[aTargets:4] loc_1obj_R003:19154470@[Location]
+		[aTargets:5] loc_1obj_R004:19154468@[Location]
+		cType	=	_DISABLE
+	[aChain:4] 044:19154684@[act_Appear]
+		[cTarget] crates_wagon004:19154539@[NetEventsObject]
+		cType	=	_DISAPPEAR
+Bank Entrance 004:19154666@[ActionChain]
+	[aChain:0] 043:19154662@[act_Appear]
+		[cTarget] crates_wagon007:19154552@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:1] 029:19154655@[act_EnableDisable]
+		[aTargets:0] obj_2_B001:19154717@[NetObjective]
+		[aTargets:1] obj_2_R001:19154718@[NetObjective]
+	[aChain:2] 012:19154678@[act_EnableDisable]
+		[aTargets:0] obj_1_B002:19154712@[NetObjective]
+		[aTargets:1] obj_1_R002:19154716@[NetObjective]
+		cType	=	_DISABLE
+	[aChain:3] 013:19154656@[act_EnableDisable]
+		[aTargets:0] loc_1obj_B002:19154457@[Location]
+		[aTargets:1] loc_1obj_B003:19154456@[Location]
+		[aTargets:2] loc_1obj_B004:19154466@[Location]
+		[aTargets:3] loc_1obj_R002:19154467@[Location]
+		[aTargets:4] loc_1obj_R003:19154470@[Location]
+		[aTargets:5] loc_1obj_R004:19154468@[Location]
+		cType	=	_DISABLE
+	[aChain:4] 061:19154667@[act_Appear]
+		[cTarget] crates_wagon003:19154553@[NetEventsObject]
+		cType	=	_DISAPPEAR
+Barricade001:19154668@[ActionChain]
+	[aChain:0] 040:19154674@[act_Appear]
+		[cTarget] 001_crate_defender005:19154503@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:1] 038:19154669@[act_Appear]
+		[cTarget] 001_crate_defender004:19154502@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:2] 042:19154675@[act_Appear]
+		[cTarget] 001_crate_defender003:19154501@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:3] 041:19154657@[act_Appear]
+		[cTarget] 001_crate_defender002:19154508@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:4] 039:19154658@[act_Appear]
+		[cTarget] 001_crate_defender001:19154500@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:5] 024:19154676@[act_Appear]
+		[cTarget] barrel_a100:19154517@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:6] 023:19154671@[act_Appear]
+		[cTarget] barrel_a101:19154510@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:7] 022:19154686@[act_Appear]
+		[cTarget] barrel_a099:19154506@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:8] 021:19154690@[act_Appear]
+		[cTarget] barrels_stack005:19154515@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:9] 020:19154691@[act_Appear]
+		[cTarget] barrels_stack004:19154528@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:10] 019:19154694@[act_Appear]
+		[cTarget] barrels_stack003:19154526@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:11] 018:19154689@[act_Appear]
+		[cTarget] barrel_d003:19154523@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:12] 017:19154693@[act_Appear]
+		[cTarget] tin_bathtub_a003:19154497@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:13] 028:19154696@[act_EnableDisable]
+		[aTargets:0] obj_3_B001:19154736@[NetObjective]
+		[aTargets:1] obj_3_R001:19154733@[NetObjective]
+	[aChain:14] 027:19154695@[act_EnableDisable]
+		[aTargets:0] obj_3_B002:19154732@[NetObjective]
+		[aTargets:1] obj_3_R002:19154734@[NetObjective]
+		cType	=	_DISABLE
+	[aChain:15] 052:19154688@[act_Appear]
+		[cTarget] crate_big_b006:19154516@[NetEventsObject]
+		cType	=	_DISAPPEAR
+Bank Entrance 002:19154683@[ActionChain]
+	[aChain:0] 060:19154660@[act_Appear]
+		[cTarget] barrel_a098:19154507@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:1] 031:19154673@[act_EnableDisable]
+		[aTargets:0] loc_1obj_B002:19154457@[Location]
+		[aTargets:1] loc_1obj_B003:19154456@[Location]
+		[aTargets:2] loc_1obj_B004:19154466@[Location]
+		[aTargets:3] loc_1obj_R002:19154467@[Location]
+		[aTargets:4] loc_1obj_R003:19154470@[Location]
+		[aTargets:5] loc_1obj_R004:19154468@[Location]
+		cType	=	_DISABLE
+	[aChain:2] 011:19154677@[act_EnableDisable]
+		[aTargets:0] obj_1_B002:19154712@[NetObjective]
+		[aTargets:1] obj_1_R002:19154716@[NetObjective]
+		cType	=	_DISABLE
+	[aChain:3] 032:19154679@[act_EnableDisable]
+		[aTargets:0] obj_2_B001:19154717@[NetObjective]
+		[aTargets:1] obj_2_R001:19154718@[NetObjective]
+	[aChain:4] 045:19154685@[act_Appear]
+		[cTarget] crates_stack005:19154519@[NetEventsObject]
+		cType	=	_DISAPPEAR
+Barricade002:19154692@[ActionChain]
+	[aChain:0] 026:19154697@[act_EnableDisable]
+		[aTargets:0] obj_3_B001:19154736@[NetObjective]
+		[aTargets:1] obj_3_R001:19154733@[NetObjective]
+	[aChain:1] 025:19154687@[act_EnableDisable]
+		[aTargets:0] obj_3_B002:19154732@[NetObjective]
+		[aTargets:1] obj_3_R002:19154734@[NetObjective]
+		cType	=	_DISABLE
+GameModeEvents001:19154703@[GameModeEvents]
+	eWinnerWhenRoundTimePasses	=	RED
+	eScoreToDisplay	=	TEAM_SCORE
+	fRoundInterval	=	300.000000
+	m_NoTimeLimitFromMenu	=	1
+NetObjective_01_Lawmen001:19154707@[NetObjective]
+	m_Team	=	RED
+	m_SoundAnnouncement	=	MPFE_OBJ_PrisonBreak2_Blue_06.ogg
+	sTextID	=	&MPFE_OBJ_PrisonBreak2_Blue_06&
+	sShortTextID	=	&MPFE_OBJ_PrisonBreak2_Blue_06&
+	[cLocation] LocationLawmenEscapeDefend001:19154464@[Location]
+	bEnableOnStart	=	0
+NetObjective_02_Outlaws001:19154708@[NetObjective]
+	m_Team	=	BLUE
+	m_SoundAnnouncement	=	MPFE_OBJ_PrisonBreak2_Red_06.ogg
+	sTextID	=	Escape From The Town.
+	sShortTextID	=	Escape From The Town.
+	[cLocation] LocationOutlawEscapeReach001:19154460@[Location]
+	bEnableOnStart	=	0
+obj_1_B001:19154709@[NetObjective]
+	m_Team	=	RED
+	m_SoundAnnouncement	=	MPFE_OBJ_Klondike_B_Storage.ogg
+	iObjectiveOrderNumber	=	10
+	sTextID	=	Defend The Storage.
+	sShortTextID	=	Defend The Storage.
+	[cLocation] loc_1obj_B001:19154458@[Location]
+obj_1_B002:19154712@[NetObjective]
+	m_Team	=	RED
+	m_SoundAnnouncement	=	MPFE_OBJ_Coffeyville_3_B.ogg
+	sTextID	=	Defend The Barricade.
+	sShortTextID	=	Defend The Barricade.
+	[m_Locations:0] loc_1obj_B002:19154457@[Location]
+	[m_Locations:1] loc_1obj_B003:19154456@[Location]
+	[m_Locations:2] loc_1obj_B004:19154466@[Location]
+	bEnableOnStart	=	0
+obj_1_R001:19154713@[NetObjective]
+	m_Team	=	BLUE
+	m_SoundAnnouncement	=	MPFE_OBJ_Klondike_R_Storage.ogg
+	sTextID	=	Destroy The Storage.
+	sShortTextID	=	Destroy The Storage.
+	[cLocation] loc_1obj_R001:19154469@[Location]
+obj_1_R002:19154716@[NetObjective]
+	m_Team	=	BLUE
+	m_SoundAnnouncement	=	MPFE_OBJ_Coffeyville_3_R.ogg
+	sTextID	=	Destroy The Barricade.
+	sShortTextID	=	Destroy The Barricade.
+	[m_Locations:0] loc_1obj_R002:19154467@[Location]
+	[m_Locations:1] loc_1obj_R003:19154470@[Location]
+	[m_Locations:2] loc_1obj_R004:19154468@[Location]
+	bEnableOnStart	=	0
+obj_2_B001:19154717@[NetObjective]
+	m_Team	=	RED
+	m_SoundAnnouncement	=	MPFE_OBJ_StinkingSprings_1_R.ogg
+	iObjectiveOrderNumber	=	11
+	sTextID	=	Protect The Explosives.
+	sShortTextID	=	Protect The Explosives.
+	[cLocation] loc_2obj_B001:19154471@[Location]
+	bEnableOnStart	=	0
+obj_2_R001:19154718@[NetObjective]
+	m_Team	=	BLUE
+	m_SoundAnnouncement	=	MPFE_OBJ_StinkingSprings_1_B.ogg
+	iObjectiveOrderNumber	=	1
+	sTextID	=	Destroy The Hut.
+	sShortTextID	=	Destroy The Hut.
+	[cLocation] loc_2obj_R001:19154472@[Location]
+	bEnableOnStart	=	0
+Escape001:19154727@[ActionChain]
+	[aChain:0] 050:19154729@[actnet_Objective]
+		[cTarget] NetObjective_02_Outlaws001:19154708@[NetObjective]
+		eState	=	Accomplished
+	[aChain:1] 049:19154715@[actnet_Objective]
+		[cTarget] NetObjective_01_Lawmen001:19154707@[NetObjective]
+		eState	=	Accomplished
+	[aChain:2] 048:19154704@[actnet_FinishRoundTeam]
+		eTeamWinner	=	RED
+obj_3_B002:19154732@[NetObjective]
+	m_Team	=	RED
+	m_SoundAnnouncement	=	MPFE_OBJ_Klondike_B_Storage.ogg
+	sTextID	=	Defend The Storrage.
+	sShortTextID	=	Defend The Storrage.
+	[m_Locations:0] loc_3obj_B002:19154465@[Location]
+	bEnableOnStart	=	0
+obj_3_R001:19154733@[NetObjective]
+	m_Team	=	BLUE
+	m_SoundAnnouncement	=	MPFE_OBJ_Klondike_R_Storage.ogg
+	iObjectiveOrderNumber	=	2
+	sTextID	=	Destroy The Last Storage.
+	sShortTextID	=	Destroy The Last Storage.
+	[cLocation] loc_3obj_R001:19154462@[Location]
+	bEnableOnStart	=	0
+obj_3_R002:19154734@[NetObjective]
+	m_Team	=	BLUE
+	m_SoundAnnouncement	=	MPFE_OBJ_Klondike_R_Storage.ogg
+	sTextID	=	Destroy The Storage.
+	sShortTextID	=	Destroy The Storage.
+	[m_Locations:0] loc_3obj_R002:19154463@[Location]
+	bEnableOnStart	=	0
+obj_3_B001:19154736@[NetObjective]
+	m_Team	=	RED
+	m_SoundAnnouncement	=	MPFE_OBJ_Klondike_B_Storage.ogg
+	iObjectiveOrderNumber	=	12
+	sTextID	=	Defend The Last Storage.
+	sShortTextID	=	Defend The Last Storage.
+	[cLocation] loc_3obj_B001:19154461@[Location]
+	bEnableOnStart	=	0

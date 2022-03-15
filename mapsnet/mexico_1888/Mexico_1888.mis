@@ -1,0 +1,560 @@
+Mexico 1888:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:9532603@[NatureParamsNormal]
+		bFishFlocksAllowed	=	0
+	m_VisibilityRanges.terrain	=	90000.000000
+	m_tempTinyObjectsScriptPath	=	Data/MapsNet/Mexico_1888/Mexico_1888_foliage.scr
+horizon_mexico001:9528330@[ModelObject]
+	MeshName	=	horizon_mexico.msh
+	SkinName	=	default
+se_Ambient01:9532096@[SoundEmitterAmbient]
+	m_SoundId	=	Desert_Crickets
+	fMinDistance	=	50000.000000
+se_Ambient02:9532100@[SoundEmitterAmbient]
+	m_SoundId	=	Desert_Wind
+	fMinDistance	=	50000.000000
+chair_b003:9533708@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+mexican_house_interior_wall_d001:9533709@[ModelObject]
+	MeshName	=	mexican_house_interior_wall_d.msh
+	SkinName	=	Default
+lamp_a002:9533710@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default
+lamp_a001:9533712@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default
+house_door_a001:9533713@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a003:9533714@[ModelObject] from group mexican_house_ground_a01:9533748
+	MeshName	=	house_door_a.msh
+	SkinName	=	D
+chair_b002:9533716@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b001:9533717@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chest_a002:9533730@[ModelObject]
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+carpet_c001:9533731@[ModelObject]
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+mexican_house_interior_wall_c001:9533732@[ModelObject]
+	MeshName	=	mexican_house_interior_wall_c.msh
+	SkinName	=	Default
+mexican_house_interior_wall_a002:9533733@[ModelObject]
+	MeshName	=	mexican_house_interior_wall_a.msh
+	SkinName	=	Default
+mexican_house_interior_wall_a001:9533734@[ModelObject]
+	MeshName	=	mexican_house_interior_wall_a.msh
+	SkinName	=	Default
+lamp_a003:9533735@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default
+house_door_a002:9533736@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+mexican_house_interior_wall_c002:9533737@[ModelObject]
+	MeshName	=	mexican_house_interior_wall_c.msh
+	SkinName	=	Default
+chest_a001:9533747@[ModelObject]
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+laundry_a001:9533765@[Actor] from group sel_mexican_shed01:9533772
+	MeshName	=	laundry_a.msh
+	SkinName	=	default
+laundry_a002:9533768@[Actor] from group sel_mexican_shed01:9533772
+	MeshName	=	laundry_a.msh
+	SkinName	=	default
+pitchfork_a001:9540068@[ModelObject] from group sel_Hayrick01:9540072
+	MeshName	=	pitchfork_a.msh
+	SkinName	=	default
+ladder_a001:9540131@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+crate_box001:9540137@[ModelObject]
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+chair_b004:9546008@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b005:9546009@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b006:9546010@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b007:9546011@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b008:9546012@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+pumpkin002:9546069@[ActorSinglePhysics] from group sel_mexican_shed01:9546071
+	m_fMass	=	30.000000
+	m_sDestroyFX	=	pumpkin
+	sMeshPartClothScript	=	auto
+	MeshName	=	pumpkin.msh
+	SkinName	=	default
+crate_box005:9546193@[ModelObject] from group sel_Stall01:9546200
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box003:9546195@[ModelObject] from group sel_Stall01:9546200
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box004:9546196@[ModelObject] from group sel_Stall01:9546200
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box002:9546197@[ModelObject] from group sel_Stall01:9546200
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box007:9546198@[ModelObject] from group sel_Stall01:9546200
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+crate_box006:9546199@[ModelObject] from group sel_Stall01:9546200
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+chair_b009:9551150@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+bucket_b001:9551152@[ModelObject]
+	MeshName	=	bucket_b.msh
+	SkinName	=	Default
+laundry_b003:9551158@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_b005:9551161@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_b006:9551162@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_b007:9551163@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_b.msh
+	SkinName	=	Default
+laundry_a004:9551164@[Actor]
+	bEnableMPCOnStart	=	0
+	MeshName	=	laundry_a.msh
+	SkinName	=	Default
+cross_small_a001:9551169@[ModelObject]
+	MeshName	=	cross_small_a.msh
+	SkinName	=	Default
+ladle001:9551170@[ModelObject]
+	MeshName	=	ladle.msh
+	SkinName	=	Default
+pitchfork_a002:9551216@[ModelObject] from group sel_Hayrick01:9551219
+	MeshName	=	pitchfork_a.msh
+	SkinName	=	default
+fort_gate002:9557044@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	fort_gate.msh
+	SkinName	=	Default
+chair_b010:9563241@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+fort_gate006:9564993@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	fort_gate.msh
+	SkinName	=	Default
+barrier001:9568726@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier002:9568728@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier003:9568729@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier004:9568730@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:9568731@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier006:9568732@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier007:9568733@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier008:9568734@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier009:9568735@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier010:9568736@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier011:9568737@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier012:9568738@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier013:9568739@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier014:9568740@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier015:9568741@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier016:9568742@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier017:9568743@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier018:9568744@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier020:9568746@[Ramp]
+	bVisible	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier023:9568749@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+fence_planks_destruction001:9568757@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction002:9568758@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction003:9568759@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction004:9568760@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction005:9568761@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction007:9568763@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction008:9568764@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction009:9568765@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+barrier031:9568778@[Ramp]
+	bVisible	=	0
+	MeshName	=	barrier.msh
+	SkinName	=	default
+ladder_a002:9569404@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a003:9569405@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a004:9569406@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a006:9569408@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+barrel_e001:9569491@[ModelObject] from group sel_Objects_CratesStack02:9569500
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e002:9569497@[ModelObject] from group sel_Objects_CratesStack02:9569500
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e003:9569514@[ModelObject] from group sel_crates_and_barrels01:9569525
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+barrier036:9569671@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier037:9569672@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier038:9569673@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier039:9569674@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier041:9569676@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+horsea001:9569721@[Horse]
+	fHealth	=	10000.000000
+	fMaxHealth	=	10000.000000
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB
+horsea002:9569723@[Horse]
+	fHealth	=	10000.000000
+	fMaxHealth	=	10000.000000
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC
+horsea003:9569724@[Horse]
+	fHealth	=	10000.000000
+	fMaxHealth	=	10000.000000
+	MeshName	=	horsea.msh
+	SkinName	=	HorseC
+horsea004:9569725@[Horse]
+	fHealth	=	10000.000000
+	fMaxHealth	=	10000.000000
+	MeshName	=	horsea.msh
+	SkinName	=	HorseD
+horsea005:9569726@[Horse]
+	fHealth	=	10000.000000
+	fMaxHealth	=	10000.000000
+	MeshName	=	horsea.msh
+	SkinName	=	HorseB
+SoundEmitterSimple002:9572763@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/wind/canyonwindloop.wav
+	fMinDistance	=	7000.000000
+	m_Test	=	0
+SoundEmitterSimple003:9572765@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/desert/worms_01.ogg
+	fMinDistance	=	7000.000000
+	m_Test	=	0
+SoundEmitterSimple004:9572767@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/church/church_talking_00.ogg
+	fMinDistance	=	3000.000000
+	m_Test	=	1
+flag_banner001:9574086@[MeshCloth]
+	m_MpcScript	=	data/physics/meshpartcloth/mc_flag.phx
+	m_StretchMul	=	1.000000
+	m_WindInfluence	=	35.000000
+	m_JointElem1	=	bone10
+	m_JointElem2	=	bone100
+	bEnableMPCOnStart	=	1
+	m_MpcWakeUpEnabled	=	1
+	MeshName	=	flag_banner.msh
+	SkinName	=	Flag_C_Dirt
+road1:9574728@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574729@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574730@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574731@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574732@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574733@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574734@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:9574735@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+mexican_street_stairs_a001:9575136@[ModelObject]
+	MeshName	=	mexican_street_stairs_a.msh
+	SkinName	=	Default
+mexican_stairs_a_barrier001:9575137@[ModelObject]
+	MeshName	=	mexican_stairs_a_barrier.msh
+	SkinName	=	plaster
+mexican_stairs_a_barrier002:9575138@[ModelObject]
+	MeshName	=	mexican_stairs_a_barrier.msh
+	SkinName	=	plaster
+road004:9575142@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road005:9575143@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road006:9575144@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road007:9575145@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road008:9575146@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road009:9575147@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road010:9575148@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road011:9575149@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road012:9575150@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road013:9575151@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road014:9575152@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575153@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575154@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575155@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575156@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575157@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575158@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:9575159@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+2:9575160@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+2:9575161@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+2:9575162@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+2:9575163@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+2:9575164@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+3:9575165@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+3:9575166@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+3:9575167@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+4:9575168@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+4:9575169@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+4:9575170@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default
+4:9575171@[CRoadControlPointHelper]
+	m_Width	=	400.000000
+	MeshName	=	wayball.msh
+	SkinName	=	default

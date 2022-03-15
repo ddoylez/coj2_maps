@@ -1,0 +1,19 @@
+!include("AmbientSounds.def")
+!AmbientVolume(fMasterVolume, fTrack00Volume, fTrack01Volume, fTrack02Volume)
+!AmbientSound(sId, sFileName, nTrack, nLoops, fVolume, fFadeIn, fFadeOut) // note - you can use tracks numbers from 0 to 2
+
+//do not remove lines above
+
+
+//test values below
+AmbientVolume(1, 1, 1, 1)
+
+AmbientSound("minersh_ambient_01", COJ2_Town_01_Dogs, 0, -1, 1, 2, 5)
+AmbientSound("minersh_ambient_02", COJ2_Town_02_Dogs, 0, -1, 1, 3, 5)
+AmbientSound("minersh_ambient_03", COJ2_Town_03_Dogs, 0, -1, 1, 3, 3)
+AmbientSound("minersh_ambient_04", COJ2_Town_04_Dogs, 0, -1, 1, 3, 3)
+AmbientSound("minersh_ambient_05", COJ2_Town_05_Chicken, 1, -1, 1, 2, 5)
+AmbientSound("minersh_ambient_06", COJ2_Town_06_Roaster, 1, -1, 1, 3, 5)
+AmbientSound("minersh_ambient_07", COJ2_Cricket_Ambient_01, 1, -1, 1, 3, 3)
+AmbientSound("minersh_ambient_08", COJ2_ChurchBells_01, 2, -1, 1, 3, 3)
+AmbientSound("minersh_ambient_09", COJ2_Wind_Ambient_01, 0, -1, 1, 3, 3)

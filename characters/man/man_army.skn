@@ -1,0 +1,3329 @@
+// ======================== Soldier Private A ========================
+Skin("Soldier_Private_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+Skin("Soldier_Private_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private B ========================
+Skin("Soldier_Private_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private C ========================
+Skin("Soldier_Private_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private D ========================
+Skin("Soldier_Private_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Corporal A ========================
+Skin("Soldier_Corporal_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierb_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Corporal_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierb_accessories.skt")
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Corporal_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")	
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Corporal_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Corporal_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Corporal B ========================
+Skin("Soldier_Corporal_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierb_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Corporal_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Corporal_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Corporal_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierb_accessories.skt")
+
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Corporal_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Corporal C ========================
+Skin("Soldier_Corporal_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierb_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Corporal_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Corporal_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Corporal_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Corporal_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Corporal D ========================
+Skin("Soldier_Corporal_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierb_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Corporal_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal.mat")	
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Corporal_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Corporal_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_corporal_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Corporal_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Sergeant A ========================
+Skin("Soldier_Sergeant_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Sergeant_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Sergeant_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Sergeant_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Sergeant_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Sergeant B ========================
+Skin("Soldier_Sergeant_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Sergeant_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Sergeant_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Sergeant_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Sergeant_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Sergeant C ========================
+Skin("Soldier_Sergeant_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Sergeant_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Sergeant_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Sergeant_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Sergeant_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Sergeant D ========================
+Skin("Soldier_Sergeant_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Sergeant_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Sergeant_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Sergeant_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_sergeant_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Sergeant_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}	
+
+
+// ======================== Soldier 2nd Lieutenant A ========================
+Skin("Soldier_2nd_Lt_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_2nd_Lt_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_2nd_Lt_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_2nd_Lt_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_2nd_Lt_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 2nd Lieutenant B ========================
+Skin("Soldier_2nd_Lt_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_2nd_Lt_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_2nd_Lt_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_2nd_Lt_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_2nd_Lt_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 2nd Lieutenant C ========================
+Skin("Soldier_2nd_Lt_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_2nd_Lt_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_2nd_Lt_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_2nd_Lt_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_2nd_Lt_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 2nd Lieutenant D ========================
+Skin("Soldier_2nd_Lt_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_2nd_Lt_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_2nd_Lt_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_2nd_Lt_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_second_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_2nd_Lt_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 1st Lieutenant A ========================
+Skin("Soldier_1st_Lt_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_1st_Lt_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_1st_Lt_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_1st_Lt_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_1st_Lt_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 1st Lieutenant B ========================
+Skin("Soldier_1st_Lt_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_1st_Lt_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_1st_Lt_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_1st_Lt_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_1st_Lt_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 1st Lieutenant C ========================
+Skin("Soldier_1st_Lt_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_1st_Lt_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_1st_Lt_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_1st_Lt_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_1st_Lt_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier 1st Lieutenant D ========================
+Skin("Soldier_1st_Lt_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_1st_Lt_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_1st_Lt_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_1st_Lt_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_first_lieut_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_1st_Lt_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Captain A ========================
+Skin("Soldier_Captain_A")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Captain_A_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Captain_A_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Captain_A_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Captain_A_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Captain B ========================
+Skin("Soldier_Captain_B")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Captain_B_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Captain_B_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Captain_B_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Captain_B_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Captain C ========================
+Skin("Soldier_Captain_C")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Captain_C_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Captain_C_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Captain_C_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Captain_C_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Captain D ========================
+Skin("Soldier_Captain_D")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Captain_D_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Captain_D_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_hl.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+Skin("Soldier_Captain_D_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("man_torso_c_rank.mat", "man_torso_c_captain_mrk.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Captain_D_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldiera_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private A Open ========================
+Skin("Soldier_Private_A_Open")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_A_Open_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_A_Open_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_A_Open_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_A_Open_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private B ========================
+Skin("Soldier_Private_B_Open")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_B_Open_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_B_Open_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_B_Open_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_B_Open_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private C Open ========================
+Skin("Soldier_Private_C_Open")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_C_Open_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_C_Open_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_C_Open_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_C_Open_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private D Open ========================
+Skin("Soldier_Private_D_Open")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_D_Open_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_D_Open_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_D_Open_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_D_Open_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_l.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierd_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private A Backpack ========================
+Skin("Soldier_Private_A_Backpack")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierc_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_A_Backpack_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_A_Backpack_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+Skin("Soldier_Private_A_Backpack_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_A_Backpack_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private B Backpack ========================
+Skin("Soldier_Private_B_Backpack")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierc_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_B_Backpack_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_B_Backpack_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_B_Backpack_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_B_Backpack_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private C Backpack ========================
+Skin("Soldier_Private_C_Backpack")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierc_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_C_Backpack_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_C_Backpack_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_C_Backpack_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_C_Backpack_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Soldier Private D Backpack ========================
+Skin("Soldier_Private_D_Backpack")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierc_accessories.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("North")
+    {
+       ColorI(0, 80, 104, 146)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 108, 173, 213)
+    }
+    ColorPreset("South")
+    {
+       ColorI(0, 198, 197, 187)
+       ColorI(2, 0, 0, 0)
+       ColorI(3, 186, 184, 167)
+    }
+}
+Skin("Soldier_Private_D_Backpack_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierdc_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+/*
+Skin("Soldier_Private_D_Backpack_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Soldier_Private_D_Backpack_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Soldier_Private_D_Backpack_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_c.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("soldierc_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}

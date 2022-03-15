@@ -1,0 +1,497 @@
+Skin("Default")
+{
+	!include("woman_surfaces.skt")
+}
+
+Skin("hideall")
+{
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_pants_hideall.skt")
+	!include("woman_torso_hideall.skt")
+	!include("woman_hands_hideall.skt")
+	!include("woman_head_hideall.skt")
+	!include("woman_accessories_hideall.skt")
+
+//  Color i ColorI mozna zamiennie uzywac, zalezy, czy chcesz podawac w [0,255] albo [0,1]
+//  Pierwszy parametr to numer koloru. Mozna uzywac 0, 2 lub 3.
+	
+//  ColorPreset("nazwa_presetu")
+//  {
+//     Color(0, [1.0, 1.0, 1.0])
+//     ColorI(2, 255, 255, 255)
+//  }
+}
+
+// ======================== Marisa ========================
+Skin("Marisa")
+{
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("marisa_boots.skt")
+	!include("marisa_pants.skt")
+	!include("marisa_torso.skt")
+	!include("marisa_hands.skt")
+	!include("marisa_head.skt")
+	!include("marisa_belts.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 49, 58, 83)
+       ColorI(2, 240, 240, 238)
+       ColorI(3, 92, 96, 103)
+    }
+}
+/*
+Skin("Marisa_highlight")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("marisa_boots.skt")
+	!include("marisa_pants.skt")
+	!include("marisa_torso.skt")
+	!include("marisa_hands.skt")
+	!include("marisa_head.skt")
+	!include("marisa_belts.skt")
+
+	!include("woman_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Marisa_marked")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("marisa_boots.skt")
+	!include("marisa_pants.skt")
+	!include("marisa_torso.skt")
+	!include("marisa_hands.skt")
+	!include("marisa_head.skt")
+	!include("marisa_belts.skt")
+
+	!include("woman_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Marisa_player")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("marisa_boots.skt")
+	!include("marisa_pants.skt")
+	!include("marisa_torso.skt")
+	!include("marisa_hands.skt")
+	!include("marisa_head.skt")
+	!include("marisa_belts.skt")
+
+	!include("woman_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Marisa_null")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("marisa_boots.skt")
+	!include("marisa_pants.skt")
+	!include("marisa_torso.skt")
+	!include("marisa_hands.skt")
+	!include("marisa_head.skt")
+	!include("marisa_belts.skt")
+
+	!include("woman_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Civilian Woman ========================
+Skin("Civilian_Woman")
+{
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_arizona_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_arizona_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 79, 0, 2)
+    }
+	ColorPreset("color_2")
+    {
+       ColorI(0, 111, 154, 208)
+       ColorI(2, 111, 154, 208)
+       ColorI(3, 255, 255, 255)
+    }
+	ColorPreset("color_3")
+    {
+       ColorI(0, 62, 74, 55)
+       ColorI(2, 251, 221, 153)
+       ColorI(3, 36, 39, 24)
+    }
+	ColorPreset("color_4")
+    {
+       ColorI(0, 233, 201, 223)
+       ColorI(2, 233, 201, 221)
+       ColorI(3, 194, 107, 162)
+    }
+	ColorPreset("color_5")
+    {
+       ColorI(0, 201, 208, 224)
+       ColorI(2, 20, 23, 33)
+       ColorI(3, 62, 73, 102)
+    }
+	ColorPreset("color_6")
+    {
+       ColorI(0, 58, 5, 6)
+       ColorI(2, 90, 54, 55)
+       ColorI(3, 52, 12, 13)
+    }
+}
+/*
+Skin("Civilian_Woman_highlight")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_arizona_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_arizona_head.skt")
+	!include("woman_accessories_hideall.skt")
+
+	!include("woman_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Civilian_Woman_marked")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_arizona_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_arizona_head.skt")
+	!include("woman_accessories_hideall.skt")
+
+	!include("woman_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Civilian_Woman_player")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_arizona_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_arizona_head.skt")
+	!include("woman_accessories_hideall.skt")
+
+	!include("woman_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Civilian_Woman_null")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_arizona_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_arizona_head.skt")
+	!include("woman_accessories_hideall.skt")
+
+	!include("woman_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Mexican Woman ========================
+Skin("Mexican_Woman")
+{
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_mexican_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_mexican_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 244, 125, 38)
+    }
+	ColorPreset("color_2")
+    {
+       ColorI(0, 111, 154, 208)
+       ColorI(2, 111, 154, 208)
+       ColorI(3, 255, 255, 255)
+    }
+	ColorPreset("color_3")
+    {
+       ColorI(0, 101, 27, 27)
+       ColorI(2, 239, 158, 86)
+       ColorI(3, 152, 39, 43)
+    }
+
+	ColorPreset("color_4")
+    {
+       ColorI(0, 201, 208, 224)
+       ColorI(2, 69, 108, 66)
+       ColorI(3, 62, 73, 102)
+    }
+	ColorPreset("color_5")
+    {
+       ColorI(0, 200, 184, 174)
+       ColorI(2, 214, 165, 152)
+       ColorI(3, 205, 194, 169)
+    }
+}
+/*
+Skin("Mexican_Woman_highlight")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_mexican_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_mexican_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Mexican_Woman_marked")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_mexican_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_mexican_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Mexican_Woman_player")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_mexican_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_mexican_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Mexican_Woman_null")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_arizona_legs.skt")
+	!include("woman_mexican_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_mexican_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+
+// ======================== Indian Woman ========================
+Skin("Indian_Woman")
+{
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_pants_hideall.skt")
+	!include("woman_indian_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_indian_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 223, 227, 223)
+       ColorI(2, 255, 255, 255)
+       ColorI(3, 125, 143, 107)
+    }
+	ColorPreset("color_2")
+    {
+       ColorI(0, 50, 39, 46)
+       ColorI(2, 236, 203, 140)
+       ColorI(3, 102, 23, 23)
+    }
+	ColorPreset("color_3")
+    {
+       ColorI(0, 231, 224, 220)
+       ColorI(2, 38, 43, 38)
+       ColorI(3, 156, 99, 48)
+    }
+	ColorPreset("color_4")
+    {
+       ColorI(0, 97, 88, 73)
+       ColorI(2, 97, 88, 73)
+       ColorI(3, 97, 88, 73)
+    }
+	ColorPreset("color_5")
+    {
+       ColorI(0, 94, 119, 147)
+       ColorI(2, 102, 119, 147)
+       ColorI(3, 213, 222, 225)
+    }
+
+}
+/*
+Skin("Indian_Woman_highlight")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_pants_hideall.skt")
+	!include("woman_indian_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_indian_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_highlight.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Woman_marked")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("marisa_pants.skt")
+	!include("woman_indian_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_indian_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_marked.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+*/
+Skin("Indian_Woman_player")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_pants_hideall.skt")
+	!include("woman_indian_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_indian_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_player.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}
+Skin("Indian_Woman_null")
+{
+	FilterInEditor()
+	!include("woman_surfaces.skt")
+	!include("woman_disable_anims_on_lod.skt")
+	!include("woman_shoes_hideall.skt")
+	!include("woman_pants_hideall.skt")
+	!include("woman_indian_torso.skt")
+	!include("marisa_hands.skt")
+	!include("woman_indian_head.skt")
+	!include("woman_accessories_hideall.skt")
+	
+	Replace("marisa_hands.mat", "woman_hands_a.mat")
+
+	!include("woman_null.skt")
+	
+	Hide("HolsterL")
+	Hide("HolsterR")
+}

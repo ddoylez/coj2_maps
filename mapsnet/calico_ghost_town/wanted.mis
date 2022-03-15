@@ -1,0 +1,71 @@
+GameModeWanted001:19195742@[GameModeWanted]
+	nFragsLimit	=	400
+house_door_a045:19195743@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a046:19195744@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a047:19195745@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a048:19195746@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a049:19195747@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a044:19195748@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_roof_i002:19195749@[ModelObject]
+	MeshName	=	house_roof_i.msh
+	SkinName	=	Wall_Wood_Old_A
+SpawnPoint014:19195750@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+house_door_a050:19195751@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a051:19195752@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+SpawnPoint015:19195753@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+plank_a009:19195754@[ModelObject]
+	MeshName	=	plank_a.msh
+	SkinName	=	Default
+plank_a010:19195755@[ModelObject]
+	MeshName	=	plank_a.msh
+	SkinName	=	Default
+SpawnPoint013:19195756@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint017:19195757@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint020:19195758@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint019:19195759@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint021:19195760@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint018:19195761@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint022:19195762@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint024:19195763@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint016:19195764@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint023:19195765@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

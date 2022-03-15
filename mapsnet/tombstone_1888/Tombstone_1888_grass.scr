@@ -1,0 +1,50 @@
+Material("Grass.mat")
+MaterialLit("Grass_Default.mat")
+DensityMap("Tombstone_1888_grass.dds")
+
+Layer()
+{
+	InstancesPerMeter(20)
+	GenerationRange(4000)
+	ReleaseRange(6000)
+	ExtinctionDistance(1500)
+	ExtinctionRange(500)
+	BlockSize(16)
+}
+
+Type()
+{
+    Size(15,25)
+    Scale(0.7,1.2)
+    Priority(50)
+    TexCoords(0.0, 0.0, 0.39, 1.0)
+}
+Type()
+{
+    Size(20,30)
+    Scale(0.7,1.2)
+    Priority(50)
+    TexCoords(0.0, 0.0, 0.39, 1.0)
+}
+Type()
+{
+    Size(5,60)
+    Scale(0.9,1.5)
+    Priority(4)
+    TexCoords(0.39, 0.0, 0.45, 1.0)
+}
+Type()
+{
+    Size(15,30)
+    Scale(0.7,1.3)
+    Priority(80)
+    TexCoords(0.45, 0.0, 0.73, 1.0)
+}
+
+Type()
+{
+    Size(15,45)
+    Scale(0.5,1.0)
+    Priority(60)
+    TexCoords(0.75, 0.0, 1.0, 1.0)
+}

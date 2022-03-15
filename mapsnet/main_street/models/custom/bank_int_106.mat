@@ -1,0 +1,9 @@
+import "Templates.mtt"
+sub material()
+{
+ use mtt_objects(
+  s_clr="bank_int_106.dds",
+  f_shn_factor = 0.0,
+e_srf_id = SRF_STONE
+ );
+}

@@ -1,0 +1,87 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM13)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/goldrush_1880/deathmatch.eds")
+	MapTitle("RedRiver")
+	SaveName("RedRiver")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("goldrush_1880_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/goldrush_1880/teamdeathmatch.eds")
+	MapTitle("RedRiver")
+	SaveName("RedRiver")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("goldrush_1880_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/goldrush_1880/wanted.eds")
+	MapTitle("RedRiver")
+	SaveName("RedRiver")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("goldrush_1880_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/goldrush_1880/teamwanted.eds")
+	MapTitle("RedRiver")
+	SaveName("RedRiver")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Attack_16B.ogg")
+	InGameMap("goldrush_1880_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1, 1, 10)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+

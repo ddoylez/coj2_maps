@@ -1,0 +1,47 @@
+GameModeTeamDeathmatch001:19091884@[GameModeTeamDeathmatch]
+	eScoreToDisplay	=	TEAM_SCORE
+	m_RespawnTime	=	3.000000
+	m_MinFirstAidRespawnTime	=	30.000000
+	m_MaxFirstAidRespawnTime	=	40.000000
+spawner015:19091885@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner016:19091886@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner017:19091887@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner018:19091888@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner019:19091889@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner020:19091890@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner021:19091891@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner022:19091892@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner023:19091893@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner024:19091894@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner025:19091895@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner026:19091896@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner027:19091897@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+spawner028:19091898@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default

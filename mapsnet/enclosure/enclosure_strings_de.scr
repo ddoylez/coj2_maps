@@ -1,0 +1,30 @@
+!String(s,s)
+
+String("Red_Name", "Red_Team!" )
+String("Blue_Name", "Blue_Team!" )
+
+
+String( "Enclosure_MP_Mode", "erfassen das Lager" )
+String( "Enclosure_MP_Mode_info", "Verteidigen Sie Ihre Lager und erfassen die Feinde Lager" )
+
+String( "Enclosure_Message_Red", "Blue Team ist die Erfassung Ihr Lager!" )
+String( "Enclosure_blocked_Message_Red", "Du kannst nicht erfassen, während das blaue Lager Ihr Camp wird angegriffen." )
+String( "Enclosure_captured_Message_Red", "Dein Lager gefangen genommen wird." )
+String( "Enclosure_capture_Red", "fangen die blaue Lager!" )
+String( "Enclosure_protect_Red", "Schützen Sie Ihr Lager!" )
+String( "Enclosure_percent_Red", "Red Team haben 30% erfasst" )
+String( "Enclosure_percent2_Red", "Red Team haben 60% erfasst" )
+String( "Enclosure_percent3_Red", "Red Team haben 100% erfasst" )
+
+String( "Enclosure_Message_Blue", "Red Team ist die Erfassung Ihr Lager!" )
+String( "Enclosure_blocked_Message_Blue", "Du kannst nicht fangen die roten Lager, während Ihr Camp wird angegriffen." )
+String( "Enclosure_captured_Message_Blue", "Dein Lager aufgenommen wird." )
+String( "Enclosure_capture_Blue", "fangen die roten Lager!" )
+String( "Enclosure_protect_Blue", "Schützen Sie Ihr Lager!" )
+String( "Enclosure_percent_Blue", "Blue Team haben 30% erfasst" )
+String( "Enclosure_percent2_Blue", "Blue Team haben 60% erfasst" )
+String( "Enclosure_percent3_Blue", "Blue Team haben 100% erfasst" )
+
+String( "The End", "End" )
+String( "credits", "Vielen Dank an alle Call of Juarez-Community!" )
+String( "credits2", "Dank Gazitron, Seir-Techland Personal-, Melone-mikethemelon-, coj2-ELITE-Team, und so weiter ..." )

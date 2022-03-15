@@ -1,0 +1,8 @@
+import "Templates.mtt"
+sub material()
+{
+ use mtt_objects(
+  s_clr="Cards.dds",
+  f_shn_factor = 1.0
+ );
+}

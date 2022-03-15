@@ -1,0 +1,10 @@
+import "templates.mtt"
+
+sub material()
+{
+   use mtt_objects(
+        s_clr = "DatpalmTrunk.dds",
+        s_nrm = "DatpalmTrunk_nrm.dds",
+        b_wind_bend_on = TRUE
+    );
+}

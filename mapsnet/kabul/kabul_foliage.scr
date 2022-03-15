@@ -1,0 +1,134 @@
+TravelDistance(100)
+
+Layer() //////// krzaki bush arizona ///////////////////////////////////////////////////////////
+{
+  DensityMap("Kabul_foliage_plants.dds")
+  DensityMapBits(2) 
+  GenerationRange(5000)
+  BlendRange(1000)
+  InstancesPerMeter(0.6)
+  Type()
+  {
+      Material("bush_arizona_a.mat")
+      Mesh("bush_arizona_foliage_a.MSH") ////kepa trawo/krzaka-maly bush_arizona_a
+      Priority(20)
+      AlignToTerrainNormal(1)
+      Scale(0.7,1.2)
+      MaxShadowMapIndex(-1)
+  }
+}
+
+Layer() //////// kamyki //////////////////////////////////////////////
+{
+  DensityMap("Kabul_foliage_stones.dds")
+  DensityMapBits(2) 
+  GenerationRange(4000)
+  BlendRange(1000)
+  InstancesPerMeter(0.5)
+
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_ab.MSH") ////kamien
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_ac.MSH") ////kamien
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+}
+
+Layer() //////// roslinki i patyki //////
+{
+  DensityMap("Kabul_foliage_plants.dds")
+  DensityMapBits(2) 
+  GenerationRange(2000)
+  BlendRange(500)
+  InstancesPerMeter(2.0)
+
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_ad.MSH") ////kamien
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }  
+  
+  
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_aa.MSH") ////grupa kamieni na kamienistym podlozu
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }  
+  
+  
+  Type()
+  {
+      Material("stones_foliage_c.mat")
+      Mesh("stones_foliage_ca.MSH") ////mala roslinka
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_c.mat")
+      Mesh("stones_foliage_cb.MSH") ////mala roslinka
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_ba.MSH") ////galazka
+      Priority(2)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_bb.MSH") ////galazka
+      Priority(2)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+}
+
+Layer() //////// roslinki wieksze //////
+{
+  DensityMap("Kabul_foliage_midplants.dds")
+  DensityMapBits(2) 
+  GenerationRange(5000)
+  BlendRange(1000)
+  InstancesPerMeter(0.25)
+
+      Type()
+  {
+      Material("bush_dry_a.mat")
+      Mesh("bush_dry_a.MSH") ////
+      Priority(4)
+      AlignToTerrainNormal(1)
+      Scale(0.9,1.2)
+      MaxShadowMapIndex(-1)
+  }
+}

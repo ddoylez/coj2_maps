@@ -1,0 +1,57 @@
+SpawnPoint010:9561552@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+crate_a002:9561553@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a004:9561554@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a005:9561555@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	Old
+crate_a006:9561556@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a001:9561557@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	Old
+SpawnPoint001:9561558@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:9561559@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+barrier053:9561560@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+SpawnPoint005:9561561@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:9561562@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:9561563@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:9561564@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:9561565@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint003:9561566@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:9561567@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+crate_a003:9561568@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+SpawnPoint011:9561569@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+GameModeDM001:9561570@[GameModeDM]
+	nFragsLimit	=	400

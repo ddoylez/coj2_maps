@@ -1,0 +1,17 @@
+import "terrain_somerton.mtt"
+
+sub material()
+{
+    use mtt(
+//        f_border_min = f_border_min,
+//        f_border_max = f_border_max,
+//        s_clr_c = s_clr_c,
+        s_clr_lod = s_clr_lod,
+        s_msk = s_msk,
+        s_nrm = s_nrm,
+//        s_nrm_c = s_nrm_c,
+//        f_nrm_c_scale = f_nrm_c_scale,
+        e_type = e_type_terrain_lod   //,
+//        f_uv_clf_scale = f_uv_clf_scale
+    );
+}

@@ -1,0 +1,87 @@
+!include("Track.def")
+
+MapId(_MP_MAP_CUSTOM0)
+
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/BackStreet/deathmatch.eds")
+	MapTitle("BackStreet")
+	SaveName("BackStreet")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_L01_Stats_00.ogg")
+	InGameMap("BackStreet_map.dds",1248,1248,1248,1248,15000,15000)	
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/BackStreet/teamdeathmatch.eds")
+	MapTitle("BackStreet")
+	SaveName("BackStreet")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_L01_Stats_00.ogg")
+	InGameMap("BackStreet_map.dds",1248,1248,1248,1248,15000,15000)	
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading6.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/BackStreet/wanted.eds")
+	MapTitle("BackStreet")
+	SaveName("BackStreet")
+	ModeName("&MP_MODE_Skirmish&")
+	ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_L01_Stats_00.ogg")
+	InGameMap("BackStreet_map.dds",1248,1248,1248,1248,15000,15000)	
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/BackStreet/teamwanted.eds")
+	MapTitle("BackStreet")
+	SaveName("BackStreet")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_L01_Stats_00.ogg")
+	InGameMap("BackStreet_map.dds",1248,1248,1248,1248,15000,15000)	
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","BackStreet_map.dds","BackStreet_loading6.dds",0,0,1)
+	}
+}

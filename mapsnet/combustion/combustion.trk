@@ -1,0 +1,66 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM5)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Combustion/deathmatch.eds")
+	MapTitle("Combustion")
+	SaveName("Combustion")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Combustion_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 999)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Combustion_map.dds","Combustion_loading1.dds",0,0,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Combustion/teamdeathmatch.eds")
+	MapTitle("Combustion")
+	SaveName("Combustion")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Combustion_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 999)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Combustion_map.dds","Combustion_loading1.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Combustion/wanted.eds")
+	MapTitle("Combustion")
+	SaveName("Combustion")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Combustion_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 999)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Combustion_map.dds","Combustion_loading1.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Combustion/teamwanted.eds")
+	MapTitle("Combustion")
+	SaveName("Combustion")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Combustion_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 999)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Combustion_map.dds","Combustion_loading1.dds",0,0,1)
+	}
+}
+

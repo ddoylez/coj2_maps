@@ -1,0 +1,803 @@
+LEVEL:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:14094322@[NatureParamsNormal]
+		bButterfliesAllowed	=	1
+		bTreeBeetlesAllowed	=	1
+		bGrassPollenFXAllowed	=	0
+		bGroundDustFXAllowed	=	0
+		bHenFlocksAllowed	=	1
+		bGoatFlocksAllowed	=	1
+		bFishFlocksAllowed	=	1
+		m_RainSoundPresent	=	1
+	m_tempTinyObjectsScriptPath	=	Data/MapsNet/Dedham/Dedham_foliage.scr
+horizon_medallion001:14100609@[ModelObject]
+	MeshName	=	horizon_medallion.msh
+	SkinName	=	default
+chest_a001:14101176@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+lamp_b001:14101189@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	lamp_b.msh
+	SkinName	=	Default
+commode_a001:14101190@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+house_door_a002:14101194@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a001:14101195@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+bucket_a001:14101210@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	bucket_a.msh
+	SkinName	=	NoWater
+house_door_a004:14101221@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a003:14101226@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+desk_a001:14101231@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	desk_a.msh
+	SkinName	=	Default
+chair_b001:14101232@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+lamp_a001:14101233@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default
+candle001:14101236@[ModelObject] from group arizona_house_b01:14101248
+	MeshName	=	candle.msh
+	SkinName	=	default
+lamp_b002:14101254@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+lamp_b003:14101255@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+flag_banner001:14101263@[MeshCloth]
+	m_MpcScript	=	data/physics/meshpartcloth/mc_flag.phx
+	m_StretchMul	=	1.000000
+	m_WindInfluence	=	35.000000
+	m_JointElem1	=	bone10
+	m_JointElem2	=	bone100
+	bEnableMPCOnStart	=	1
+	m_MpcWakeUpEnabled	=	1
+	MeshName	=	flag_banner.msh
+	SkinName	=	Flag_A
+chair_b002:14101357@[ModelObject] from group arizona_house_g01:14101405
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a005:14101387@[ModelObject] from group arizona_house_g01:14101405
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a006:14101391@[ModelObject] from group arizona_house_g01:14101405
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+clock_a001:14101400@[ModelObject] from group arizona_house_g01:14101405
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+FXEmitter001:14101408@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter002:14101411@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+house_door_a007:14101480@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+lamp_b004:14102881@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+lamp_b005:14102882@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+FXEmitter003:14102885@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter004:14102888@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+clock_a002:14103018@[ModelObject] from group arizona_house_g01:14103075
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+house_door_a009:14103023@[ModelObject] from group arizona_house_g01:14103075
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a008:14103030@[ModelObject] from group arizona_house_g01:14103075
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+chair_b003:14103036@[ModelObject] from group arizona_house_g01:14103075
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a010:14103078@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a011:14103079@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a012:14103080@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+candle_b002:14103879@[ModelObject]
+	MeshName	=	candle_b.msh
+	SkinName	=	default
+SoundEmitterSimple002:14103898@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/dogs/dog_04_loop.wav
+	fMinDistance	=	500.000000
+	m_Test	=	0
+house_stairs_b001:14106050@[Ramp]
+	MeshName	=	house_stairs_b.msh
+	SkinName	=	Default
+lamp_a004:14106078@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a005:14106079@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a006:14106080@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a007:14106081@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a008:14106082@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a009:14106083@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+FXEmitter007:14106085@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter008:14106088@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter009:14106091@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter010:14106094@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter011:14106097@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter012:14106100@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+candle002:14108168@[ModelObject]
+	MeshName	=	candle.msh
+	SkinName	=	default
+cross_small_b001:14108169@[ModelObject]
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+commode_b001:14108174@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+carpet_c001:14108182@[ModelObject]
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+house_door_a014:14108199@[ModelObject] from group arizona_house_e01:14108273
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+chair_b005:14108253@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b004:14108260@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a015:14108284@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a016:14108285@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+lamp_a010:14108288@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a011:14108289@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+FXEmitter013:14108291@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter014:14108294@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+house_stairs_b002:14108361@[Ramp]
+	MeshName	=	house_stairs_b.msh
+	SkinName	=	Default
+roof_frame001:14110701@[ModelObject]
+	MeshName	=	roof_frame.msh
+	SkinName	=	Default
+house_stairs_b003:14110850@[Ramp]
+	MeshName	=	house_stairs_b.msh
+	SkinName	=	Default
+lamp_a012:14110855@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a013:14110856@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+FXEmitter015:14110859@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter016:14110862@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+lamp_a015:14110864@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+FXEmitter017:14110866@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+house_door_a017:14110872@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a018:14110873@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a019:14110874@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+FXEmitter018:14110886@[FXEmitter]
+	sFXNamePrefix	=	chimney_smoke_light
+	m_bAutoStart	=	1
+	m_bSequence	=	0
+	bTest	=	1
+commode_a002:14111307@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+chair_b006:14113611@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chest_a002:14113619@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+chair_b007:14113620@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+clock_a003:14113634@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+chair_b008:14113637@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b009:14113638@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b010:14113640@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b011:14113641@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chest_a003:14113645@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+candle003:14113659@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle004:14113664@[ModelObject] from group arizona_house_f01:14113668
+	MeshName	=	candle.msh
+	SkinName	=	default
+house_door_a020:14113677@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a021:14113678@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a022:14113679@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a023:14113680@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a024:14113681@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+wagon_a_ride002:14113684@[ModelObject]
+	MeshName	=	wagon_a_ride.msh
+	SkinName	=	Paint
+fence_planks_destruction001:14113738@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction002:14113739@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+candle005:14114132@[ModelObject]
+	MeshName	=	candle.msh
+	SkinName	=	default
+cross_small_b002:14114133@[ModelObject]
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+commode_b002:14114138@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+carpet_c002:14114145@[ModelObject]
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+house_door_a025:14114162@[ModelObject] from group arizona_house_e01:14114233
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+chair_b013:14114213@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b012:14114220@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a026:14114362@[ModelObject] from group arizona_house_e01:14114486
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+carpet_c003:14114369@[ModelObject]
+	MeshName	=	carpet_c.msh
+	SkinName	=	Default
+commode_b003:14114385@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+cross_small_b003:14114390@[ModelObject]
+	MeshName	=	cross_small_b.msh
+	SkinName	=	Default
+candle006:14114391@[ModelObject]
+	MeshName	=	candle.msh
+	SkinName	=	default
+chair_b015:14114466@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b014:14114473@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+house_door_a027:14114487@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+fence_planks_destruction003:14115961@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction004:14115962@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction005:14115964@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction006:14115965@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+fence_planks_destruction007:14115966@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+wagon_a_ride003:14115972@[ModelObject]
+	MeshName	=	wagon_a_ride.msh
+	SkinName	=	Paint
+lamp_a016:14115974@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a017:14115975@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+FXEmitter019:14115977@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter020:14115980@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+SoundEmitterSimple003:14115984@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple004:14115986@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple005:14115988@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+	m_DisabledOnStart	=	0
+SoundEmitterSimple006:14115990@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple007:14115992@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	50.000000
+	m_Test	=	1
+SoundEmitterSimple008:14115994@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple009:14115996@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple010:14115998@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple011:14116000@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple012:14116002@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple013:14116004@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple014:14116006@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple015:14116008@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple016:14116010@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple017:14116012@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple018:14116014@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple019:14116016@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	400.000000
+	m_Test	=	0
+SoundEmitterSimple020:14116018@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple022:14116022@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple023:14116024@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple024:14116026@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple025:14116028@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple026:14116030@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple027:14116032@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple028:14116034@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple029:14116036@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple030:14116038@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple031:14116040@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple032:14116042@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple033:14116044@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple034:14116046@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple035:14116048@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+SoundEmitterSimple036:14116050@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+	m_Test	=	0
+house_door_a028:14117596@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a029:14117597@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a030:14117598@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+lamp_b006:14117600@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+FXEmitter022:14117602@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+flag_banner002:14117613@[MeshCloth]
+	m_MpcScript	=	data/physics/meshpartcloth/mc_flag.phx
+	m_WindInfluence	=	2.000000
+	m_JointElem1	=	bone10
+	m_JointElem2	=	bone100
+	bEnableMPCOnStart	=	1
+	MeshName	=	flag_banner.msh
+	SkinName	=	Flag_A
+SoundEmitterSimple037:14122279@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/birds/whole_forest/grive_musicienne_01.ogg
+	fMinDistance	=	200.000000
+	m_Test	=	1
+SoundEmitterSimple038:14122281@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient_levels/birds_04_high_mount.ogg
+	fMinDistance	=	10000.000000
+	m_Test	=	1
+SoundEmitterSimple039:14122283@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient_levels/birds_02_forest.ogg
+	fMinDistance	=	10000.000000
+	m_Test	=	1
+house_door_a031:14133432@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a032:14133433@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+lamp_b007:14133435@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+FXEmitter024:14133437@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+barrier001:14136619@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+lamp_a018:14136621@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+lamp_a019:14136622@[ModelObject]
+	MeshName	=	lamp_a.msh
+	SkinName	=	Standard_light
+FXEmitter025:14136624@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter026:14136627@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+SoundEmitterSimple040:14143401@[SoundEmitterSimple]
+	sSoundName	=	data/sounds/ambient/rain/rain_roof_drops.ogg
+	fMinDistance	=	300.000000
+cross_small_a001:14143411@[ModelObject]
+	MeshName	=	cross_small_a.msh
+	SkinName	=	Default
+cross_small_a002:14143412@[ModelObject]
+	MeshName	=	cross_small_a.msh
+	SkinName	=	Default
+chair_b017:14145126@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chest_a004:14145127@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+chair_b016:14145128@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b018:14145141@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+clock_a004:14145144@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	clock_a.msh
+	SkinName	=	Default
+chair_b019:14145147@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b020:14145149@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chair_b021:14145150@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+chest_a005:14145154@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+candle007:14145168@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	candle.msh
+	SkinName	=	default
+candle008:14145173@[ModelObject] from group arizona_house_f01:14145177
+	MeshName	=	candle.msh
+	SkinName	=	default
+fence_planks_destruction008:14145299@[ModelObject]
+	MeshName	=	fence_planks_destruction.msh
+	SkinName	=	Default
+house_door_a033:14148884@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a034:14148888@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a035:14148889@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+house_door_a036:14148894@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+lamp_b008:14148917@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+lamp_b009:14148918@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Standard_light
+FXEmitter027:14148920@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+FXEmitter028:14148923@[FXEmitter]
+	sFXNamePrefix	=	Torch
+	m_bAutoStart	=	1
+	m_bSequence	=	1
+	bTest	=	1
+barrier002:14148932@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier003:14148933@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a037:14149080@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	C
+barrier004:14151056@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:14151057@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier006:14151058@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier007:14151059@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+1:14155149@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155150@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155151@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155152@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155153@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155154@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155155@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155156@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155157@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155158@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155159@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155160@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155161@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+1:14155162@[CRoadControlPointHelper]
+	m_Width	=	500.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default

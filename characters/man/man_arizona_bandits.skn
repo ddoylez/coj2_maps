@@ -1,0 +1,1326 @@
+// ======================== ArizonaBanditA ========================
+Skin("ArizonaBanditA")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 194, 53, 16)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditA_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditA_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditA_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditA_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditB ========================
+Skin("ArizonaBanditB")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 194, 53, 16)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+
+Skin("ArizonaBanditB_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditB_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditB_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditB_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditC ========================
+Skin("ArizonaBanditC")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 194, 53, 16)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditC_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditC_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditC_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditC_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_d.skt")
+	!include("man_torso_d.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabandita_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditD ========================
+Skin("ArizonaBanditD")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 35, 45, 38)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 153, 171, 183)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditD_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditD_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditD_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditD_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditE ========================
+Skin("ArizonaBanditE")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 35, 45, 38)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 153, 171, 183)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditE_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditE_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditE_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditE_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditF ========================
+Skin("ArizonaBanditF")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 35, 45, 38)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 153, 171, 183)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditF_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditF_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditF_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditF_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditG ========================
+Skin("ArizonaBanditG")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 198, 201, 135)
+       ColorI(2, 86, 116, 118)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 35, 45, 38)
+       ColorI(2, 158, 65, 37)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 153, 171, 183)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditG_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditG_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_highlight.skt")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditG_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_marked.skt")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditG_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_n.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("arizonabanditb_accessories.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditH ========================
+Skin("ArizonaBanditH")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_shawl_c.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 175, 164, 122)
+       ColorI(2, 89, 98, 62)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 158, 99, 58)
+       ColorI(2, 244, 231, 213)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditH_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditH_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditH_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditH_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_b.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditI ========================
+Skin("ArizonaBanditI")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_shawl_c.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 175, 164, 122)
+       ColorI(2, 89, 98, 62)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 158, 99, 58)
+       ColorI(2, 244, 231, 213)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditI_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditI_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditI_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditI_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_k.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditJ ========================
+Skin("ArizonaBanditJ")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_shawl_c.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 175, 164, 122)
+       ColorI(2, 89, 98, 62)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 158, 99, 58)
+       ColorI(2, 244, 231, 213)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditJ_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditJ_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditJ_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditJ_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_l.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}
+
+// ======================== ArizonaBanditK ========================
+Skin("ArizonaBanditK")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_shawl_c.skt")
+	
+	Hide("HolsterL")
+	
+    ColorPreset("color_1")
+    {
+       ColorI(0, 175, 164, 122)
+       ColorI(2, 89, 98, 62)
+       ColorI(3, 215, 214, 191)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 29, 31, 41)
+       ColorI(2, 221, 220, 204)
+       ColorI(3, 78, 31, 29)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 251, 222, 191)
+       ColorI(2, 86, 72, 63)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 158, 99, 58)
+       ColorI(2, 244, 231, 213)
+       ColorI(3, 56, 70, 75)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 90, 112, 126)
+       ColorI(2, 221, 181, 85)
+       ColorI(3, 224, 210, 169)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 95, 80, 69)
+       ColorI(2, 50, 57, 49)
+       ColorI(3, 159, 94, 62)
+    }
+}
+Skin("ArizonaBanditK_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_player.skt")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("ArizonaBanditK_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_highlight.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("ArizonaBanditK_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_marked.skt")
+	
+	Replace("classic_sixshooter_a.mat", "classic_sixshooter_a_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("ArizonaBanditK_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_d.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_m.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_m.skt")
+	!include("man_shawl_c.skt")
+	
+	!include("man_null.skt")
+	
+	Hide("HolsterL")
+}

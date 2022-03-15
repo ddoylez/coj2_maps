@@ -1,0 +1,58 @@
+barrier053:9559958@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_a003:9559959@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+SpawnPoint011:9559960@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:9559961@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint002:9559962@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:9559963@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+prison_b_wall_a_destroyed001:9559964@[ModelObject]
+	MeshName	=	prison_b_wall_a_destroyed.msh
+	SkinName	=	Stone
+SpawnPoint009:9559965@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+crate_a001:9559966@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	Old
+crate_a002:9559967@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a004:9559968@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a005:9559969@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	Old
+SpawnPoint003:9559970@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint001:9559971@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:9559972@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:9559973@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:9559974@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:9559975@[SpawnPoint]
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+crate_a006:9559976@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default

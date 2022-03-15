@@ -1,0 +1,68 @@
+
+
+    import "liquid.mtt"
+
+    sub material()
+    {
+    extern float TIME;
+
+    float f_wave_0_scale = 0.125;
+    float f_wave_1_scale = 5.0;
+    mtx m_nrm_0_xfm = translate( 0.08 * TIME, 0.051 * TIME, 0.0 ) * rotate( 0.0, 0.0, 5.0 ) * scale( 16.0, 0.55, 1.0 );
+    mtx m_nrm_1_xfm = translate( -0.01 * TIME, -0.03 * TIME, 0.0 ) * rotate( 0.0, 0.0, -2.0 ) * scale( 16.4, 0.52, 1.3 );
+    mtx m_nrm_2_xfm = translate( -0.081 * TIME, 0.055 * TIME, 0.0 ) * rotate( 0.0, 0.0, -5.0 ) * scale( 14.0, 0.5, 1.2 );
+    mtx m_nrm_3_xfm = translate( 0.001 * TIME, 0.005 * TIME, 0.0 ) * rotate( 0.0, 0.0, -1.0) * scale( 0.4, 0.025, 0.025 );
+
+    extern string s_water_cubemap;
+
+    use mtt_liquid(
+    e_opq_order = or_seetrough_1,
+    e_nrm_order = 2,
+    e_trn_order = 2,
+    e_bdf_order = 2,
+
+    f_blend_distance = 32.0,
+
+    f_blur_distance = 40.0,
+    f_blur_falloff = 2000.0,
+    f_blur_falloff_shift = 500.0,
+    f_blur_fresnel_power = 1.0,
+    f_blur_strength = 1.0,
+
+    v_deep_color = [0.16, 0.28, 0.32],
+    f_deep_distance = 6.0,
+    f_deep_opacity = 0.93,
+
+    f_deform_distance = 70.0,
+    f_deform_falloff = 3500.0,
+    f_deform_strength = 0.32,
+
+    e_shadows = e_shadows_pp_simple,
+
+    s_env = "Enclosure_rfl.dds",
+    v_env_factor = [0.22, 0.2, 0.2],
+    f_env_fresnel_bias = 0.5,
+    f_env_fresnel_power = 0.8,
+    f_env_fresnel_scale = 1.3,
+
+    v_liquid_clr = [0.7, 0.7, 0.9, 0.0],
+
+    s_nrm_0 = "water_waves_n.dds",
+    f_nrm_0_scale = 1.3,
+    m_nrm_0_xfm = m_nrm_0_xfm,
+
+    s_nrm_1 = "water_waves_2_n.dds",
+    f_nrm_1_scale = 1.3,
+    m_nrm_1_xfm = m_nrm_1_xfm,
+
+    s_nrm_2 = "water_waves_n.dds",
+    f_nrm_2_scale = 1.3,
+    m_nrm_2_xfm = m_nrm_2_xfm,
+
+    s_nrm_3 = "water_waves_2_n.dds",
+    f_nrm_3_scale = 1.3,
+    m_nrm_3_xfm = m_nrm_3_xfm,
+
+    f_spc_power = 600.0
+    );
+    }

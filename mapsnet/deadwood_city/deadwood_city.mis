@@ -1,0 +1,941 @@
+LEVEL:1@[CoJ2ModuleNet]
+	[cNatureParams] NatureParamsNormal:14094322@[NatureParamsNormal]
+		bButterfliesAllowed	=	0
+		bTreeBeetlesAllowed	=	0
+		bHenFlocksAllowed	=	0
+		bGoatFlocksAllowed	=	0
+		bFishFlocksAllowed	=	0
+	m_tempTinyObjectsScriptPath	=	Data/MapsNet/Deadwood_city/Deadwood_city_foliage.scr
+house_door_a001:14100443@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+steamboat_stairs002:14100478@[Ramp]
+	MeshName	=	steamboat_stairs.msh
+	SkinName	=	Default
+steamboat_stairs003:14100479@[Ramp]
+	MeshName	=	steamboat_stairs.msh
+	SkinName	=	Default
+house_door_a002:14100595@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a003:14100598@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a004:14100601@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a005:14101805@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a008:14101810@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a009:14101812@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_stairs_b001:14102010@[Ramp]
+	MeshName	=	house_stairs_b.msh
+	SkinName	=	Default
+house_stairs_b002:14102012@[Ramp]
+	MeshName	=	house_stairs_b.msh
+	SkinName	=	Default
+house_stairs_b003:14102079@[Ramp]
+	MeshName	=	house_stairs_b.msh
+	SkinName	=	Default
+desk_a001:14102155@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	desk_a.msh
+	SkinName	=	Default
+house_door_a013:14102163@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+lamp_b001:14102166@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	lamp_b.msh
+	SkinName	=	Default
+commode_a001:14102167@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+chair_b001:14102170@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+lamp_a001:14102171@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	lamp_a.msh
+	SkinName	=	Default
+candle001:14102174@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	candle.msh
+	SkinName	=	default
+chest_a001:14102184@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+house_door_a011:14102198@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a010:14102199@[ModelObject] from group arizona_house_b01:14102227
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_stairs_a002:14102366@[Ramp]
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+house_door_a021:14103682@[ModelObject] from group sel_HouseGroundFloorInterior01:14103743
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+chair_b003:14103731@[ModelObject] from group sel_HouseGroundFloorInterior01:14103743
+	MeshName	=	chair_b.msh
+	SkinName	=	default
+barrel_e001:14103739@[ModelObject] from group sel_HouseGroundFloorInterior01:14103743
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+house_stairs_a004:14104024@[Ramp]
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+house_stairs_a003:14104025@[Ramp] from group sel_Street01:14104217
+	MeshName	=	house_stairs_a.msh
+	SkinName	=	Default
+bucket_a001:14108503@[ModelObject] from group sel_FenceLong01:14108505
+	MeshName	=	bucket_a.msh
+	SkinName	=	NoWater
+bucket_b001:14108597@[ModelObject] from group barn_a01:14108636
+	MeshName	=	bucket_b.msh
+	SkinName	=	Default
+ladder_a001:14108615@[Ladder] from group barn_a01:14108636
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+barrel_e002:14108619@[ModelObject] from group barn_a01:14108636
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+barrel_e003:14108630@[ModelObject] from group barn_a01:14108636
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+house_door_a024:14108717@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a025:14108718@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+chair_b005:14108726@[ModelObject]
+	MeshName	=	chair_b.msh
+	SkinName	=	Default
+commode_a002:14108728@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Default
+barrel_e004:14110280@[ModelObject] from group sel_Shed01:14110291
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e006:14110281@[ModelObject] from group sel_Shed01:14110291
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e005:14110288@[ModelObject] from group sel_Shed01:14110291
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+crate_box001:14110303@[ModelObject] from group sel_Shed01:14110308
+	MeshName	=	crate_box.msh
+	SkinName	=	Default
+barrel_e009:14110324@[ModelObject] from group sel_Shed01:14110335
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e007:14110325@[ModelObject] from group sel_Shed01:14110335
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e008:14110328@[ModelObject] from group sel_Shed01:14110335
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e012:14110355@[ModelObject] from group sel_Shed01:14110362
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e010:14110356@[ModelObject] from group sel_Shed01:14110362
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e011:14110359@[ModelObject] from group sel_Shed01:14110362
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_b014:14111023@[ModelObject]
+	MeshName	=	barrel_b.msh
+	SkinName	=	Default
+barrel_c023:14111105@[ModelObject]
+	MeshName	=	barrel_c.msh
+	SkinName	=	default
+barrel_e013:14111159@[ModelObject]
+	MeshName	=	barrel_e.msh
+	SkinName	=	default
+barrel_e014:14111160@[ModelObject]
+	MeshName	=	barrel_e.msh
+	SkinName	=	Old
+barrel_e015:14111161@[ModelObject]
+	MeshName	=	barrel_e.msh
+	SkinName	=	default
+barrel_e016:14111162@[ModelObject]
+	MeshName	=	barrel_e.msh
+	SkinName	=	default
+lamp_b003:14111325@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Default
+lamp_b004:14111326@[ModelObject]
+	MeshName	=	lamp_b.msh
+	SkinName	=	Default
+mine_scaffold_barrier_small001:14111508@[ModelObject]
+	MeshName	=	mine_scaffold_barrier_small.msh
+	SkinName	=	Default
+mine_scaffold_barrier_small002:14111509@[ModelObject]
+	MeshName	=	mine_scaffold_barrier_small.msh
+	SkinName	=	Default
+mine_scaffold_barrier_small003:14111510@[ModelObject]
+	MeshName	=	mine_scaffold_barrier_small.msh
+	SkinName	=	Default
+mine_scaffold_barrier_small004:14111511@[ModelObject]
+	MeshName	=	mine_scaffold_barrier_small.msh
+	SkinName	=	Default
+ladder_a002:14113401@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+georgian_desk_a001:14113413@[ModelObject]
+	MeshName	=	georgian_desk_a.msh
+	SkinName	=	Default
+georgian_commode_a001:14113414@[ModelObject]
+	MeshName	=	georgian_commode_a.msh
+	SkinName	=	Default
+georgian_commode_a002:14113415@[ModelObject]
+	MeshName	=	georgian_commode_a.msh
+	SkinName	=	Default
+georgian_commode_a004:14113422@[ModelObject]
+	MeshName	=	georgian_commode_a.msh
+	SkinName	=	Default
+georgian_commode_a005:14113423@[ModelObject]
+	MeshName	=	georgian_commode_a.msh
+	SkinName	=	Default
+house_door_a027:14113465@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a028:14113466@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a029:14113467@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a030:14113468@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a031:14113469@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+barrier001:14115459@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier002:14115461@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+chandelier_b001:14115497@[ModelObject]
+	MeshName	=	chandelier_b.msh
+	SkinName	=	Standard_light
+chandelier_b002:14115498@[ModelObject]
+	MeshName	=	chandelier_b.msh
+	SkinName	=	Standard_light
+chandelier_b003:14115499@[ModelObject]
+	MeshName	=	chandelier_b.msh
+	SkinName	=	Standard_light
+lamp_c001:14115523@[ModelObject]
+	MeshName	=	lamp_c.msh
+	SkinName	=	Standard_light
+lamp_c002:14115524@[ModelObject]
+	MeshName	=	lamp_c.msh
+	SkinName	=	Standard_light
+lamp_c003:14115525@[ModelObject]
+	MeshName	=	lamp_c.msh
+	SkinName	=	Standard_light
+chandelier_a001:14115526@[ModelObject]
+	MeshName	=	chandelier_a.msh
+	SkinName	=	Default_light
+chandelier_a002:14115527@[ModelObject]
+	MeshName	=	chandelier_a.msh
+	SkinName	=	Default_light
+chandelier_a003:14115528@[ModelObject]
+	MeshName	=	chandelier_a.msh
+	SkinName	=	Default_light
+commode_b001:14115532@[ModelObject]
+	MeshName	=	commode_b.msh
+	SkinName	=	Default
+commode_a003:14115541@[ModelObject]
+	MeshName	=	commode_a.msh
+	SkinName	=	Old
+desk_a002:14115544@[ModelObject]
+	MeshName	=	desk_a.msh
+	SkinName	=	Default
+barrier003:14117911@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier004:14117912@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier005:14117913@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier006:14117914@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier007:14117915@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier008:14117916@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier009:14117917@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier010:14117918@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier011:14117919@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier012:14117920@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier013:14117921@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier014:14117922@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier015:14117923@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier016:14117924@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier017:14117925@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier018:14117926@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier019:14117927@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier020:14117928@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier021:14117929@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier022:14117930@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier023:14117931@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier024:14117932@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier025:14117933@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier026:14117934@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+ladder_a004:14137551@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a005:14137552@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a006:14137553@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a008:14138176@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+ladder_a009:14140459@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+barrier027:14152703@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier028:14152704@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier029:14152705@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier030:14152706@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier031:14152707@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier032:14152708@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+SunHelper001:14172380@[CMovieGLLightHelper]
+	MeshName	=	light.msh
+	SkinName	=	default
+bruceleeartbyadel001:14174882@[ModelObject]
+	MeshName	=	bruceleeartbyadel.msh
+	SkinName	=	0
+crate_a001:14175667@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a002:14175668@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a003:14175669@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+barrier033:14175670@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_a004:14175671@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a006:14175673@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a007:14175674@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+crate_a008:14175675@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+barrier034:14175676@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier035:14175677@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier036:14175678@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+crate_a009:14175679@[ModelObject]
+	MeshName	=	crate_a.msh
+	SkinName	=	default
+barrier037:14175680@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a032:14175681@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	E_Block
+house_door_a033:14175682@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	E_No_Handle
+house_door_a034:14175683@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	E_No_Handle
+barrier038:14175684@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier039:14175685@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier040:14175686@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+barrier041:14175687@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+tin_basin_a001:14175695@[ModelObject] from group sel_FenceLong01:14175699
+	MeshName	=	tin_basin_a.msh
+	SkinName	=	Rusty
+wood_stack_b001:14175696@[ModelObject] from group sel_FenceLong01:14175699
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	default
+bucket_a002:14175697@[ModelObject] from group sel_FenceLong01:14175699
+	MeshName	=	bucket_a.msh
+	SkinName	=	NoWater
+fence_old_e001:14175698@[ModelObject] from group sel_FenceLong01:14175699
+	MeshName	=	fence_old_e.msh
+	SkinName	=	Default
+wood_stack_b002:14175705@[ModelObject]
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	default
+tin_basin_a002:14175706@[ModelObject]
+	MeshName	=	tin_basin_a.msh
+	SkinName	=	Rusty
+barrel_e017:14175707@[ModelObject] from group sel_FenceLong01:14175710
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+fence_old_e002:14175708@[ModelObject]
+	MeshName	=	fence_old_e.msh
+	SkinName	=	Default
+bucket_a003:14175709@[ModelObject] from group sel_FenceLong01:14175710
+	MeshName	=	bucket_a.msh
+	SkinName	=	NoWater
+barrel_e018:14175717@[ModelObject] from group sel_FenceLong01:14175721
+	MeshName	=	barrel_e.msh
+	SkinName	=	Default
+bucket_a004:14175718@[ModelObject] from group sel_FenceLong01:14175721
+	MeshName	=	bucket_a.msh
+	SkinName	=	NoWater
+fence_old_e003:14175719@[ModelObject]
+	MeshName	=	fence_old_e.msh
+	SkinName	=	Default
+wood_stack_b003:14175720@[ModelObject]
+	MeshName	=	wood_stack_b.msh
+	SkinName	=	default
+barrier042:14175762@[Barrier]
+	bBlockAllByDefault	=	1
+	MeshName	=	barrier.msh
+	SkinName	=	default
+house_door_a038:14176696@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a037:14176708@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+ladder_a010:14176930@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+crate_b002:14177380@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+crate_b001:14177386@[ModelObject]
+	MeshName	=	crate_b.msh
+	SkinName	=	Old
+house_corner_roof_b004:14178869@[ModelObject]
+	MeshName	=	house_corner_roof_b.msh
+	SkinName	=	Default
+house_door_a043:14181776@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a044:14181777@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	Default
+house_door_a045:14181778@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	D_No_Handle
+house_door_a046:14181779@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	D_No_Handle
+house_door_a047:14181780@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	D_No_Handle
+house_door_a048:14181781@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	D_No_Handle
+house_door_a049:14181782@[ModelObject]
+	MeshName	=	house_door_a.msh
+	SkinName	=	D_No_Handle
+ladder_a011:14181783@[Ladder]
+	MeshName	=	ladder_a.msh
+	SkinName	=	Default
+road1:14182590@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182591@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182592@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182593@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182594@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182595@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182596@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+road1:14182597@[CRoadControlPointHelper]
+	m_Width	=	800.000000
+	m_Height	=	10.000000
+	m_LinearInterpolation	=	0
+	MeshName	=	wayball.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided001:14182598@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided002:14182599@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided003:14182600@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided004:14182601@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided005:14182602@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided006:14182603@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided007:14182604@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided008:14182605@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided009:14182606@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided010:14182607@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided011:14182608@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided012:14182609@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided013:14182610@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided014:14182611@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided015:14182612@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided016:14182613@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided017:14182614@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided018:14182615@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided019:14182616@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided020:14182617@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided021:14182618@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided022:14182619@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided023:14182620@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided024:14182621@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided025:14182622@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided026:14182623@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided027:14182624@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided028:14182625@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided029:14182626@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided030:14182627@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided031:14182628@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided032:14182629@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided033:14182630@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided034:14182631@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided035:14182632@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided036:14182633@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided037:14182634@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided038:14182635@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided039:14182636@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided040:14182637@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided041:14182638@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided042:14182639@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided043:14182640@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided044:14182641@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided045:14182642@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided046:14182643@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided047:14182644@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided048:14182645@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided049:14182646@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided050:14182647@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided051:14182648@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided052:14182649@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided053:14182650@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided054:14182651@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided055:14182652@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided056:14182653@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided057:14182654@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided058:14182655@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided059:14182656@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided060:14182657@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided061:14182658@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided062:14182659@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided063:14182660@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided064:14182661@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided065:14182662@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided066:14182663@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided067:14182664@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided068:14182665@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided069:14182666@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided070:14182667@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided071:14182668@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided072:14182669@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided073:14182670@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided074:14182671@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided075:14182672@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided076:14182673@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided077:14182674@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided078:14182675@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided079:14182676@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided080:14182677@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided081:14182678@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided082:14182679@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided083:14182680@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided084:14182681@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided085:14182682@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided086:14182683@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided087:14182684@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided088:14182685@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided089:14182686@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided090:14182687@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided091:14182688@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluder001:14182689@[COccluderHelper]
+	MeshName	=	zfilloccluder.msh
+	SkinName	=	default
+ZFillOccluder002:14182690@[COccluderHelper]
+	MeshName	=	zfilloccluder.msh
+	SkinName	=	default
+ZFillOccluder003:14182691@[COccluderHelper]
+	MeshName	=	zfilloccluder.msh
+	SkinName	=	default
+ZFillOccluder004:14182692@[COccluderHelper]
+	MeshName	=	zfilloccluder.msh
+	SkinName	=	default
+ZFillOccluder005:14182693@[COccluderHelper]
+	MeshName	=	zfilloccluder.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided092:14182694@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided093:14182695@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided094:14182696@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlaneTwoSided095:14182697@[COccluderHelper]
+	MeshName	=	zfilloccluderplanetwosided.msh
+	SkinName	=	default
+ZFillOccluderPlane001:14182698@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane002:14182699@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane003:14182700@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane004:14182701@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane005:14182702@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane006:14182703@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane007:14182704@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane008:14182705@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane009:14182706@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane010:14182707@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane011:14182708@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default
+ZFillOccluderPlane012:14182709@[COccluderHelper]
+	MeshName	=	zfilloccluderplane.msh
+	SkinName	=	default

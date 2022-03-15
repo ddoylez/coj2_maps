@@ -1,0 +1,15 @@
+import "templates.mtt"
+
+sub material()
+{
+	use mtt_objects(
+		s_clr = "bruceleeartbyadel.dds",
+		s_shn = "bruceleeartbyadel_shn.dds",
+		f_srf_uv_scale = 0.5,
+		s_nrm_srf = "",
+		f_nrm_srf_scale = 0.5,
+		e_tex_tile_u = CLAMP,
+		e_tex_tile_v = CLAMP,
+		b_tex_kill_on = TRUE
+	);
+}

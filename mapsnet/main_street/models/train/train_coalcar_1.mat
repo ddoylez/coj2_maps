@@ -1,0 +1,9 @@
+import "templates.mtt"
+
+sub material()
+{
+    use mtt_objects(
+        s_clr = "train_coalcar_1.dds",
+		f_shn_factor = 0.0
+    );
+}

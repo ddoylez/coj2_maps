@@ -1,0 +1,171 @@
+
+// Water
+
+VarVec4( "v_water_color", [0.09411798417568206800, 0.15686300396919250000, 0.21960800886154175000, 0.90000003576278687000] )
+
+// Volume Fog
+
+VarVec4( "v_fog_vol_noise_speeds", [0.02500000037252903000, 0.02500000037252903000, -0.02510000206530094100, -0.02510000206530094100] )
+VarVec4( "v_fog_vol", [0.39985537528991699000, 0.51420158147811890000, 0.65175670385360718000, 1.96174120903015140000] )
+VarString( "s_fog_vol_noise_b", "noise_b.dds" )
+VarString( "s_fog_vol_noise_a", "noise_b.dds" )
+VarInt( "i_fog_vol_on", 0 )
+VarInt( "i_fog_vol_noise_on", 16 )
+VarFloat( "f_fog_vol_opacity", 0.00000000000000000000 )
+VarFloat( "f_fog_vol_noise_opacity", 0.07651806622743606600 )
+VarFloat( "f_fog_vol_noise_distance", 1076.51806640625000000000 )
+VarFloat( "f_fog_vol_noise_b_uv_size", 5233.52490234375000000000 )
+VarFloat( "f_fog_vol_noise_a_uv_size", 5224.28808593750000000000 )
+VarFloat( "f_fog_vol_near", 153.03610229492187000000 )
+VarFloat( "f_fog_vol_level", 4709.75830078125000000000 )
+VarFloat( "f_fog_vol_far", 117957.68750000000000000000 )
+VarFloat( "f_fog_vol_falloff", 23655.28320312500000000000 )
+
+// Terrain
+
+VarString( "s_ter_nrm_r", "DefaultTexture.dds" )
+VarString( "s_ter_nrm_g", "DefaultTexture.dds" )
+VarString( "s_ter_nrm_b", "DefaultTexture.dds" )
+VarString( "s_ter_nrm_a", "cracks_ground_nrm.dds" )
+VarString( "s_ter_nrm_0", "GroundGrassA_nrm.dds" )
+VarString( "s_ter_nrm", "Somerton_nrm.dds" )
+VarString( "s_ter_mask", "Somerton_msk.dds" )
+VarString( "s_ter_clr_r", "DefaultTexture.dds" )
+VarString( "s_ter_clr_g", "DefaultTexture.dds" )
+VarString( "s_ter_clr_cliff", "CliffStoneC.dds" )
+VarString( "s_ter_clr_b", "DefaultTexture.dds" )
+VarString( "s_ter_clr_a", "cracks_ground.dds" )
+VarString( "s_ter_clr_0", "GroundGrassA.dds" )
+VarString( "s_ter_clr", "Somerton_clr.dds" )
+VarFloat( "f_ter_shn_r_factor", 1.00000000000000000000 )
+VarFloat( "f_ter_shn_g_factor", 1.00000000000000000000 )
+VarFloat( "f_ter_shn_b_factor", 1.00000000000000000000 )
+VarFloat( "f_ter_shn_a_factor", 0.54999983310699463000 )
+VarFloat( "f_ter_shn_0_factor", 0.69999992847442627000 )
+VarFloat( "f_ter_nrm_r_scale", 1.00000000000000000000 )
+VarFloat( "f_ter_nrm_g_scale", 1.00000000000000000000 )
+VarFloat( "f_ter_nrm_b_scale", 1.00000000000000000000 )
+VarFloat( "f_ter_nrm_a_scale", 1.00000000000000000000 )
+VarFloat( "f_ter_nrm_0_scale", 1.00000000000000000000 )
+VarFloat( "f_ter_clr_cliff_uv_scale", 0.00003999999898951501 )
+VarFloat( "f_ter_clr_cliff_border_range", 0.00999999977648258210 )
+VarFloat( "f_ter_clr_cliff_border", 1.00000000000000000000 )
+
+// Reflections
+
+VarString( "scubemap_world", "Somerton_rfl.dds" )
+VarString( "s_water_cubemap", "Somerton_rfl.dds" )
+
+// Rain
+
+VarFloat( "f_rain_strength", 0.00000000000000000000 )
+
+// Postprocess
+
+VarFloat( "f_pp_desaturate", 0.34999996423721313000 )
+
+// Lighting & Weather - Sun
+
+VarFloat( "f_sun_face_scale", 0.02999999560415744800 )
+
+// Lighting & Weather - Glow
+
+VarFloat( "f_glow_threshold", 1.00000000000000000000 )
+VarFloat( "f_glow_saturation", 1.00000000000000000000 )
+VarFloat( "f_glow_factor", 1.00000000000000000000 )
+VarFloat( "f_glow_buffer_scale", 1.00000000000000000000 )
+
+// Lighting & Weather - Exposure
+
+VarVec4( "v_simple_pp_factor", [0.59275710582733154000, 0.69415909051895142000, 0.79193931818008423000, 0.93852210044860840000] )
+VarVec4( "v_exposure_lum_factors_delta", [0.21249997615814209000, 0.71539986133575439000, 0.07209999114274978600, 0.00009999999747378752] )
+VarFloat( "f_exposure_white", 0.79530394077301025000 )
+VarFloat( "f_exposure_min", 0.74999994039535522000 )
+VarFloat( "f_exposure_midzone", 0.23999996483325958000 )
+VarFloat( "f_exposure_max", 2.99999976158142090000 )
+VarFloat( "f_exposure_delay", 0.05000000074505806000 )
+
+// Lighting & Weather - Colors & Intensity
+
+VarVec4( "vsuncolor", [0.99609911441802979000, 0.79191911220550537000, 0.58019530773162842000, 2.00000000000000000000] )
+VarVec4( "vambient", [0.31494629383087158000, 0.37737125158309937000, 0.54353564977645874000, 1.21530377864837650000] )
+VarVec4( "v_clouds_color", [0.66666692495346069000, 0.70980405807495117000, 0.78431397676467896000, 2.88436532020568850000] )
+VarString( "s_gloss", "spc_def.dds" )
+VarString( "s_ambient", "amb_Somerton_02.dds" )
+VarFloat( "f_sun_face_intensity", 18.44857597351074200000 )
+VarFloat( "f_selfillum_intensity", 5.00000000000000000000 )
+VarFloat( "f_lights_intensity", 1.96174120903015140000 )
+VarFloat( "f_helpers_intensity", 2.00000000000000000000 )
+VarFloat( "f_fx_intensity_factor", 0.74999994039535522000 )
+VarFloat( "f_fx_add_intensity", 2.00000000000000000000 )
+VarFloat( "f_ambient_tex_intensity", 0.76174086332321167000 )
+
+// Heat
+
+VarFloat( "f_heat_uv_speed", 0.03499999642372131300 )
+VarFloat( "f_heat_uv_scale", 5.00000000000000000000 )
+VarFloat( "f_heat_strength", 0.00499999988824129100 )
+VarFloat( "f_heat_near", 20000.00000000000000000000 )
+VarFloat( "f_heat_far", 100000.00781250000000000000 )
+
+// Grass
+
+VarString( "s_grass", "grass_weapontransport.dds" )
+
+// Code
+
+VarFloat( "terrain_z", 100000.00000000000000000000 )
+VarFloat( "terrain_y", 50000.00000000000000000000 )
+VarFloat( "terrain_x", 100000.00000000000000000000 )
+VarVec3( "terrain_shader_lod_sqr", [2250000.00000000000000000000, 9000000.00000000000000000000, 100000000.00000000000000000000] )
+VarVec3( "terrain_shader_lod", [1500.00000000000000000000, 3000.00000000000000000000, 10000.00000000000000000000] )
+VarFloat( "terrain_inv_z", 0.00000999999974737875 )
+VarFloat( "terrain_inv_y", 0.00001999999949475750 )
+VarFloat( "terrain_inv_x", 0.00000999999974737875 )
+VarFloat( "terrain_inv_block_z", 0.00015999999595806003 )
+VarFloat( "terrain_inv_block_x", 0.00015999999595806003 )
+VarFloat( "terrain_block_z", 6250.00000000000000000000 )
+VarFloat( "terrain_block_x", 6250.00000000000000000000 )
+VarVec4( "shadow_fade_params", [0.01999999955296516400, -0.75956910848617554000, 0.00000000000000000000, 0.00000000000000000000] )
+VarVec3( "mesh_shader_lod_sqr", [2250000.00000000000000000000, 9000000.00000000000000000000, 100000000.00000000000000000000] )
+VarVec3( "mesh_shader_lod", [1500.00000000000000000000, 3000.00000000000000000000, 10000.00000000000000000000] )
+
+// Clouds
+
+VarString( "s_clouds_vis_volume", "clouds_vol_prisonbreak_02.dds" )
+VarString( "s_clouds_sky_noise_mask_b", "clouds_noise_b.dds" )
+VarString( "s_clouds_sky_noise_mask_a", "clouds_noise_b.dds" )
+VarString( "s_clouds_mix_mask_b", "clouds_yosemite_all.dds" )
+VarString( "s_clouds_mix_mask_a", "clouds_yosemite_e.dds" )
+VarInt( "i_clouds_vis_layers", 32 )
+VarFloat( "f_clouds_vis_shading", 1.00000000000000000000 )
+VarFloat( "f_clouds_vis_range", 946437.18750000000000000000 )
+VarFloat( "f_clouds_vis_height", 0.03999999910593032800 )
+VarFloat( "f_clouds_vis_border_shading", 0.00000000000000000000 )
+VarFloat( "f_clouds_vis_border_opacity", 0.00000000000000000000 )
+VarFloat( "f_clouds_sky_noise_uv_speed", 0.00999999977648258210 )
+VarFloat( "f_clouds_sky_noise_scale", 0.03299999982118606600 )
+VarFloat( "f_clouds_sky_noise_range", 70000.00000000000000000000 )
+VarFloat( "f_clouds_sky_noise_b_uv_scale", 0.00049999996554106474 )
+VarFloat( "f_clouds_sky_noise_a_uv_scale", 0.00059947354020550847 )
+VarFloat( "f_clouds_sky_level", 1499.99987792968750000000 )
+VarFloat( "f_clouds_mix_opacity", 0.98316603899002075000 )
+VarFloat( "f_clouds_mix_move_speed", 0.00299999956041574480 )
+VarFloat( "f_clouds_mix_cover", 0.70153015851974487000 )
+
+// Atmosphere
+
+VarVec3( "vwindinitialdir", [-1.00000000000000000000, 0.00000000000000000000, 0.00000000000000000000] )
+VarVec3( "vsunshadowdir", [0.56291121244430542000, 0.70472490787506104000, -0.42317733168601990000] )
+VarVec3( "vsundir", [0.56291121244430542000, 0.70472490787506104000, -0.42317733168601990000] )
+VarVec3( "vfogcolor", [0.53960341215133667000, 0.29334130883216858000, 0.69894933700561523000] )
+VarVec4( "v_fog_top", [0.12006860226392746000, 0.13513343036174774000, 0.21652488410472870000, 0.98087060451507568000] )
+VarVec4( "v_fog_sun", [0.75468015670776367000, 0.84493756294250488000, 0.78551411628723145000, 14.96700668334960900000] )
+VarVec4( "v_fog_far", [0.61652493476867676000, 0.80267959833145142000, 0.77915066480636597000, 2.02295541763305660000] )
+VarFloat( "fwindpower", 0.34999996423721313000 )
+VarFloat( "f_fog_sun_shading_scale", 0.99000018835067749000 )
+VarFloat( "f_fog_sun_shading_factor", 0.43060722947120667000 )
+VarFloat( "f_fog_sky_shading_scale", 0.96780979633331299000 )
+VarFloat( "f_fog_near", 0.00000000000000000000 )
+VarFloat( "f_fog_far", 1030607.37500000000000000000 )
+

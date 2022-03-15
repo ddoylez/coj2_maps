@@ -1,0 +1,256 @@
+GameModeTeamWanted001:8307147@[GameModeTeamWanted]
+	[aOnPlayerKilledBLUE:0] actnet_AddTeamPoints002:8307149@[actnet_AddTeamPoints]
+		eTeam	=	RED
+		sValue	=	1
+	[aOnPlayerKilledRED:0] actnet_AddTeamPoints001:8307148@[actnet_AddTeamPoints]
+		eTeam	=	BLUE
+		sValue	=	1
+	nRoundsResultLimit	=	10
+spawnArea003:8307150@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue014:8307151@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue015:8307179@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue016:8307163@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue011:8307177@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue012:8307178@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue013:8307167@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea007:8307175@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea002:8307171@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawn_blue014:8307151@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue018:8307152@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue026:8307153@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue023:8307154@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue027:8307155@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue020:8307156@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue021:8307157@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue029:8307158@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue025:8307159@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue024:8307160@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawnArea001:8307161@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue023:8307154@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue024:8307160@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue025:8307159@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue026:8307153@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue027:8307155@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue028:8307165@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea002:8307171@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea007:8307175@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawnArea004:8307162@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue038:8307188@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue039:8307185@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue040:8307194@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue037:8307192@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue036:8307191@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue035:8307176@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea007:8307175@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea005:8307181@[SpawnArea]
+	[m_SpawnAttackersAt:1] spawnArea006:8307180@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawn_blue016:8307163@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue019:8307164@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue028:8307165@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue022:8307166@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue013:8307167@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue031:8307168@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue034:8307169@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue017:8307170@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawnArea002:8307171@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue020:8307156@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue019:8307164@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue018:8307152@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue017:8307170@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue021:8307157@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue022:8307166@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea003:8307150@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea007:8307175@[SpawnArea]
+	[m_SpawnAttackersAt:1] spawnArea001:8307161@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawn_blue030:8307172@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue032:8307173@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue033:8307174@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawnArea007:8307175@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue034:8307169@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue033:8307174@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue032:8307173@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue031:8307168@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue030:8307172@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue029:8307158@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea001:8307161@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea002:8307171@[SpawnArea]
+	[m_SpawnAttackersAt:1] spawnArea003:8307150@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawn_blue035:8307176@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue011:8307177@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue012:8307178@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue015:8307179@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawnArea006:8307180@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue050:8307196@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue051:8307182@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue052:8307187@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue047:8307195@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue048:8307189@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue049:8307186@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea005:8307181@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea004:8307162@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawnArea005:8307181@[SpawnArea]
+	[m_SpawnPoints:0] spawn_blue041:8307197@[SpawnPoint]
+	[m_SpawnPoints:1] spawn_blue042:8307193@[SpawnPoint]
+	[m_SpawnPoints:2] spawn_blue043:8307198@[SpawnPoint]
+	[m_SpawnPoints:3] spawn_blue044:8307190@[SpawnPoint]
+	[m_SpawnPoints:4] spawn_blue045:8307183@[SpawnPoint]
+	[m_SpawnPoints:5] spawn_blue046:8307184@[SpawnPoint]
+	[m_SpawnDefendersAt:0] spawnArea007:8307175@[SpawnArea]
+	[m_SpawnAttackersAt:0] spawnArea006:8307180@[SpawnArea]
+	MeshName	=	dot.msh
+	SkinName	=	Default
+spawn_blue051:8307182@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue045:8307183@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue046:8307184@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue039:8307185@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue049:8307186@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue052:8307187@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue038:8307188@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue048:8307189@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue044:8307190@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue036:8307191@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue037:8307192@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue042:8307193@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue040:8307194@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue047:8307195@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue050:8307196@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue041:8307197@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue043:8307198@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default

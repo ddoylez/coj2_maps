@@ -1,0 +1,30 @@
+!String(s,s)
+
+String("Red_Name", "Red_Team!" )
+String("Blue_Name", "Blue_Team!" )
+
+
+String( "Enclosure_MP_Mode", "Capture tábor" )
+String( "Enclosure_MP_Mode_info", "Hájit své tábor a zachytit neprátel tábora" )
+
+String( "Enclosure_Message_Red", "modrý tým zachycuje svuj tábor!" )
+String( "Enclosure_blocked_Message_Red", "nelze snímat modré tábor, zatímco váš tábor je napaden." )
+String( "Enclosure_captured_Message_Red", "Vaše tábor je zachycen." )
+String( "Enclosure_capture_Red", "Capture modrý tábor!" )
+String( "Enclosure_protect_Red", "Chrante svuj tábor!" )
+String( "Enclosure_percent_Red", "Cervený tým zajali 30%" )
+String( "Enclosure_percent2_Red", "Cervený tým zajali 60%" )
+String( "Enclosure_percent3_Red", "cervený tým zachytil 100%" )
+
+String( "Enclosure_Message_Blue", "Cervený tým se zachytit svuj tábor!" )
+String( "Enclosure_blocked_Message_Blue", "nelze snímat cervenou tábor, zatímco váš tábor je napaden." )
+String( "Enclosure_captured_Message_Blue", "Vaše tábor je zachycen." )
+String( "Enclosure_capture_Blue", "Capture the cervený tábor!" )
+String( "Enclosure_protect_Blue", "Chrante svuj tábor!" )
+String( "Enclosure_percent_Blue", "modrý tým zajali 30%" )
+String( "Enclosure_percent2_Blue", "modrý tým zajali 60%" )
+String( "Enclosure_percent3_Blue", "Modrá tým zachytil 100%" )
+
+String( "The End", "End" )
+String( "credits", "Dekujeme všem Call of Juarez komunity!" )
+String( "credits2", "Díky Gazitron a Seir-Techland personální, Meloun-mikethemelon-, coj2-ELITE-Team, a tak dále ..." )

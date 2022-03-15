@@ -1,0 +1,30 @@
+!String(s,s)
+
+String("Red_Name", "Red_Team!" )
+String("Blue_Name", "Blue_Team!" )
+
+
+String( "Enclosure_MP_Mode", "Capture the obóz" )
+String( "Enclosure_MP_Mode_info", "Obron swój obóz i uchwycic obóz przeciwników" )
+
+String( "Enclosure_Message_Red", "Niebieski zespól jest przechwytywanie obóz!" )
+String( "Enclosure_blocked_Message_Red", "Nie mozna uchwycic niebieski obóz w czasie, gdy obóz zostanie zaatakowany." )
+String( "Enclosure_captured_Message_Red", "Twój obóz zostaje schwytany." )
+String( "Enclosure_capture_Red", "Capture the niebieski obóz!" )
+String( "Enclosure_protect_Red", "Chron swój obóz!" )
+String( "Enclosure_percent_Red", "Red zespól zdobyl 30%" )
+String( "Enclosure_percent2_Red", "Red zespól zdobyl 60%" )
+String( "Enclosure_percent3_Red", "Red zespól zdobyl 100%" )
+
+String( "Enclosure_Message_Blue", "zespól Red jest przechwytywanie obóz!" )
+String( "Enclosure_blocked_Message_Blue", "Nie mozna przechwycic czerwony obóz w czasie, gdy obóz zostanie zaatakowany." )
+String( "Enclosure_captured_Message_Blue", "Twój obóz zostaje schwytany." )
+String( "Enclosure_capture_Blue", "Capture the red obóz!" )
+String( "Enclosure_protect_Blue", "Chron swój obóz!" )
+String( "Enclosure_percent_Blue", "Niebieski zespól zdobyl 30%" )
+String( "Enclosure_percent2_Blue", "zespól Niebieski zdobyli 60%" )
+String( "Enclosure_percent3_Blue", "zespól Niebieski zdobyli 100%" )
+
+String( "The End", "Koniec" )
+String( "credits", "Dziekuje wszystkim Call of Juarez spolecznosci!" )
+String( "credits2", "Dzieki Gazitron i Seir-Techland personel, Melon-mikethemelon-, coj2-ELITE-Team, i tak dalej ..." )

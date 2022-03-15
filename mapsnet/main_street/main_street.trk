@@ -1,0 +1,90 @@
+!include("Track.def")
+
+MapId(_MP_MAP_CUSTOM23)
+
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/main_street/deathmatch.eds")
+	MapTitle("Main Street")
+	SaveName("Main Street")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("Data/MapsNet/main_street/sounds/main_street.ogg")
+	InGameMap("main_street_map.dds",1248,1248,1248,1248,15000,15000)
+
+
+  	LoadingArtworks(1, 1, 0)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+        Objects("Data/MapsNet/main_street/teamdeathmatch.eds")
+	MapTitle("Main Street")
+	SaveName("Main Street")
+        ModeName("&MP_TeamDeathmatch_Name&")
+        ModeInfo("&MP_TeamDeathmatch_DescS&")
+	DescriptionMusic("Data/MapsNet/main_street/sounds/main_street.ogg")
+	InGameMap("main_street_map.dds",1248,1248,1248,1248,15000,15000)
+
+  	LoadingArtworks(1, 1, 0)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("wanted")
+{
+        Objects("Data/MapsNet/main_street/wanted.eds")
+	MapTitle("Main Street")
+	SaveName("Main Street")
+        ModeName("&MP_Wanted_Name&")
+        ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("Data/MapsNet/main_street/sounds/main_street.ogg")
+	InGameMap("main_street_map.dds",1248,1248,1248,1248,15000,15000)
+
+  	LoadingArtworks(1, 1, 0)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+
+Group("teamwanted")
+{
+        Objects("Data/MapsNet/main_street/teamwanted.eds")
+	MapTitle("Main Street")
+	SaveName("Main Street")
+        ModeName("&MP_TeamWanted_Name&")
+        ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("Data/MapsNet/main_street/sounds/main_street.ogg")
+	InGameMap("main_street_map.dds",1248,1248,1248,1248,15000,15000)
+
+  	LoadingArtworks(1, 1, 0)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+
+}

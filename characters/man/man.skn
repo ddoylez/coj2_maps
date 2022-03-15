@@ -1,0 +1,91 @@
+Skin("Default")
+{
+	!include("man_surfaces.skt")
+}
+
+// ======================== Includes separate skin groups ========================
+!include("man_thomas.skn")
+!include("man_ray.skn")
+!include("man_william.skn")
+!include("man_barnsby.skn")
+!include("man_chcaracters.skn")
+
+!include("man_rebels.skn")
+!include("man_army.skn")
+!include("man_civilians.skn")
+!include("man_pinkertons.skn")
+!include("man_proffesionals.skn")
+!include("man_arizona_bandits.skn")
+!include("man_mexican_bandits.skn")
+!include("man_comanche.skn")
+!include("man_apache.skn")
+!include("man_peasants.skn")
+!include("man_navaho.skn")
+
+// ======================== General skin ========================
+Skin("hideall")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_hideall.skt")
+	!include("man_pants_hideall.skt")
+	!include("man_torso_hideall.skt")
+	!include("man_hands_hideall.skt")
+	!include("man_head_hideall.skt")
+	!include("man_accessories_hideall.skt")
+
+//  Color i ColorI mozna zamiennie uzywac, zalezy, czy chcesz podawac w [0,255] albo [0,1]
+//  Pierwszy parametr to numer koloru. Mozna uzywac 0, 2 lub 3.
+	
+//  ColorPreset("nazwa_presetu")
+//  {
+//     Color(0, [1.0, 1.0, 1.0])
+//     ColorI(2, 255, 255, 255)
+//  }
+}
+// ============================================= 
+
+
+
+
+
+
+
+
+
+
+// ============================================= 
+// ----------------------------------- 
+/*
+Skin("default_highlight")
+{
+	FilterInEditor()
+
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_a.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_a.skt")
+	!include("man_belt_a.skt")
+	!include("man_highlight.skt")
+}
+
+Skin("default_marked")
+{
+	FilterInEditor()
+
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_a.skt")
+	!include("man_pants_a.skt")
+	!include("man_torso_a.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_a.skt")
+	!include("man_belt_a.skt")
+	!include("man_marked.skt")
+}
+*/
+// -------------------------------------
+

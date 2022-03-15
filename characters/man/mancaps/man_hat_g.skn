@@ -1,0 +1,27 @@
+Skin("Default")
+{
+    Replace("man_hat_g.mat", "man_hat_g.mat")
+
+//    ReplaceSurface(<old surface id>, <new surface id>, <surface flags>)
+    ReplaceSurface("Unknown", "Flexible", "")
+}
+
+/*
+Skin("Default_highlight")
+{
+	FilterInEditor()
+    Replace("man_hat_g.mat", "man_hat_g_hl.mat")
+
+//    ReplaceSurface(<old surface id>, <new surface id>, <surface flags>)
+    ReplaceSurface("Unknown", "Flexible", "")
+}
+
+Skin("Default_marked")
+{
+	FilterInEditor()
+    Replace("man_hat_g.mat", "man_hat_g_mrk.mat")
+
+//    ReplaceSurface(<old surface id>, <new surface id>, <surface flags>)
+    ReplaceSurface("Unknown", "Flexible", "")
+}
+*/

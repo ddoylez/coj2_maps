@@ -1,0 +1,81 @@
+!include("Track.def")
+MapId(_MP_MAP_CUSTOM9)
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Dedham/deathmatch.eds")
+	MapTitle("Dedham")
+	SaveName("Dedham")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Dedham_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Dedham/teamdeathmatch.eds")
+	MapTitle("Dedham")
+	SaveName("Dedham")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Dedham_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Dedham/wanted.eds")
+	MapTitle("Dedham")
+	SaveName("Dedham")
+	ModeName("&MP_Wanted_Name&")
+	ModeInfo("&MP_Wanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Dedham_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(5, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout3.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout2.dds","ow_map_loading.dds",375,155,1)
+		MPObjectiveDesc(5, 1, "","","ow_Shootout3.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Dedham/teamwanted.eds")
+	MapTitle("Dedham")
+	SaveName("Dedham")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Dedham_map.dds",1248,1248,1248,1248,15000,15000)
+	
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(35, 1, "%HINT_MP","","ow_Shootout1.dds","ow_map_loading.dds",375,155,1)
+	}
+}
+

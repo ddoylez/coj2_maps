@@ -1,0 +1,10 @@
+import "fx.mtt"
+
+sub material()
+{
+    use mtt_fx(
+        e_blend_mode = e_bm_lerp,
+        s_clr = "hot_air.dds",
+        s_tech = s_tech_bdf
+    );
+}

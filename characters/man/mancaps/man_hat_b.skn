@@ -1,0 +1,22 @@
+!include("surface.def")
+
+Skin("Default")
+{
+	ReplaceSurface("Unknown", "Flexible", "")
+}
+
+/*
+Skin("Default_highlight")
+{
+	FilterInEditor()
+    Replace("man_hat_b.mat", "man_hat_b_hl.mat")
+ 	ReplaceSurface("Unknown", "Flexible", "")
+}
+
+Skin("Default_marked")
+{
+	FilterInEditor()
+    Replace("man_hat_b.mat", "man_hat_b_mrk.mat")
+ 	ReplaceSurface("Unknown", "Flexible", "")
+}
+*/

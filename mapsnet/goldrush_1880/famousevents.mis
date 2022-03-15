@@ -1,0 +1,492 @@
+ac_1obj001:14113297@[ActionChain]
+	[aChain:0] 001:14113305@[actnet_SetRoundTime]
+		m_NewTime	=	120.000000
+		m_AddMode	=	1
+	[aChain:1] 031:14113341@[act_Appear]
+		[cTarget] chest_1obj001:14113387@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:2] 030:14113321@[actnet_Objective]
+		[cTarget] obj_1_B001:14113298@[NetObjective]
+		eState	=	Failed
+	[aChain:3] 029:14113296@[actnet_Objective]
+		[cTarget] obj_1_R001:14113299@[NetObjective]
+		eState	=	Accomplished
+	[aChain:4] 028:14113325@[act_EnableDisable]
+		[aTargets:0] obj_2_B001:14113319@[NetObjective]
+		[aTargets:1] obj_2_R001:14113320@[NetObjective]
+	[aChain:5] 027:14113316@[act_EnableDisable]
+		[aTargets:0] spawn_1obj_R_008:14113308@[SpawnPoint]
+		[aTargets:1] spawn_1obj_R_006:14113394@[SpawnPoint]
+		[aTargets:2] spawn_1obj_R_007:14113395@[SpawnPoint]
+		[aTargets:3] spawn_1obj_R_004:14113352@[SpawnPoint]
+		[aTargets:4] spawn_1obj_R_005:14113364@[SpawnPoint]
+		[aTargets:5] spawn_1obj_R_003:14113378@[SpawnPoint]
+		[aTargets:6] spawn_1obj_R_002:14113360@[SpawnPoint]
+		[aTargets:7] spawn_1obj_R_001:14113385@[SpawnPoint]
+		[aTargets:8] spawn_1obj_B_008:14113376@[SpawnPoint]
+		[aTargets:9] spawn_1obj_B_007:14113370@[SpawnPoint]
+		[aTargets:10] spawn_1obj_B_005:14113353@[SpawnPoint]
+		[aTargets:11] spawn_1obj_B_006:14113304@[SpawnPoint]
+		[aTargets:12] spawn_1obj_B_004:14113358@[SpawnPoint]
+		[aTargets:13] spawn_1obj_B_003:14113362@[SpawnPoint]
+		[aTargets:14] spawn_1obj_B_002:14113365@[SpawnPoint]
+		[aTargets:15] spawn_1obj_B_001:14113366@[SpawnPoint]
+		cType	=	_DISABLE
+	[aChain:6] 026:14113317@[act_EnableDisable]
+		[aTargets:0] spawn_2obj_B_001:14113355@[SpawnPoint]
+		[aTargets:1] spawn_2obj_B_002:14113393@[SpawnPoint]
+		[aTargets:2] spawn_2obj_B_003:14113309@[SpawnPoint]
+		[aTargets:3] spawn_2obj_B_004:14113347@[SpawnPoint]
+		[aTargets:4] spawn_2obj_B_005:14113357@[SpawnPoint]
+		[aTargets:5] spawn_2obj_B_006:14113377@[SpawnPoint]
+		[aTargets:6] spawn_2obj_B_007:14113379@[SpawnPoint]
+		[aTargets:7] spawn_2obj_B_008:14113373@[SpawnPoint]
+		[aTargets:8] spawn_2obj_R_001:14113396@[SpawnPoint]
+		[aTargets:9] spawn_2obj_R_002:14113386@[SpawnPoint]
+		[aTargets:10] spawn_2obj_R_003:14113388@[SpawnPoint]
+		[aTargets:11] spawn_2obj_R_004:14113356@[SpawnPoint]
+		[aTargets:12] spawn_2obj_R_005:14113389@[SpawnPoint]
+		[aTargets:13] spawn_2obj_R_006:14113369@[SpawnPoint]
+		[aTargets:14] spawn_2obj_R_007:14113354@[SpawnPoint]
+		[aTargets:15] spawn_2obj_R_008:14113374@[SpawnPoint]
+	[aChain:7] 025:14113318@[act_Wait]
+		fDelay	=	5.000000
+	[aChain:8] 024:14113337@[act_Appear]
+		[cTarget] dynamite_2obj001:14113368@[NetEventsExplodingObject]
+obj_1_B001:14113298@[NetObjective]
+	m_Team	=	BLUE
+	iObjectiveOrderNumber	=	10
+	sTextID	=	Defend the first objective.
+	sShortTextID	=	Defend the first objective.
+	[cLocation] loc_1obj_B001:14113343@[Location]
+obj_1_R001:14113299@[NetObjective]
+	m_Team	=	RED
+	sTextID	=	Attack the first objective.
+	sShortTextID	=	Attack the first objective.
+	[cLocation] loc_1obj_R001:14113306@[Location]
+spawn_1obj_B_006:14113304@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+loc_1obj_R001:14113306@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_1obj001:14113361@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+chest_2obj001:14113307@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+spawn_1obj_R_008:14113308@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_B_003:14113309@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+obj_3_B001:14113310@[NetObjective]
+	m_Team	=	BLUE
+	iObjectiveOrderNumber	=	12
+	sTextID	=	Defend the third objective.
+	sShortTextID	=	Defend the third objective.
+	[cLocation] loc_3obj_B001:14113372@[Location]
+	bEnableOnStart	=	0
+obj_3_R001:14113311@[NetObjective]
+	m_Team	=	RED
+	iObjectiveOrderNumber	=	2
+	sTextID	=	Attack the third objective.
+	sShortTextID	=	Attack the third objective.
+	[cLocation] loc_3obj_R001:14113359@[Location]
+	bEnableOnStart	=	0
+ac_3obj001:14113313@[ActionChain]
+	[aChain:0] 015:14113314@[act_Appear]
+		[cTarget] chest_3obj001:14113322@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:1] 014:14113315@[actnet_Objective]
+		[cTarget] obj_3_B001:14113310@[NetObjective]
+		eState	=	Failed
+	[aChain:2] 013:14113323@[actnet_Objective]
+		[cTarget] obj_3_R001:14113311@[NetObjective]
+		eState	=	Accomplished
+	[aChain:3] 012:14113324@[actnet_FinishRoundTeam]
+		eTeamWinner	=	RED
+obj_2_B001:14113319@[NetObjective]
+	m_Team	=	BLUE
+	iObjectiveOrderNumber	=	11
+	sTextID	=	Defend the second objective.
+	sShortTextID	=	Defend the second objective.
+	[cLocation] loc_2obj_B001:14113391@[Location]
+	bEnableOnStart	=	0
+obj_2_R001:14113320@[NetObjective]
+	m_Team	=	RED
+	iObjectiveOrderNumber	=	1
+	sTextID	=	Attack the second objective.
+	sShortTextID	=	Attack the second objective.
+	[cLocation] loc_2obj_R001:14113350@[Location]
+	bEnableOnStart	=	0
+chest_3obj001:14113322@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+GameModeEvents001:14113336@[GameModeEvents]
+	eWinnerWhenRoundTimePasses	=	BLUE
+	eScoreToDisplay	=	TEAM_SCORE
+	fRoundInterval	=	300.000000
+	m_NoTimeLimitFromMenu	=	1
+ac_2obj001:14113338@[ActionChain]
+	[aChain:0] 002:14113300@[actnet_SetRoundTime]
+		m_NewTime	=	120.000000
+		m_AddMode	=	1
+	[aChain:1] 023:14113301@[act_Appear]
+		[cTarget] chest_2obj001:14113307@[NetEventsObject]
+		cType	=	_DISAPPEAR
+	[aChain:2] 022:14113302@[actnet_Objective]
+		[cTarget] obj_2_B001:14113319@[NetObjective]
+		eState	=	Failed
+	[aChain:3] 021:14113303@[actnet_Objective]
+		[cTarget] obj_2_R001:14113320@[NetObjective]
+		eState	=	Accomplished
+	[aChain:4] 020:14113326@[act_EnableDisable]
+		[aTargets:0] obj_3_B001:14113310@[NetObjective]
+		[aTargets:1] obj_3_R001:14113311@[NetObjective]
+	[aChain:5] 019:14113327@[act_EnableDisable]
+		[aTargets:0] spawn_2obj_B_001:14113355@[SpawnPoint]
+		[aTargets:1] spawn_2obj_B_002:14113393@[SpawnPoint]
+		[aTargets:2] spawn_2obj_B_003:14113309@[SpawnPoint]
+		[aTargets:3] spawn_2obj_B_004:14113347@[SpawnPoint]
+		[aTargets:4] spawn_2obj_B_005:14113357@[SpawnPoint]
+		[aTargets:5] spawn_2obj_B_006:14113377@[SpawnPoint]
+		[aTargets:6] spawn_2obj_B_007:14113379@[SpawnPoint]
+		[aTargets:7] spawn_2obj_B_008:14113373@[SpawnPoint]
+		[aTargets:8] spawn_2obj_R_001:14113396@[SpawnPoint]
+		[aTargets:9] spawn_2obj_R_002:14113386@[SpawnPoint]
+		[aTargets:10] spawn_2obj_R_003:14113388@[SpawnPoint]
+		[aTargets:11] spawn_2obj_R_004:14113356@[SpawnPoint]
+		[aTargets:12] spawn_2obj_R_005:14113389@[SpawnPoint]
+		[aTargets:13] spawn_2obj_R_006:14113369@[SpawnPoint]
+		[aTargets:14] spawn_2obj_R_007:14113354@[SpawnPoint]
+		[aTargets:15] spawn_2obj_R_008:14113374@[SpawnPoint]
+		cType	=	_DISABLE
+	[aChain:6] 018:14113328@[act_EnableDisable]
+		[aTargets:0] spawn_3obj_B_001:14113348@[SpawnPoint]
+		[aTargets:1] spawn_3obj_B_003:14113371@[SpawnPoint]
+		[aTargets:2] spawn_3obj_B_002:14113375@[SpawnPoint]
+		[aTargets:3] spawn_3obj_B_004:14113363@[SpawnPoint]
+		[aTargets:4] spawn_3obj_B_005:14113392@[SpawnPoint]
+		[aTargets:5] spawn_3obj_B_006:14113390@[SpawnPoint]
+		[aTargets:6] spawn_3obj_B_007:14113346@[SpawnPoint]
+		[aTargets:7] spawn_3obj_R_001:14113345@[SpawnPoint]
+		[aTargets:8] spawn_3obj_B_008:14113344@[SpawnPoint]
+		[aTargets:9] spawn_3obj_R_002:14113349@[SpawnPoint]
+		[aTargets:10] spawn_3obj_R_003:14113351@[SpawnPoint]
+		[aTargets:11] spawn_3obj_R_004:14113382@[SpawnPoint]
+		[aTargets:12] spawn_3obj_R_005:14113380@[SpawnPoint]
+		[aTargets:13] spawn_3obj_R_006:14113381@[SpawnPoint]
+		[aTargets:14] spawn_3obj_R_007:14113383@[SpawnPoint]
+		[aTargets:15] spawn_3obj_R_008:14113384@[SpawnPoint]
+	[aChain:7] 017:14113329@[act_Wait]
+		fDelay	=	5.000000
+	[aChain:8] 016:14113312@[act_Appear]
+		[cTarget] dynamite_3obj001:14113367@[NetEventsExplodingObject]
+loc_1obj_B001:14113343@[Location]
+	sTipID	=	First Location
+	[cTrackedObject] dynamite_1obj001:14113361@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+spawn_3obj_B_008:14113344@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_R_001:14113345@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_B_007:14113346@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_004:14113347@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_001:14113348@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_R_002:14113349@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+loc_2obj_R001:14113350@[Location]
+	sTipID	=	Second Location
+	[cTrackedObject] dynamite_2obj001:14113368@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarSilver
+	m_3dMapMode	=	AlwaysVisible
+spawn_3obj_R_003:14113351@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_R_004:14113352@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_B_005:14113353@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_R_007:14113354@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_B_001:14113355@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_R_004:14113356@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_B_005:14113357@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_004:14113358@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+loc_3obj_R001:14113359@[Location]
+	sTipID	=	Third Location
+	[cTrackedObject] dynamite_3obj001:14113367@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	NetStarGolden
+	m_3dMapMode	=	AlwaysVisible
+spawn_1obj_R_002:14113360@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+dynamite_1obj001:14113361@[NetEventsExplodingObject]
+	[m_OnExplode:0] 011:14113342@[act_Run]
+		[cChain] ac_1obj001:14113297@[ActionChain]
+	[m_OnPlant:0] 010:14113339@[actnet_Objective]
+		[aTargets:0] loc_1obj_B001:14113343@[Location]
+		[aTargets:1] loc_1obj_R001:14113306@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 009:14113340@[actnet_Objective]
+		[aTargets:0] loc_1obj_B001:14113343@[Location]
+		[aTargets:1] loc_1obj_R001:14113306@[Location]
+	sReadyText	=	
+	m_Team	=	RED
+	MeshName	=	dynamite.msh
+	SkinName	=	Red
+spawn_1obj_B_003:14113362@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_004:14113363@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_005:14113364@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_B_002:14113365@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_001:14113366@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+dynamite_3obj001:14113367@[NetEventsExplodingObject]
+	[m_OnExplode:0] 005:14113330@[act_Run]
+		[cChain] ac_3obj001:14113313@[ActionChain]
+	[m_OnPlant:0] 004:14113331@[actnet_Objective]
+		[aTargets:0] loc_3obj_B001:14113372@[Location]
+		[aTargets:1] loc_3obj_R001:14113359@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 003:14113332@[actnet_Objective]
+		[aTargets:0] loc_3obj_B001:14113372@[Location]
+		[aTargets:1] loc_3obj_R001:14113359@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	RED
+	MeshName	=	dynamite.msh
+	SkinName	=	Red
+dynamite_2obj001:14113368@[NetEventsExplodingObject]
+	[m_OnExplode:0] 008:14113333@[act_Run]
+		[cChain] ac_2obj001:14113338@[ActionChain]
+	[m_OnPlant:0] 007:14113334@[actnet_Objective]
+		[aTargets:0] loc_2obj_B001:14113391@[Location]
+		[aTargets:1] loc_2obj_R001:14113350@[Location]
+		eState	=	InUse
+	[m_OnUnplant:0] 006:14113335@[actnet_Objective]
+		[aTargets:0] loc_2obj_B001:14113391@[Location]
+		[aTargets:1] loc_2obj_R001:14113350@[Location]
+	m_Visible	=	0
+	sReadyText	=	
+	m_Team	=	RED
+	MeshName	=	dynamite.msh
+	SkinName	=	Red
+spawn_2obj_R_006:14113369@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_B_007:14113370@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_B_003:14113371@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+loc_3obj_B001:14113372@[Location]
+	sTipID	=	Third Location
+	[cTrackedObject] dynamite_3obj001:14113367@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+spawn_2obj_B_008:14113373@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_R_008:14113374@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_B_002:14113375@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_B_008:14113376@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_006:14113377@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_003:14113378@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_B_007:14113379@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_3obj_R_005:14113380@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_006:14113381@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_004:14113382@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_007:14113383@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_R_008:14113384@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_R_001:14113385@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_002:14113386@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+chest_1obj001:14113387@[NetEventsObject]
+	ActiveElement	=	lid01
+	MeshName	=	chest_a.msh
+	SkinName	=	Default
+spawn_2obj_R_003:14113388@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_005:14113389@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_3obj_B_006:14113390@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+loc_2obj_B001:14113391@[Location]
+	sTipID	=	Second Location
+	[cTrackedObject] dynamite_2obj001:14113368@[NetEventsExplodingObject]
+	bTrackDynamic	=	1
+	m_TrackedPosYCorrection	=	15.000000
+	bEnableOnStart	=	0
+	eColor	=	Shield
+	m_3dMapMode	=	AlwaysVisible
+spawn_3obj_B_005:14113392@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_2obj_B_002:14113393@[SpawnPoint]
+	cTeam	=	BLUE
+	m_Enabled	=	0
+	MeshName	=	spawner.msh
+	SkinName	=	default
+spawn_1obj_R_006:14113394@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_1obj_R_007:14113395@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	fightnode.msh
+	SkinName	=	Default
+spawn_2obj_R_001:14113396@[SpawnPoint]
+	cTeam	=	RED
+	m_Enabled	=	0
+	MeshName	=	fightnode.msh
+	SkinName	=	Default

@@ -1,0 +1,12 @@
+!include("AmbientSounds.def")
+!AmbientVolume(fMasterVolume, fTrack00Volume, fTrack01Volume, fTrack02Volume)
+!AmbientSound(sId, sFileName, nTrack, nLoops, fVolume, fFadeIn, fFadeOut) // note - you can use tracks numbers from 0 to 2
+
+//do not remove lines above
+
+
+//test values below
+AmbientVolume(1, 1, 1, 1)
+
+AmbientSound("Ghost_Town_ambient_01", COJ2_Ghost_Town_01_Wolfs, 0, -1, 1, 2, 5)
+AmbientSound("Ghost_Town_ambient_02", COJ2_Ghost_Town_02_Cemetery, 1, -1, 1, 3, 5)

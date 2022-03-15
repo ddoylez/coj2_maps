@@ -1,0 +1,20 @@
+!include("surface.def") 
+
+Skin("Default")
+{
+    ReplaceSurface("Unknown", "Flesh", "")
+}
+
+/*
+Skin("Default_Marked")
+{
+    Replace("vulture.mat", "vulture_mrk.mat")
+    ReplaceSurface("Unknown", "Flesh", "")
+}
+
+Skin("Default_Highlight ")
+{
+    Replace("vulture.mat", "vulture_hl.mat")
+    ReplaceSurface("Unknown", "Flesh", "")
+}
+*/

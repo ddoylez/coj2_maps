@@ -1,0 +1,1092 @@
+// ======================== MexicanA ========================
+Skin("MexicanA")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_e.skt")
+	!include("man_belt_b.skt")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 188, 206, 211)
+       ColorI(2, 211, 216, 209)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanA_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_e.skt")
+	!include("man_belt_b.skt")
+	!include("man_player.skt")	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanA_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_belt_b.skt")
+	!include("man_highlight.skt")
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("MexicanA_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_belt_b.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanA_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_belt_b.skt")
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanB ========================
+Skin("MexicanB")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_torso_e.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_h.skt")
+	!include("man_belt_b.skt")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 188, 206, 211)
+       ColorI(2, 211, 216, 209)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanB_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_h.skt")
+	!include("man_belt_b.skt")
+	!include("man_player.skt")	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanB_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_belt_b.skt")
+	!include("man_highlight.skt")
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("MexicanB_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_belt_b.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanB_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_belt_b.skt")
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanC ========================
+Skin("MexicanC")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_n.skt")
+	!include("man_belt_b.skt")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 188, 206, 211)
+       ColorI(2, 211, 216, 209)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanC_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_n.skt")
+	!include("man_belt_b.skt")
+	!include("man_player.skt")	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanC_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_belt_b.skt")
+	!include("man_highlight.skt")
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("MexicanC_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_belt_b.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanC_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_e.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_belt_b.skt")
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanD ========================
+Skin("MexicanD")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_shawl_e.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 188, 206, 211)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanD_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_shawl_e.skt")
+	!include("man_player.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanD_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_shawl_e.skt")
+	!include("man_highlight.skt")
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	Hide("HolsterL")
+}
+Skin("MexicanD_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_shawl_e.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanD_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_shawl_e.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanE ========================
+Skin("MexicanE")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	!include("man_head_h.skt")
+	!include("man_shawl_e.skt")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 188, 206, 211)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanE_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_shawl_e.skt")
+	!include("man_player.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanE_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_shawl_e.skt")
+	!include("man_highlight.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+
+	
+	Hide("HolsterL")
+}
+Skin("MexicanE_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_shawl_e.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanE_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_shawl_e.skt")
+
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanF ========================
+Skin("MexicanF")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_shawl_e.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 188, 206, 211)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanF_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_shawl_e.skt")
+	!include("man_player.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanF_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_shawl_e.skt")
+	!include("man_highlight.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+
+	
+	Hide("HolsterL")
+}
+Skin("MexicanF_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_shawl_e.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	
+}
+*/
+Skin("MexicanF_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_e.skt")
+	!include("man_pants_e.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_shawl_e.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanG ========================
+Skin("MexicanG")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_rag_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 188, 206, 211)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanG_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_rag_a.skt")
+	!include("man_player.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanG_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_rag_a.skt")
+	!include("man_highlight.skt")
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+	Hide("HolsterL")
+}
+Skin("MexicanG_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_rag_a.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanG_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_e.skt")
+	!include("man_rag_a.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanH ========================
+Skin("MexicanH")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_rag_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 188, 206, 211)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanH_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_rag_a.skt")
+	!include("man_player.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanH_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_rag_a.skt")
+	!include("man_highlight.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+
+	
+	Hide("HolsterL")
+}
+Skin("MexicanH_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_rag_a.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanH_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_h.skt")
+	!include("man_rag_a.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}
+
+// ======================== MexicanI ========================
+Skin("MexicanI")
+{
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_rag_a.skt")
+	Replace("man_hands_a.mat", "man_hands_a2.mat")
+	
+	Hide("HolsterL")
+
+    ColorPreset("color_1")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 30, 38, 53)
+       ColorI(3, 136, 197, 225)
+    }
+    ColorPreset("color_2")
+    {
+       ColorI(0, 49, 51, 68)
+       ColorI(2, 121, 67, 34)
+       ColorI(3, 49, 51, 68)
+    }
+    ColorPreset("color_3")
+    {
+       ColorI(0, 154, 131, 82)
+       ColorI(2, 23, 10, 0)
+       ColorI(3, 203, 216, 218)
+    }
+    ColorPreset("color_4")
+    {
+       ColorI(0, 255, 255, 255)
+       ColorI(2, 188, 206, 211)
+       ColorI(3, 77, 45, 45)
+    }
+    ColorPreset("color_5")
+    {
+       ColorI(0, 49, 30, 30)
+       ColorI(2, 71, 11, 10)
+       ColorI(3, 16, 27, 17)
+    }
+    ColorPreset("color_6")
+    {
+       ColorI(0, 27, 27, 24)
+       ColorI(2, 46, 56, 63)
+       ColorI(3, 162, 97, 49)
+    }
+}
+Skin("MexicanI_player")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_rag_a.skt")
+	!include("man_player.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2.mat")	
+	
+	
+	
+	Hide("HolsterL")
+}
+/*
+Skin("MexicanI_highlight")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_rag_a.skt")
+	!include("man_highlight.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_hl.mat")
+	
+
+	
+	Hide("HolsterL")
+}
+Skin("MexicanI_marked")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_rag_a.skt")
+	!include("man_marked.skt")	
+	Replace("man_hands_a.mat", "man_hands_a2_mrk.mat")
+	
+	
+	
+	Hide("HolsterL")
+}
+*/
+Skin("MexicanI_null")
+{
+	FilterInEditor()
+	!include("man_surfaces.skt")
+	!include("man_disable_anims_on_lod.skt")
+	!include("man_shoes_g.skt")
+	!include("man_pants_h.skt")
+	!include("man_torso_g.skt")
+	!include("man_hands_a.skt")
+	!include("man_head_n.skt")
+	!include("man_rag_a.skt")
+	
+	!include("man_null.skt")	
+	
+	Hide("HolsterL")
+}

@@ -1,0 +1,160 @@
+GameModeWanted001:8307047@[GameModeDM]
+	[m_OnLevelStart_NonNetworkActions:0] 040:8307046@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:1] 001:8307044@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:2] 002:8307045@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:3] 003:8307070@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:4] 004:8307051@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:5] 005:8307068@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:6] 006:8307052@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:7] 007:8307062@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:8] 008:8307050@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:9] 009:8307063@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:10] 010:8307060@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:11] 011:8307054@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:12] 012:8307053@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:13] 013:8307055@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:14] 014:8307069@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:15] 015:8307066@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:16] 016:8307048@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:17] 017:8307049@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:18] 018:8307056@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:19] 019:8307061@[act_Appear]
+		cType	=	_DISAPPEAR
+		fDelay	=	0.000000
+		bDelayWaits	=	0
+	[m_OnLevelStart_NonNetworkActions:20] 020:8307057@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:21] 021:8307058@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:22] 022:8307059@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:23] 023:8307064@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:24] 024:8307065@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:25] 025:8307067@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:26] 026:8307083@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:27] 027:8307076@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:28] 028:8307071@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:29] 029:8307080@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:30] 030:8307081@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:31] 031:8307074@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:32] 032:8307075@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:33] 033:8307077@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:34] 034:8307078@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:35] 035:8307084@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:36] 036:8307079@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:37] 037:8307082@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:38] 038:8307072@[act_Appear]
+		cType	=	_DISAPPEAR
+	[m_OnLevelStart_NonNetworkActions:39] 039:8307073@[act_Appear]
+		cType	=	_DISAPPEAR
+	m_RespawnTime	=	3.000000
+spawn_blue001:8307085@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue003:8307086@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue004:8307087@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue005:8307088@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue008:8307089@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue009:8307090@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue002:8307091@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue007:8307092@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue010:8307093@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default
+spawn_blue006:8307094@[SpawnPoint]
+	cTeam	=	NONE
+	MeshName	=	data/interface/spawner.msh
+	SkinName	=	default

@@ -1,0 +1,67 @@
+GameModeWanted001:14147021@[GameModeSkirmish]
+	[aOnDeathLimitOutBLUE:0] 003:14147024@[actnet_FinishRoundTeam]
+		eTeamWinner	=	RED
+	[aOnDeathLimitOutRED:0] 006:14147022@[actnet_FinishRoundTeam]
+		eTeamWinner	=	BLUE
+	eWarnTeam	=	BLUE
+	[aOnPlayerKilledBLUE:0] 004:14147019@[actnet_AddTeamPoints]
+		eTeam	=	RED
+		sValue	=	1
+	[aOnPlayerKilledRED:0] 005:14147025@[actnet_AddTeamPoints]
+		eTeam	=	BLUE
+		sValue	=	1
+	[aOnPlayerSuicideBLUE:0] 001:14147020@[actnet_AddTeamPoints]
+		eTeam	=	RED
+		sValue	=	1
+	[aOnPlayerSuicideRED:0] 002:14147023@[actnet_AddTeamPoints]
+		eTeam	=	BLUE
+		sValue	=	1
+	nRoundsResultLimit	=	5
+SpawnPoint002:14147026@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint007:14147027@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint008:14147028@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint005:14147029@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint004:14147030@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint009:14147031@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint003:14147032@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint006:14147033@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint011:14147034@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint010:14147035@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint012:14147036@[SpawnPoint]
+	cTeam	=	BLUE
+	MeshName	=	spawner.msh
+	SkinName	=	Default
+SpawnPoint001:14147037@[SpawnPoint]
+	cTeam	=	RED
+	MeshName	=	spawner.msh
+	SkinName	=	Default

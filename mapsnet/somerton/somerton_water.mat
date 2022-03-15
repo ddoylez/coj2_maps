@@ -1,0 +1,61 @@
+import "liquid.mtt"
+
+sub material()
+{
+    extern float TIME;
+
+    float f_wave_0_scale = 0.125;
+    float f_wave_1_scale = 5.0;
+	mtx m_nrm_0_xfm = translate(-0.01 * TIME, -0.035 * TIME, 0.0) * rotate(0.0, 0.0,  30.0) * scale(f_wave_0_scale, f_wave_0_scale, 1.0);
+	mtx m_nrm_1_xfm = translate( 0.01 * TIME, -0.030 * TIME, 0.0) * rotate(0.0, 0.0, -30.0) * scale(f_wave_0_scale * 1.13, f_wave_0_scale * 1.13, 1.0);
+	mtx m_nrm_2_xfm = translate(-0.1  * TIME, -0.55 * TIME, 0.0) * rotate(0.0, 0.0, 55.0) * scale(f_wave_1_scale, f_wave_1_scale, 1.0);
+	mtx m_nrm_3_xfm = translate( 0.1  * TIME, -0.51  * TIME, 0.0) * rotate(0.0, 0.0, 20.0) * scale(f_wave_1_scale * 1.13, f_wave_1_scale * 1.13, 1.0);
+
+    extern string s_water_cubemap;
+    
+    use mtt_liquid(
+        e_opq_order = or_seetrough_1,
+        e_nrm_order = 2,
+        e_trn_order = 2,
+        e_bdf_order = 2,
+
+        f_blend_distance = 16.0,
+
+        f_blur_distance = 175.0,
+        f_blur_falloff = 5000.0,
+        f_blur_falloff_shift = 500.0,
+        f_blur_fresnel_power = 1.0,
+        f_blur_strength = 1.0,
+
+        v_deep_color = [0.3, 0.289, 0.18],
+        f_deep_distance = 500.0,
+
+        f_deform_distance = 100.0,
+        f_deform_falloff = 2500.0,
+        f_deform_strength = 0.25,
+
+        s_env = s_water_cubemap,
+        f_env_fresnel_bias = -0.1,
+        f_env_fresnel_scale = 2.8,
+        f_env_fresnel_power = 4.0,
+
+        v_liquid_clr = [0.95, 0.95, 0.95, 0.0],
+
+        e_shadows = e_shadows_pp_simple,
+
+        s_nrm_0 = "water_waves_n.dds",
+        f_nrm_0_scale = 1.0,
+        m_nrm_0_xfm = m_nrm_0_xfm,
+        s_nrm_1 = "water_waves_n.dds",
+        f_nrm_1_scale = 1.0,
+        m_nrm_1_xfm = m_nrm_1_xfm,
+        s_nrm_2 = "water_waves_n.dds",
+        f_nrm_2_scale = 0.5,
+        m_nrm_2_xfm = m_nrm_2_xfm,
+        s_nrm_3 = "water_waves_n.dds",
+        f_nrm_3_scale = 0.5,
+        m_nrm_3_xfm = m_nrm_3_xfm,
+
+        f_spc_power = 555.0
+    );
+}

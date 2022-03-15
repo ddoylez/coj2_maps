@@ -1,0 +1,41 @@
+import "terrain_somerton.mtt"
+
+sub material()
+{
+    use mtt(
+//       f_border_min = f_border_min,
+//       f_border_max = f_border_max,
+        s_clr_0 = s_clr_0,
+        s_clr_a = s_clr_a,
+        s_clr_g = s_clr_g,
+//        s_clr_c = s_clr_c,
+//        s_clr_c_srf = s_clr_c_srf,
+        s_clr_lod = s_clr_lod,
+        s_msk = s_msk,
+        s_nrm = s_nrm,
+        s_nrm_0 = s_nrm_0,
+        s_nrm_a = s_nrm_a,
+        s_nrm_g = s_nrm_g,
+//        s_nrm_c = s_nrm_c,
+//        s_nrm_c_srf = s_nrm_c_srf,
+        f_nrm_0_scale = f_nrm_0_scale,
+        f_nrm_a_scale = f_nrm_a_scale,
+        f_nrm_g_scale = f_nrm_g_scale,
+//        f_nrm_c_scale = f_nrm_c_scale,
+//        f_nrm_c_srf_scale = f_nrm_c_srf_scale,
+        s_shn_0 = s_shn_0,
+        s_shn_a = s_shn_a,
+        s_shn_g = s_shn_g,
+//        s_shn_c = s_shn_c,
+//        s_shn_c_srf = s_shn_c_srf,
+        f_shn_0_factor = f_shn_0_factor,
+        f_shn_a_factor = f_shn_a_factor,
+        f_shn_g_factor = f_shn_g_factor,
+//        f_shn_c_factor = f_shn_c_factor,
+//        f_shn_c_shn_factor = f_shn_c_shn_factor,
+        e_type = e_type_terrain,
+        f_uv_clf_scale = f_uv_clf_scale,
+        f_uv_det_scale = f_uv_det_scale,
+        f_uv_srf_scale = f_uv_srf_scale
+    );
+}

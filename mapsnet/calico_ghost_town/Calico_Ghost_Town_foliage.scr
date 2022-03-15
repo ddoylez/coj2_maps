@@ -1,0 +1,109 @@
+TravelDistance(100)
+
+// BUSHES
+
+Layer()
+{
+  DensityMap("Calico_Ghost_Town_foliage_bush.dds")
+  DensityMapBits(2) 
+  GenerationRange(15000)
+  BlendRange(2000)
+  InstancesPerMeter(0.6)
+
+  Type()
+  {
+      Material("bush_arizona_a.mat")
+      Mesh("bush_arizona_foliage_a.MSH")
+      Priority(20)
+      AlignToTerrainNormal(1)
+      Scale(0.7,1.2)
+      MaxShadowMapIndex(-1)
+  }
+}
+
+// STONES
+
+Layer()
+{
+  DensityMap("Calico_Ghost_Town_foliage_stones.dds")
+  DensityMapBits(2) 
+  GenerationRange(10000)
+  BlendRange(1000)
+  InstancesPerMeter(0.25)
+
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_ac.MSH")
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.9,1.6)
+      MaxShadowMapIndex(-1)
+  }
+}
+
+// PLANTS
+
+Layer()
+{
+  DensityMap("Calico_Ghost_Town_foliage_plants.dds")
+  DensityMapBits(2) 
+  GenerationRange(8000)
+  BlendRange(500)
+  InstancesPerMeter(2.0)
+ 
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_ab.MSH")
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("rocks_foliage_a.mat")
+      Mesh("rocks_foliage_ad.MSH")
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }    
+  Type()
+  {
+      Material("stones_foliage_c.mat")
+      Mesh("stones_foliage_ca.MSH")
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_c.mat")
+      Mesh("stones_foliage_cb.MSH")
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_ba.MSH")
+      Priority(2)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_bb.MSH")
+      Priority(2)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(-1)
+  }
+}

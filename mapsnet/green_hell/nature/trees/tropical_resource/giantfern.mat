@@ -1,0 +1,16 @@
+import "templates.mtt"
+
+sub material()
+{
+    use mtt_objects(
+        s_clr = "GiantFern.dds",
+        s_nrm = "GiantFern_nrm.dds",
+        f_sss = 0.3,
+        f_shn_factor = 0.3,
+        b_tex_kill_on = TRUE,
+        e_tex_tile_u = CLAMP,
+        e_tex_tile_v = CLAMP,
+        b_wind_bend_on = TRUE,
+        f_wind_noise_scale = 0.1
+    );
+}

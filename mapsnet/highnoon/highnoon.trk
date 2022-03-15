@@ -1,0 +1,91 @@
+!include("Track.def")
+
+MapId(_MP_MAP_CUSTOM17)
+
+
+
+Group("teamdeathmatch")
+{
+	Objects("Data/MapsNet/Highnoon/teamdeathmatch.eds")
+	MapTitle("HighNoon")
+	SaveName("Highnoon")
+	ModeName("&MP_TeamDeathMatch_Name&")
+	ModeInfo("&MP_TeamDeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Highnoon_map.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading6.dds",0,0,1)
+	}
+}
+
+
+
+Group("deathmatch")
+{
+	Objects("Data/MapsNet/Highnoon/deathmatch.eds")
+	MapTitle("HighNoon")
+	SaveName("Highnoon")
+	ModeName("&MP_DeathMatch_Name&")
+	ModeInfo("&MP_DeathMatch_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Highnoon_map.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading6.dds",0,0,1)
+	}
+}
+
+Group("wanted")
+{
+	Objects("Data/MapsNet/Highnoon/wanted.eds")
+	MapTitle("HighNoon")
+	SaveName("Highnoon")
+	ModeName("&MP_MODE_Skirmish&")
+	ModeInfo("&MP_MAP_Skirmish_Info&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Highnoon_map.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading6.dds",0,0,1)
+	}
+}
+
+Group("teamwanted")
+{
+	Objects("Data/MapsNet/Highnoon/teamwanted.eds")
+	MapTitle("HighNoon")
+	SaveName("Highnoon")
+	ModeName("&MP_TeamWanted_Name&")
+	ModeInfo("&MP_TeamWanted_DescS&")
+	DescriptionMusic("COJ2_Battle_Hard_Attack.ogg")
+	InGameMap("Highnoon_map.dds",1248,1248,1248,1248,15000,15000)
+
+   	LoadingArtworks(1.6, 1, 14)
+	{
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading1.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading2.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading3.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading4.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading5.dds",0,0,1)
+		MPObjectiveDesc(8, 3, "%HINT_MP","","Highnoon_map.dds","Highnoon_loading6.dds",0,0,1)
+	}
+}

@@ -1,0 +1,245 @@
+TravelDistance(100)
+Layer() //////// roslinki i patyki //////
+{
+  DensityMap("Ghost_Town_foliage_plants.dds")
+  DensityMapBits(2) //dokladosc skali szarosci 1,2,4 lub 16 zalecane 2
+  GenerationRange(3500)
+  BlendRange(1000)
+  InstancesPerMeter(1.0)
+  Type()
+  {
+      Material("forest_foliage_fern_a.mat")
+      Mesh("forest_foliage_fern_a.MSH") ////paprotka
+      Priority(60)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(1)
+  }
+  Type()
+  {
+      Material("forest_foliage_fern_a.mat")
+      Mesh("forest_foliage_fern_b.MSH") ////paprotka
+      Priority(20)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(1)
+  } 
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_a.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_b.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_c.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_d.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_e.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_f.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_a.mat")
+      Mesh("forest_foliage_plant_g.MSH") ////roslinka pojedyncza
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_h.MSH") ////roslinka grupa
+      Priority(20)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(1)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_i.MSH") ////roslinka grupa
+      Priority(40)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(1)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_j.MSH") ////roslinka grupa
+      Priority(20)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(1)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_k.MSH") ////listki na ziemi
+      Priority(8)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_l.MSH") ////listki na ziemi
+      Priority(8)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_m.MSH") ////listki na ziemi
+      Priority(8)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_n.MSH") ////listki na ziemi geste
+      Priority(8)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_plants_b.mat")
+      Mesh("forest_foliage_plant_o.MSH") ////listki na ziemi geste
+      Priority(8)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(-1)
+  }
+    Type()
+  {
+      Material("forest_foliage_sticks_b.mat")
+      Mesh("forest_foliage_stick_ba.MSH") ////korzen
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("forest_foliage_sticks_b.mat")
+      Mesh("forest_foliage_stick_bb.MSH") ////korzen
+      Priority(10)
+      AlignToTerrainNormal(1)
+      Scale(0.8,1.2)
+      MaxShadowMapIndex(-1)
+  }
+
+}
+
+Layer() //////// kamyki //////
+{
+  DensityMap("Ghost_Town_foliage_stones.dds")
+  DensityMapBits(2) //dokladosc skali szarosci 1,2,4 lub 16 zalecane 2
+  GenerationRange(3000)
+  BlendRange(1000)
+  InstancesPerMeter(1.0)
+
+  Type()
+  {
+      Material("stones_foliage_a.mat")
+      Mesh("stones_foliage_ab.MSH") ////kamien pojedynczy
+      Priority(30)
+      AlignToTerrainNormal(1)
+      Scale(1.0,2.0)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("forest_foliage_stone_b.mat")
+      Mesh("forest_foliage_stone_b.MSH") ////kamien podwojny
+      Priority(30)
+      AlignToTerrainNormal(1)
+      Scale(1.0,1.2)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_a.mat")
+      Mesh("stones_foliage_aa.MSH") ////grupka kamieni
+      Priority(40)
+      AlignToTerrainNormal(1)
+      Scale(1.0,1.9)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_a.mat")
+      Mesh("stones_foliage_ab.MSH") ////kamien pojedynczy
+      Priority(30)
+      AlignToTerrainNormal(1)
+      Scale(1.0,2.0)
+      MaxShadowMapIndex(-1)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_ba.MSH") ////galazka
+      Priority(50)
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(0)
+  }
+  Type()
+  {
+      Material("stones_foliage_b.mat")
+      Mesh("stones_foliage_bb.MSH") ////galazka
+      Priority(50 )
+      AlignToTerrainNormal(1)
+      Scale(1.2,1.6)
+      MaxShadowMapIndex(0)
+  }
+}
